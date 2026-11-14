@@ -1,0 +1,146 @@
+[
+  {
+    "id": "m19-001",
+    "module": "m19",
+    "type": "mcq",
+    "question": "What is a true lateral radiograph?",
+    "options": [
+      "One where the receptor is parallel to the sagittal plane",
+      "One where the receptor is at an oblique angle",
+      "Two oblique laterals taken on one film",
+      "One where the receptor is in the occlusal plane"
+    ],
+    "answer": "A",
+    "explanation": "In a true lateral the image receptor is parallel to the sagittal plane, i.e. front-to-back."
+  },
+  {
+    "id": "m19-002",
+    "module": "m19",
+    "type": "mcq",
+    "question": "What is a bimolar radiograph?",
+    "options": [
+      "Two true laterals on one film",
+      "Two oblique laterals on one film",
+      "A lateral of both molar regions on CCD",
+      "A panoramic view of the molars only"
+    ],
+    "answer": "B",
+    "explanation": "A bimolar is two oblique laterals on one film."
+  },
+  {
+    "id": "m19-003",
+    "module": "m19",
+    "type": "tf",
+    "question": "In an oblique lateral radiograph, the image receptor is parallel to the sagittal plane.",
+    "answer": false,
+    "explanation": "In an oblique lateral the receptor is not parallel to the sagittal plane; it is at an oblique angle. Parallel is a true lateral."
+  },
+  {
+    "id": "m19-004",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Which is a clinical indication for an oblique lateral radiograph?",
+    "options": [
+      "Detecting calculi in the submandibular duct",
+      "Assessing the antral floor in adults",
+      "As an alternative to intra-oral views in children",
+      "Measuring the facial skeleton for orthodontics"
+    ],
+    "answer": "C",
+    "explanation": "Oblique laterals are used when intra-oral views are unobtainable, e.g. in children."
+  },
+  {
+    "id": "m19-005",
+    "module": "m19",
+    "type": "tf",
+    "question": "An oblique lateral radiograph can be used as a specific view of the mandibular condyle.",
+    "answer": true,
+    "explanation": "One clinical indication for an oblique lateral is as a specific view of the mandibular condyle."
+  },
+  {
+    "id": "m19-006",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Which unerupted teeth are oblique lateral radiographs particularly useful for assessing?",
+    "options": [
+      "Upper canines",
+      "Lower incisors",
+      "Supernumerary premolars",
+      "Wisdom teeth"
+    ],
+    "answer": "D",
+    "explanation": "Oblique laterals assess the presence and/or position of unerupted teeth, particularly wisdom teeth."
+  },
+  {
+    "id": "m19-007",
+    "module": "m19",
+    "type": "mcq",
+    "question": "When taking an oblique lateral of the right molars, where is the X-ray tubehead positioned?",
+    "options": [
+      "Below the ear and behind the ascending ramus",
+      "Below the chin in the midline",
+      "In front of the face at the nasion",
+      "Above the head, aiming down through the cheek"
+    ],
+    "answer": "A",
+    "explanation": "The tubehead is along the line of the occlusal plane, just below the ear and behind the ascending ramus."
+  },
+  {
+    "id": "m19-008",
+    "module": "m19",
+    "type": "mcq",
+    "question": "When taking an oblique lateral radiograph, the X-ray beam is aimed through which region?",
+    "options": [
+      "The external auditory meatus",
+      "The radiographic keyhole",
+      "The mental foramen",
+      "The maxillary antrum"
+    ],
+    "answer": "B",
+    "explanation": "The beam is aimed through the radiographic keyhole at the teeth of interest."
+  },
+  {
+    "id": "m19-009",
+    "module": "m19",
+    "type": "tf",
+    "question": "In the alternative oblique lateral technique, the X-ray tubehead is positioned beneath the lower border of the mandible on the opposite side, aiming slightly upwards.",
+    "answer": true,
+    "explanation": "In the alternative technique the cassette is parallel to the midline sagittal plane and the tubehead aims slightly upwards from beneath the opposite side of the mandible."
+  },
+  {
+    "id": "m19-010",
+    "module": "m19",
+    "type": "mcq",
+    "question": "When taking an oblique lateral of a child, how is the child usually positioned?",
+    "options": [
+      "Standing with the head in a cephalostat",
+      "Lying flat on the dental chair",
+      "Rotated through 90° in the chair",
+      "Sitting with the head tipped backwards"
+    ],
+    "answer": "C",
+    "explanation": "The child is usually rotated through 90° in the chair so the shoulder is supported and the cassette and head rest on the chair."
+  },
+  {
+    "id": "m19-011",
+    "module": "m19",
+    "type": "tf",
+    "question": "When a carer helps with an oblique lateral radiograph, the tubehead must be positioned differently from other oblique laterals.",
+    "answer": false,
+    "explanation": "Positioning of the X-ray tubehead is identical to other oblique laterals when a carer helps."
+  },
+  {
+    "id": "m19-012",
+    "module": "m19",
+    "type": "mcq",
+    "question": "When a carer or relative helps during an oblique lateral radiograph, what must they wear?",
+    "options": [
+      "A thyroid collar only",
+      "A personal dosemeter badge",
+      "Protective lead glasses",
+      "A protective lead apron"
+    ],
+    "answer": "D",
+    "explanation": "Ensure the carer wears a protective lead apron; they can hold the cassette and reassure the patient."
+  }
+]

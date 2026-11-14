@@ -1,0 +1,268 @@
+[
+  {
+    "id": "m18-001",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which statement best defines occlusal radiography?",
+    "options": [
+      "Intra-oral techniques with the receptor placed in the occlusal plane",
+      "Extra-oral techniques with the receptor beside the face",
+      "Intra-oral techniques with the receptor parallel to the teeth",
+      "Extra-oral techniques with the receptor behind the head"
+    ],
+    "answer": "A",
+    "explanation": "Occlusal radiography covers intra-oral techniques where the image receptor is placed in the occlusal plane."
+  },
+  {
+    "id": "m18-002",
+    "module": "m18",
+    "type": "tf",
+    "question": "Occlusal radiographs can be taken using CCD sensors.",
+    "answer": false,
+    "explanation": "Occlusal radiographs use a phosphor plate or film packet; it is not possible to take them with CCD sensors."
+  },
+  {
+    "id": "m18-003",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which of these is a maxillary occlusal projection?",
+    "options": [
+      "Lower 45° occlusal",
+      "Upper oblique occlusal",
+      "Lower 90° occlusal",
+      "Lower oblique occlusal"
+    ],
+    "answer": "B",
+    "explanation": "The maxillary occlusal projections are the upper standard occlusal and the upper oblique occlusal."
+  },
+  {
+    "id": "m18-004",
+    "module": "m18",
+    "type": "tf",
+    "question": "The lower 90° occlusal is also called the true occlusal.",
+    "answer": true,
+    "explanation": "The mandibular projections are the lower 90° (true) occlusal, the lower 45° occlusal and the lower oblique occlusal."
+  },
+  {
+    "id": "m18-005",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For an upper standard occlusal on an adult, at what angle to the image receptor is the X-ray tubehead aimed?",
+    "options": [
+      "45°",
+      "90°",
+      "65°–70°",
+      "30°–35°"
+    ],
+    "answer": "C",
+    "explanation": "The tubehead is above the patient in the midline, aiming downwards at 65°–70° to the receptor."
+  },
+  {
+    "id": "m18-006",
+    "module": "m18",
+    "type": "mcq",
+    "question": "When taking an upper standard occlusal on an adult, how is the film packet or phosphor plate inserted?",
+    "options": [
+      "Long axis antero-posteriorly",
+      "Long axis vertical",
+      "Diagonally across the arch",
+      "Long axis crossways"
+    ],
+    "answer": "D",
+    "explanation": "The receptor goes in with the long axis crossways in adults and antero-posteriorly in children."
+  },
+  {
+    "id": "m18-007",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For an upper standard occlusal on a small child, what is used and how is the beam angled?",
+    "options": [
+      "A periapical receptor, with the beam at 50°",
+      "An occlusal receptor, with the beam at 90°",
+      "A periapical receptor, with the beam at 45°",
+      "An occlusal receptor, with the beam at 70°"
+    ],
+    "answer": "A",
+    "explanation": "For small children a periapical film or plate is placed flat in the occlusal plane and the beam is angled at 50°."
+  },
+  {
+    "id": "m18-008",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a clinical indication for an upper standard occlusal?",
+    "options": [
+      "Assessing the condition of the antral floor",
+      "Detecting unerupted canines in orthodontic assessment",
+      "Detecting calculi in the submandibular duct",
+      "Assessing mandibular tori"
+    ],
+    "answer": "B",
+    "explanation": "The upper standard occlusal is used in orthodontic assessment to detect unerupted canines, supernumeraries and odontomes."
+  },
+  {
+    "id": "m18-009",
+    "module": "m18",
+    "type": "tf",
+    "question": "A protective thyroid shield should be used when taking an upper standard occlusal.",
+    "answer": true,
+    "explanation": "The technique for both upper occlusal projections includes using a protective thyroid shield."
+  },
+  {
+    "id": "m18-010",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a quality criterion for an upper standard occlusal?",
+    "options": [
+      "The antral floor should be shown",
+      "The lower border of the mandible should be visible",
+      "First and second molars should be included",
+      "All posterior teeth on one side should be included"
+    ],
+    "answer": "C",
+    "explanation": "For the upper standard occlusal, first and second molars should be included and right and left should be comparable."
+  },
+  {
+    "id": "m18-011",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a clinical indication for an upper oblique occlusal?",
+    "options": [
+      "Detecting salivary calculi",
+      "Assessing mandibular tori",
+      "Assessing implant sites in the mandible",
+      "Locating roots displaced into the antrum"
+    ],
+    "answer": "D",
+    "explanation": "The upper oblique occlusal is used to assess the position of roots displaced into the antrum during attempted extraction."
+  },
+  {
+    "id": "m18-012",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For an upper oblique occlusal, where is the X-ray tubehead positioned?",
+    "options": [
+      "To the side of the face, aiming through the cheek",
+      "Above the patient in the midline",
+      "Below the chin in the midline",
+      "Behind the ascending ramus"
+    ],
+    "answer": "A",
+    "explanation": "The tubehead is to the side of the face, aiming downwards through the cheek at 65°–70°, centred on the area of interest."
+  },
+  {
+    "id": "m18-013",
+    "module": "m18",
+    "type": "tf",
+    "question": "For an upper oblique occlusal, the receptor is placed with its long axis crossways in the middle of the mouth.",
+    "answer": false,
+    "explanation": "For the upper oblique occlusal, the long axis is antero-posterior, to the side of the mouth under investigation."
+  },
+  {
+    "id": "m18-014",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which quality criterion applies to the upper oblique occlusal?",
+    "options": [
+      "The first molars on both sides should be included",
+      "The antral floor should be shown",
+      "Right and left should be comparable",
+      "The lower border of the mandible should be visible"
+    ],
+    "answer": "B",
+    "explanation": "The upper oblique occlusal should show the antral floor and all posterior teeth on one side."
+  },
+  {
+    "id": "m18-015",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a clinical indication for a lower 90° occlusal?",
+    "options": [
+      "Assessing the antral floor",
+      "Assessing vertical displacement of mandibular fractures",
+      "Detecting calculi in the submandibular duct",
+      "Assessing upper anterior trauma"
+    ],
+    "answer": "C",
+    "explanation": "The lower 90° occlusal is used to detect calculi (stones) in the submandibular duct."
+  },
+  {
+    "id": "m18-016",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For a lower 90° occlusal, how is the X-ray tubehead angled relative to the image receptor?",
+    "options": [
+      "At 45°",
+      "At 65°–70°",
+      "At 50°",
+      "At 90°"
+    ],
+    "answer": "D",
+    "explanation": "The tubehead is placed below the chin in the midline, or below the body of the mandible on the side of interest, at 90° to the receptor."
+  },
+  {
+    "id": "m18-017",
+    "module": "m18",
+    "type": "tf",
+    "question": "When taking a lower 90° occlusal, the patient tips the head backwards as far as is comfortable.",
+    "answer": true,
+    "explanation": "After biting gently on the receptor, the patient tips the head backwards as far as is comfortable."
+  },
+  {
+    "id": "m18-018",
+    "module": "m18",
+    "type": "mcq",
+    "question": "When a lower 90° occlusal is taken to show salivary calculi, which exposure should be used?",
+    "options": [
+      "A soft tissue exposure",
+      "A double exposure",
+      "A high-density bone exposure",
+      "A standard enamel exposure"
+    ],
+    "answer": "A",
+    "explanation": "To demonstrate salivary calculi, a soft tissue exposure should be used."
+  },
+  {
+    "id": "m18-019",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a clinical indication for a lower 45° occlusal?",
+    "options": [
+      "Horizontal displacement of mandibular fractures",
+      "Vertical displacement of mandibular fractures",
+      "Detection of submandibular duct calculi",
+      "Bucco-lingual position of wisdom teeth"
+    ],
+    "answer": "B",
+    "explanation": "The lower 45° occlusal assesses vertical displacement of mandibular fractures; the lower 90° assesses horizontal displacement."
+  },
+  {
+    "id": "m18-020",
+    "module": "m18",
+    "type": "tf",
+    "question": "The lower 90° occlusal is used to assess vertical displacement of fractures of the mandible.",
+    "answer": false,
+    "explanation": "The lower 90° occlusal assesses horizontal displacement; vertical displacement is assessed with the lower 45° occlusal."
+  },
+  {
+    "id": "m18-021",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For a lower 45° occlusal, where is the X-ray tubehead centred?",
+    "options": [
+      "Below the body of the mandible on one side",
+      "Through the cheek over the molars",
+      "Through the chin point, in the midline",
+      "Just below the ear behind the ramus"
+    ],
+    "answer": "C",
+    "explanation": "The tubehead is in the midline, centred through the chin point, at 45° to the receptor."
+  },
+  {
+    "id": "m18-022",
+    "module": "m18",
+    "type": "tf",
+    "question": "On a lower 45° occlusal, the lower border of the mandible should be visible.",
+    "answer": true,
+    "explanation": "Quality criteria for the lower 45° occlusal include clearly defined lower incisor apices and a visible lower border of the mandible."
+  }
+]

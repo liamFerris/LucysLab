@@ -1,0 +1,160 @@
+[
+  {
+    "id": "m04-001",
+    "module": "m04",
+    "type": "mcq",
+    "question": "In the photoelectric effect, which part of the atom does the X-ray photon collide with?",
+    "options": [
+      "An outer-shell electron",
+      "An inner-shell electron",
+      "A stray negative ion",
+      "A water molecule"
+    ],
+    "answer": "B",
+    "explanation": "The photoelectric effect occurs when an X-ray photon collides with an inner-shell electron in the patient's tissue."
+  },
+  {
+    "id": "m04-002",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What happens to the X-ray photon in the Compton effect?",
+    "options": [
+      "It loses only some of its energy and is deflected",
+      "All of its energy is absorbed in the collision",
+      "It passes straight through the tissue without any collision",
+      "It is absorbed and the atom gives off heat and light"
+    ],
+    "answer": "A",
+    "explanation": "In the Compton effect the photon hits an outer-shell electron, loses only some of its energy and is deflected."
+  },
+  {
+    "id": "m04-003",
+    "module": "m04",
+    "type": "mcq",
+    "question": "The chance of an X-ray photon hitting an inner-shell electron depends on which property of the atom?",
+    "options": [
+      "Atomic number squared (Z²)",
+      "Atomic number (Z)",
+      "Atomic number cubed (Z³)",
+      "Number of outer-shell electrons"
+    ],
+    "answer": "C",
+    "explanation": "The chance depends on the atomic number cubed (Z³); the higher the Z³, the more likely complete absorption is."
+  },
+  {
+    "id": "m04-004",
+    "module": "m04",
+    "type": "mcq",
+    "question": "In the photoelectric effect, what does the atom give off as it restabilises?",
+    "options": [
+      "Scattered X-ray photons",
+      "Hydrogen gas",
+      "High-energy electrons",
+      "Heat and light"
+    ],
+    "answer": "D",
+    "explanation": "After all the photon's energy is absorbed, the atom restabilises and gives off energy as heat and light."
+  },
+  {
+    "id": "m04-005",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What does the process of ionisation produce?",
+    "options": [
+      "A positive ion and a negative ion",
+      "Two positive ions and a stray photon",
+      "Two negative ions and a stray photon",
+      "A positive ion and a scattered photon"
+    ],
+    "answer": "A",
+    "explanation": "Ionisation produces an unstable atom (a positive ion) and a stray electron (a negative ion)."
+  },
+  {
+    "id": "m04-006",
+    "module": "m04",
+    "type": "mcq",
+    "question": "In indirect damage, which molecules in the patient's cells are most commonly ionised by X-rays?",
+    "options": [
+      "DNA molecules",
+      "RNA molecules",
+      "Water molecules",
+      "Protein molecules"
+    ],
+    "answer": "C",
+    "explanation": "Indirect damage occurs when X-rays ionise other molecules in the cell, most commonly water."
+  },
+  {
+    "id": "m04-007",
+    "module": "m04",
+    "type": "mcq",
+    "question": "Which toxic substances are produced when an X-ray ionises a water molecule?",
+    "options": [
+      "Oxygen gas and hydrogen gas",
+      "Hydrogen peroxide and hydrogen gas",
+      "Carbon dioxide and carbon monoxide gas",
+      "Hydrogen peroxide and oxygen gas"
+    ],
+    "answer": "B",
+    "explanation": "Ionising water produces hydrogen peroxide and hydrogen gas, both of which are toxic."
+  },
+  {
+    "id": "m04-008",
+    "module": "m04",
+    "type": "mcq",
+    "question": "When direct X-ray damage alters the genetic code in reproductive cells, what may result?",
+    "options": [
+      "Toxic hydrogen peroxide and hydrogen gas",
+      "Compton scatter of the X-ray photon",
+      "Heat and light given off by the atom",
+      "A congenital abnormality"
+    ],
+    "answer": "D",
+    "explanation": "Disruption to the genetic code may lead to a congenital abnormality in reproductive cells, or a malignancy in somatic cells."
+  },
+  {
+    "id": "m04-009",
+    "module": "m04",
+    "type": "mcq",
+    "question": "At the radiation doses used in dentistry, which effects are we mainly concerned about?",
+    "options": [
+      "Deterministic (tissue reaction) effects",
+      "Severe damage or death",
+      "Somatic stochastic effects",
+      "Heat damage to the tissues"
+    ],
+    "answer": "C",
+    "explanation": "Dental doses are not high enough to cause deterministic effects, so the main concern is somatic stochastic effects."
+  },
+  {
+    "id": "m04-010",
+    "module": "m04",
+    "type": "tf",
+    "question": "Both the photoelectric effect and the Compton effect result in ionisation.",
+    "answer": true,
+    "explanation": "Both effects leave an unstable atom (positive ion) and a stray electron (negative ion), which is ionisation."
+  },
+  {
+    "id": "m04-011",
+    "module": "m04",
+    "type": "tf",
+    "question": "When an X-ray photon directly damages the genetic code in a cell, it is more likely to kill the cell outright than to cause a subtle alteration to the code.",
+    "answer": false,
+    "explanation": "Direct damage may kill the cell outright, but is more likely to result in a subtle alteration to the genetic code."
+  },
+  {
+    "id": "m04-012",
+    "module": "m04",
+    "type": "tf",
+    "question": "The higher an atom's Z³, the less chance there is that an X-ray photon will be completely absorbed.",
+    "answer": false,
+    "explanation": "The higher the Z³, the more chance there is that the X-ray photon will be completely absorbed."
+  },
+  {
+    "id": "m04-013",
+    "module": "m04",
+    "type": "tf",
+    "question": "Cancer is an example of a somatic stochastic effect of X-rays.",
+    "answer": true,
+    "explanation": "Cancer is a somatic stochastic effect, and even a tiny dose can cause a fatal cancer."
+  }
+]

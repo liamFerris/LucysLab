@@ -1,0 +1,210 @@
+[
+  {
+    "id": "m11-001",
+    "module": "m11",
+    "type": "mcq",
+    "question": "In the paralleling technique for periapical radiographs, how is the image receptor positioned?",
+    "options": [
+      "Parallel to the long axis of the tooth",
+      "Perpendicular to the long axis of the tooth",
+      "Parallel to the floor of the mouth",
+      "At an angle to the long axis of the tooth"
+    ],
+    "answer": "A",
+    "explanation": "With the paralleling technique, the image receptor is positioned parallel to the long axis of the tooth."
+  },
+  {
+    "id": "m11-002",
+    "module": "m11",
+    "type": "mcq",
+    "question": "In the paralleling technique, at what angle should the X-ray beam hit the image receptor?",
+    "options": [
+      "45°",
+      "Between 5° and 8°",
+      "90°",
+      "30°"
+    ],
+    "answer": "C",
+    "explanation": "The receptor is parallel to the tooth's long axis and the X-ray beam hits the receptor at 90°."
+  },
+  {
+    "id": "m11-003",
+    "module": "m11",
+    "type": "mcq",
+    "question": "What focus-to-skin distance (fsd) is used for the paralleling technique?",
+    "options": [
+      "100 mm",
+      "200 mm",
+      "300 mm",
+      "50 mm"
+    ],
+    "answer": "B",
+    "explanation": "A long fsd of 200 mm is used."
+  },
+  {
+    "id": "m11-004",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Why is a long focus-to-skin distance used with the paralleling technique?",
+    "options": [
+      "To increase the contrast between enamel, dentine and pulp",
+      "To shorten the exposure time needed",
+      "To reduce gagging by moving the tubehead away",
+      "To keep beam divergence and magnification to a minimum"
+    ],
+    "answer": "D",
+    "explanation": "A long fsd (200 mm) keeps divergence of the X-ray beam, and therefore magnification of the image, to a minimum."
+  },
+  {
+    "id": "m11-005",
+    "module": "m11",
+    "type": "mcq",
+    "question": "When setting up a paralleling holder for anterior teeth, which biteblock should be selected?",
+    "options": [
+      "Large (yellow) biteblock",
+      "Small (blue) biteblock",
+      "Small (yellow) biteblock",
+      "Large (blue) biteblock"
+    ],
+    "answer": "B",
+    "explanation": "For anterior teeth, the small (blue) biteblock is used with the anterior metal arm and blue aiming ring."
+  },
+  {
+    "id": "m11-006",
+    "module": "m11",
+    "type": "mcq",
+    "question": "For a paralleling periapical of posterior teeth, which image receptor is used and how is it orientated?",
+    "options": [
+      "Small receptor, long axis vertical",
+      "Large receptor, long axis vertical",
+      "Large receptor, long axis horizontal",
+      "Small receptor, long axis horizontal"
+    ],
+    "answer": "C",
+    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal."
+  },
+  {
+    "id": "m11-007",
+    "module": "m11",
+    "type": "mcq",
+    "question": "After assembling a posterior paralleling holder, how should the set-up be checked?",
+    "options": [
+      "By taking a test exposure",
+      "By asking the patient to bite down",
+      "By measuring the fsd with a ruler",
+      "By looking through the aiming ring"
+    ],
+    "answer": "D",
+    "explanation": "The posterior set-up is checked by looking through the aiming ring."
+  },
+  {
+    "id": "m11-008",
+    "module": "m11",
+    "type": "mcq",
+    "question": "When a solid-state digital sensor is used for paralleling periapicals, what must be fitted to the sensor?",
+    "options": [
+      "A barrier sheath",
+      "A lead backing foil",
+      "A polystyrene bite block",
+      "A thyroid shield"
+    ],
+    "answer": "A",
+    "explanation": "The technique is modified to accommodate the sensor cable, and the sensor must have a barrier sheath fitted."
+  },
+  {
+    "id": "m11-009",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of these is a disadvantage of the paralleling technique?",
+    "options": [
+      "Coning off is common",
+      "Images are not reproducible",
+      "Receptor positioning can cause gagging",
+      "Periodontal bone levels are poorly shown"
+    ],
+    "answer": "C",
+    "explanation": "Positioning the receptor can be uncomfortable and sometimes causes gagging. The other options contradict the advantages of paralleling: there is no coning off, images are reproducible, and periodontal bone levels are well represented."
+  },
+  {
+    "id": "m11-010",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which feature of a patient's mouth can make the paralleling technique impossible?",
+    "options": [
+      "A square dental arch",
+      "A deep, high-vaulted palate",
+      "Short clinical crowns",
+      "A flat, shallow palate"
+    ],
+    "answer": "D",
+    "explanation": "Mouth anatomy such as a flat, shallow palate can make the paralleling technique impossible."
+  },
+  {
+    "id": "m11-011",
+    "module": "m11",
+    "type": "mcq",
+    "question": "On an ideal periapical radiograph, the contrast and density should allow which structures to be differentiated?",
+    "options": [
+      "Enamel, dentine and pulp",
+      "Cortical and cancellous bone",
+      "The cheek and tongue soft tissues",
+      "Restorations and caries only"
+    ],
+    "answer": "A",
+    "explanation": "Contrast and density should be such that enamel, dentine and pulp can be differentiated."
+  },
+  {
+    "id": "m11-012",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of these is a clinical indication for a periapical radiograph?",
+    "options": [
+      "Imaging both jaws and the TMJs on a single image",
+      "Assessing root shape and number before extractions",
+      "Imaging the skull from the side",
+      "Imaging the crowns of all the teeth on one side only"
+    ],
+    "answer": "B",
+    "explanation": "Assessment of root shape and number before extractions is one of the clinical indications for periapical radiography."
+  },
+  {
+    "id": "m11-013",
+    "module": "m11",
+    "type": "tf",
+    "question": "The paralleling technique allows reproducible images at different visits and by different operators.",
+    "answer": true,
+    "explanation": "Reproducibility at different visits and by different operators is an advantage of the paralleling technique."
+  },
+  {
+    "id": "m11-014",
+    "module": "m11",
+    "type": "tf",
+    "question": "The paralleling technique is impossible in very small children.",
+    "answer": true,
+    "explanation": "One of the disadvantages listed is that the technique is impossible in very small children."
+  },
+  {
+    "id": "m11-015",
+    "module": "m11",
+    "type": "tf",
+    "question": "With the paralleling technique, the position of the X-ray tubehead is chosen freely by the operator rather than being determined by the aiming device.",
+    "answer": false,
+    "explanation": "With the paralleling technique, the position of the X-ray tubehead is determined by the beam aiming device, which is one of its advantages."
+  },
+  {
+    "id": "m11-016",
+    "module": "m11",
+    "type": "tf",
+    "question": "With the paralleling technique, coning off (cone cutting) is common.",
+    "answer": false,
+    "explanation": "The X-ray beam is aimed at the centre of the image receptor by the aiming device, so there is no coning off."
+  },
+  {
+    "id": "m11-017",
+    "module": "m11",
+    "type": "tf",
+    "question": "The paralleling technique needs to be modified during endodontics.",
+    "answer": true,
+    "explanation": "The technique has to be modified during endodontics (covered in Module 15)."
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "m14-001",
+    "module": "m14",
+    "type": "mcq",
+    "question": "For digital radiographs, what is the minimum target for the percentage of images rated A (diagnostically acceptable)?",
+    "options": [
+      "Not less than 95%",
+      "Not less than 90%",
+      "Not less than 85%",
+      "Not less than 99%"
+    ],
+    "answer": "A",
+    "explanation": "For digital radiography, not less than 95% of radiographs taken should be rated A."
+  },
+  {
+    "id": "m14-002",
+    "module": "m14",
+    "type": "mcq",
+    "question": "For film radiographs, what is the maximum percentage of images that may be rated N (diagnostically not acceptable)?",
+    "options": [
+      "Not greater than 5%",
+      "Not greater than 10%",
+      "Not greater than 15%",
+      "Not greater than 20%"
+    ],
+    "answer": "B",
+    "explanation": "For film radiography, not greater than 10% of radiographs should be rated N (and not less than 90% rated A)."
+  },
+  {
+    "id": "m14-003",
+    "module": "m14",
+    "type": "tf",
+    "question": "For film radiographs, the minimum target is that not less than 95% of images are rated A (diagnostically acceptable).",
+    "answer": false,
+    "explanation": "The 95% target applies to digital radiographs; for film the target is not less than 90% rated A."
+  },
+  {
+    "id": "m14-004",
+    "module": "m14",
+    "type": "tf",
+    "question": "For digital radiographs, no more than 5% of images should be rated N (diagnostically not acceptable).",
+    "answer": true,
+    "explanation": "The minimum target for digital radiographic quality is that not greater than 5% of radiographs are rated N."
+  },
+  {
+    "id": "m14-005",
+    "module": "m14",
+    "type": "mcq",
+    "question": "In the subjective quality rating of radiographs, what does the rating 'N' mean?",
+    "options": [
+      "Needs repeating with a new receptor",
+      "Normal findings with no disease",
+      "Diagnostically not acceptable",
+      "Non-standard projection used"
+    ],
+    "answer": "C",
+    "explanation": "Rating N means diagnostically not acceptable: errors render the radiograph unable to be used diagnostically."
+  },
+  {
+    "id": "m14-006",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A radiograph has minimal errors and is of sufficient image quality to answer the clinical question. Which quality rating should it receive?",
+    "options": [
+      "Rating N",
+      "Rating B",
+      "Rating U",
+      "Rating A"
+    ],
+    "answer": "D",
+    "explanation": "A is 'diagnostically acceptable': no or minimal errors and sufficient quality to answer the clinical question."
+  },
+  {
+    "id": "m14-007",
+    "module": "m14",
+    "type": "mcq",
+    "question": "Which area should a good-quality bitewing radiograph include?",
+    "options": [
+      "Distal aspect of the canines to the mesial aspect of the third molars",
+      "Mesial aspect of the canines to the distal aspect of the second molars",
+      "Distal aspect of the premolars to the distal aspect of the third molars",
+      "Mesial aspect of the first premolars to the mesial aspect of the first molars"
+    ],
+    "answer": "A",
+    "explanation": "A bitewing should show from the distal aspect of the canines to the mesial aspect of the third molars."
+  },
+  {
+    "id": "m14-008",
+    "module": "m14",
+    "type": "mcq",
+    "question": "Which of the following is a quality criterion for a bitewing radiograph?",
+    "options": [
+      "The entire root and apical tissues are included",
+      "The occlusal plane is in the middle of the image",
+      "The hard palate appears above the upper apices",
+      "The whole mandible including both condyles is shown"
+    ],
+    "answer": "B",
+    "explanation": "A bitewing should have the occlusal plane in the middle of the image, parallel to the top and bottom of the image."
+  },
+  {
+    "id": "m14-009",
+    "module": "m14",
+    "type": "tf",
+    "question": "A good-quality bitewing should show all contact areas clearly with no overlapping.",
+    "answer": true,
+    "explanation": "Clear contact areas with no overlapping are a bitewing quality criterion, along with the EDJ being clearly visible for caries diagnosis."
+  },
+  {
+    "id": "m14-010",
+    "module": "m14",
+    "type": "mcq",
+    "question": "Which of the following is a quality criterion for a periapical radiograph?",
+    "options": [
+      "Occlusal plane in the middle of the image",
+      "Only the coronal third of the roots shown",
+      "Crown and entire root of the tooth included",
+      "Distal of the canines to mesial of the third molars"
+    ],
+    "answer": "C",
+    "explanation": "A periapical must include the crown and entire root, with apical tissues clearly defined including the full extent of any disease."
+  },
+  {
+    "id": "m14-011",
+    "module": "m14",
+    "type": "tf",
+    "question": "On a good-quality periapical radiograph, the contrast and density should allow enamel, dentine and pulp to be differentiated.",
+    "answer": true,
+    "explanation": "Contrast and density should allow enamel, dentine and pulp to be differentiated on periapicals (and bitewings)."
+  },
+  {
+    "id": "m14-012",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A digital radiograph is too pale (under-exposed). Which of the following is a possible cause?",
+    "options": [
+      "Phosphor plate scratched",
+      "Patient movement",
+      "Failure to remove a denture or appliance",
+      "Failure to keep the timer depressed"
+    ],
+    "answer": "D",
+    "explanation": "Causes of an under-exposed, pale image include an incorrect timer setting, a faulty timer, or failure to keep the timer depressed."
+  },
+  {
+    "id": "m14-013",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A digital image shows marks because the phosphor plate is scratched. What is the corrective action?",
+    "options": [
+      "Repeat using a new plate",
+      "Clean and repeat",
+      "Adjust the timer setting",
+      "Re-instruct the patient"
+    ],
+    "answer": "A",
+    "explanation": "A scratched phosphor plate should be replaced, and the image repeated using a new plate."
+  },
+  {
+    "id": "m14-014",
+    "module": "m14",
+    "type": "mcq",
+    "question": "What is the corrective action for coning off (cone cutting) on an intra-oral radiograph?",
+    "options": [
+      "Adjust the timer setting",
+      "Use a beam-aiming device",
+      "Change the chemicals",
+      "Re-instruct the patient"
+    ],
+    "answer": "B",
+    "explanation": "Coning off, elongation, foreshortening and overlapping are all corrected by using a beam-aiming device."
+  },
+  {
+    "id": "m14-015",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A processed film is too dark. Which of these is a cause of overdevelopment?",
+    "options": [
+      "Developer too cold",
+      "Developer exhausted",
+      "Developer too hot",
+      "Development time too short"
+    ],
+    "answer": "C",
+    "explanation": "Overdevelopment (film too dark) is caused by developer that is too hot, too concentrated, or development time that is too long."
+  },
+  {
+    "id": "m14-016",
+    "module": "m14",
+    "type": "tf",
+    "question": "A developer that is too cold will cause a film to be too dark (overdeveloped).",
+    "answer": false,
+    "explanation": "A developer that is too cold causes underdevelopment, so the film is too pale."
+  },
+  {
+    "id": "m14-017",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A film is too pale because the developer is exhausted. What is the corrective action?",
+    "options": [
+      "Check temperature and adjust",
+      "Check processor/darkroom",
+      "Adjust timer setting",
+      "Change chemicals"
+    ],
+    "answer": "D",
+    "explanation": "An exhausted (or too dilute) developer causes underdevelopment and is corrected by changing the chemicals."
+  },
+  {
+    "id": "m14-018",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A film has been fogged by light. What is the likely cause and corrective action?",
+    "options": [
+      "Light leakage; check processor/darkroom",
+      "Under-fixation; change chemicals",
+      "Overexposure; adjust timer setting",
+      "Chemical splashes; careful chemical handling"
+    ],
+    "answer": "A",
+    "explanation": "Fogging by light is due to light leakage, so the processor/darkroom should be checked."
+  },
+  {
+    "id": "m14-019",
+    "module": "m14",
+    "type": "mcq",
+    "question": "Which of the following is listed as a processing error that causes a film to be marked?",
+    "options": [
+      "Film packet creased by the operator",
+      "Under-fixation",
+      "Coning off",
+      "Patient movement"
+    ],
+    "answer": "B",
+    "explanation": "Processing errors that mark a film include chemical splashes, films stuck together, insufficient chemicals and under-fixation."
+  },
+  {
+    "id": "m14-020",
+    "module": "m14",
+    "type": "tf",
+    "question": "An unsharp or blurred image caused by patient movement is corrected by using a beam-aiming device.",
+    "answer": false,
+    "explanation": "Blurring from patient movement is corrected by re-instructing the patient; beam-aiming devices correct positioning errors such as coning off."
+  }
+]

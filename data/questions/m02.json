@@ -1,0 +1,182 @@
+[
+  {
+    "id": "m02-001",
+    "module": "m02",
+    "type": "mcq",
+    "question": "When an X-ray photon interacts with matter, which interaction describes it being deflected in another direction with no loss of energy?",
+    "options": [
+      "Transmission",
+      "Absorption",
+      "Absorption and scatter",
+      "Pure scatter"
+    ],
+    "answer": "D",
+    "explanation": "In pure scatter the photon is deflected in another direction without losing any energy."
+  },
+  {
+    "id": "m02-002",
+    "module": "m02",
+    "type": "mcq",
+    "question": "What is the only difference between gamma rays and X-rays?",
+    "options": [
+      "Gamma rays occur naturally, whilst X-rays are man-made",
+      "Gamma rays have high energy, whilst X-rays have low energy",
+      "X-rays travel in straight lines, whilst gamma rays do not",
+      "X-rays are ionising, whilst gamma rays are non-ionising"
+    ],
+    "answer": "A",
+    "explanation": "Gamma rays and X-rays are the same thing; the only difference is that gamma rays are naturally occurring and X-rays are man-made."
+  },
+  {
+    "id": "m02-003",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Electromagnetic photons with medium energy are experienced as which of the following?",
+    "options": [
+      "Radio waves",
+      "Visible light",
+      "Gamma rays",
+      "X-ray photons"
+    ],
+    "answer": "B",
+    "explanation": "Very low energy photons make up radio waves, whilst medium-energy photons are visible to us as light."
+  },
+  {
+    "id": "m02-004",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Which of the following is NOT a property of X-rays?",
+    "options": [
+      "They travel in straight lines from the source",
+      "They can travel through a vacuum",
+      "They can be detected by human senses",
+      "They can blacken film emulsion to create an image"
+    ],
+    "answer": "C",
+    "explanation": "X-rays cannot be detected by any human sense, which is one reason they must be treated with care."
+  },
+  {
+    "id": "m02-005",
+    "module": "m02",
+    "type": "mcq",
+    "question": "How does the severity of tissue reaction (deterministic) effects relate to the radiation dose?",
+    "options": [
+      "It bears no relation to the dose",
+      "It depends only on the patient's age",
+      "It is proportional to the dose",
+      "It is the same at every dose"
+    ],
+    "answer": "C",
+    "explanation": "Tissue reaction effects result from high doses, and the severity of the damage is proportional to the radiation dose."
+  },
+  {
+    "id": "m02-006",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Genetic stochastic effects of ionising radiation occur in which cells?",
+    "options": [
+      "Normal body (somatic) cells of the face and jaw",
+      "Reproductive cells (egg and sperm)",
+      "Hard-tissue cells of the tooth enamel",
+      "Cells of the soft tissues lining the mouth"
+    ],
+    "answer": "B",
+    "explanation": "Genetic effects happen to the reproductive cells (egg and sperm), and damage may show up in future offspring."
+  },
+  {
+    "id": "m02-007",
+    "module": "m02",
+    "type": "mcq",
+    "question": "What are the main aims of radiation protection?",
+    "options": [
+      "Completely prevent stochastic effects and limit the severity of deterministic effects to an acceptable level",
+      "Completely prevent both deterministic and stochastic effects, whatever the size of the radiation dose",
+      "Completely prevent deterministic effects and limit the chance of stochastic effects to an acceptable level",
+      "Limit deterministic effects only, because the chance of stochastic effects cannot be reduced at all"
+    ],
+    "answer": "C",
+    "explanation": "Radiation protection aims to completely prevent deterministic effects and to limit the chances of stochastic effects to an acceptable level."
+  },
+  {
+    "id": "m02-008",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Which X-ray interaction with matter involves the photon passing straight through without touching anything?",
+    "options": [
+      "Absorption",
+      "Pure scatter",
+      "Absorption and scatter",
+      "Transmission"
+    ],
+    "answer": "D",
+    "explanation": "In transmission the photon passes straight through the matter without touching anything."
+  },
+  {
+    "id": "m02-009",
+    "module": "m02",
+    "type": "mcq",
+    "question": "When an X-ray photon hits matter and is deflected in another direction with a loss of energy, what is the interaction called?",
+    "options": [
+      "Absorption and scatter",
+      "Transmission",
+      "Pure scatter",
+      "Absorption"
+    ],
+    "answer": "A",
+    "explanation": "Absorption and scatter is when the photon hits the matter and is deflected with a loss of energy; pure scatter involves no energy loss."
+  },
+  {
+    "id": "m02-010",
+    "module": "m02",
+    "type": "mcq",
+    "question": "At what level do X-rays originate and interact with matter?",
+    "options": [
+      "The cellular level",
+      "The atomic level",
+      "The tissue level",
+      "The organ level"
+    ],
+    "answer": "B",
+    "explanation": "X-rays originate at the atomic level and also interact with matter at the atomic level."
+  },
+  {
+    "id": "m02-011",
+    "module": "m02",
+    "type": "tf",
+    "question": "For somatic stochastic effects, increasing the radiation dose increases the chance of damage occurring.",
+    "answer": true,
+    "explanation": "Stochastic effects are chance effects: the severity bears no relation to dose, but a higher dose increases the chance of damage."
+  },
+  {
+    "id": "m02-012",
+    "module": "m02",
+    "type": "tf",
+    "question": "Dental radiography uses radiation doses high enough to cause tissue reaction (deterministic) effects.",
+    "answer": false,
+    "explanation": "Dental radiography never uses radiation doses high enough to cause tissue reaction (deterministic) effects."
+  },
+  {
+    "id": "m02-013",
+    "module": "m02",
+    "type": "tf",
+    "question": "X-rays have a long wavelength and high energy.",
+    "answer": false,
+    "explanation": "X-rays have a short wavelength and high energy."
+  },
+  {
+    "id": "m02-014",
+    "module": "m02",
+    "type": "tf",
+    "question": "Although very unlikely, a single X-ray photon has the potential to cause a fatal cancer, so there is no such thing as a safe dose of radiation.",
+    "answer": true,
+    "explanation": "Stochastic effects can follow any dose, even a single photon, which is why there is no such thing as a safe dose."
+  },
+  {
+    "id": "m02-015",
+    "module": "m02",
+    "type": "tf",
+    "question": "Genetic effects are likely to result from dental radiography because the X-ray beam is often aimed at the reproductive organs.",
+    "answer": false,
+    "explanation": "Genetic effects are very unlikely in dental radiography because the X-ray beam is never aimed at the reproductive organs."
+  }
+]

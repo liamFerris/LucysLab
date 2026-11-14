@@ -1,0 +1,210 @@
+[
+  {
+    "id": "m24-001",
+    "module": "m24",
+    "type": "mcq",
+    "question": "Which of these is one of the objectives of radiological interpretation?",
+    "options": [
+      "To enable the formation of a differential diagnosis",
+      "To show whether a carious lesion is active or arrested",
+      "To replace the need for a clinical examination",
+      "To check the monitor using a test pattern"
+    ],
+    "answer": "A",
+    "explanation": "The objectives of interpretation are to identify the presence or absence of disease, to give information on its nature and extent, and to enable a differential diagnosis."
+  },
+  {
+    "id": "m24-002",
+    "module": "m24",
+    "type": "mcq",
+    "question": "For optimum digital viewing conditions, what should the monitor be checked with?",
+    "options": [
+      "A step wedge",
+      "A test pattern",
+      "A black card",
+      "An extra-bright spotlight"
+    ],
+    "answer": "B",
+    "explanation": "Optimum digital viewing needs a clean, bright, good-quality monitor that has been checked using a test pattern, in a quiet, darkened room."
+  },
+  {
+    "id": "m24-003",
+    "module": "m24",
+    "type": "mcq",
+    "question": "When viewing film radiographs, what is used to block out the light surrounding the film?",
+    "options": [
+      "A magnifying glass",
+      "A test pattern displayed on the monitor",
+      "An X-ray viewer or black card",
+      "An extra-bright spotlight"
+    ],
+    "answer": "C",
+    "explanation": "For film viewing, an SDI X-ray viewer or black card blocks the light surrounding the film."
+  },
+  {
+    "id": "m24-004",
+    "module": "m24",
+    "type": "mcq",
+    "question": "On a radiograph, how does proximal caries that is confined to the enamel appear?",
+    "options": [
+      "A semi-circular radiolucency in the dentine",
+      "A radiolucent oval-shaped lesion",
+      "A radiolucent semicircle at the cervical margin of the tooth",
+      "A triangular radiolucency pointing towards the dentine"
+    ],
+    "answer": "D",
+    "explanation": "Proximal caries confined to the enamel shows as a triangular radiolucency, with the point of the triangle towards the dentine."
+  },
+  {
+    "id": "m24-005",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does occlusal caries involving dentine usually appear on a radiograph?",
+    "options": [
+      "A semi-circular radiolucency in the dentine under the enamel",
+      "A triangular radiolucency in the enamel pointing towards the dentine",
+      "A radiolucent oval-shaped lesion",
+      "Radiolucent semicircles at the cervical margin"
+    ],
+    "answer": "A",
+    "explanation": "With occlusal caries you usually cannot see the caries in the enamel, but there is a semi-circular radiolucency in the dentine underneath the enamel."
+  },
+  {
+    "id": "m24-006",
+    "module": "m24",
+    "type": "mcq",
+    "question": "Why does buccal or lingual surface caries appear as an oval-shaped radiolucency?",
+    "options": [
+      "Because it spreads along the enamel-dentine junction",
+      "Because the lesion is viewed end-on",
+      "Because it lies underneath a restoration",
+      "Because it starts at the cervical margin"
+    ],
+    "answer": "B",
+    "explanation": "Buccal/lingual surface caries appears as radiolucent oval-shaped lesions because you are looking at the lesion end-on."
+  },
+  {
+    "id": "m24-007",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does root or cervical caries usually appear on a radiograph?",
+    "options": [
+      "As a triangular radiolucency in the enamel",
+      "As a radiolucent oval-shaped lesion",
+      "As radiolucent semicircles at the cervical margin",
+      "As radiolucencies underneath restorations"
+    ],
+    "answer": "C",
+    "explanation": "Root/cervical caries usually appears as radiolucent semicircles at the cervical margin."
+  },
+  {
+    "id": "m24-008",
+    "module": "m24",
+    "type": "mcq",
+    "question": "When looking at the normal periapical tissues on a radiograph, what does the white line represent?",
+    "options": [
+      "The periodontal ligament space around the root",
+      "The enamel-dentine junction",
+      "The cemento-enamel junction",
+      "The lamina dura of the tooth socket"
+    ],
+    "answer": "D",
+    "explanation": "Normally the periapical tissues show a black line (the periodontal ligament space) and a white line (the lamina dura of the tooth socket)."
+  },
+  {
+    "id": "m24-009",
+    "module": "m24",
+    "type": "mcq",
+    "question": "What is the usual first radiographic sign of periapical disease?",
+    "options": [
+      "Widening of the periodontal ligament space",
+      "Disappearance of the lamina dura around the apex",
+      "A radiolucency in the root furcation",
+      "A dense radiopaque line at the apex"
+    ],
+    "answer": "A",
+    "explanation": "Periapical disease normally appears as a widening of the black line as the periodontal ligament space fills with fluid; the lamina dura is lost only if inflammation continues."
+  },
+  {
+    "id": "m24-010",
+    "module": "m24",
+    "type": "mcq",
+    "question": "What is the normal distance from the cemento-enamel junction to the alveolar crest bone?",
+    "options": [
+      "0.5–1 mm",
+      "2–3 mm",
+      "5–6 mm",
+      "8–10 mm"
+    ],
+    "answer": "B",
+    "explanation": "Normally the distance from the cemento-enamel junction to the alveolar crest bone should be 2–3 mm."
+  },
+  {
+    "id": "m24-011",
+    "module": "m24",
+    "type": "mcq",
+    "question": "In chronic periapical disease, a large radiolucency at the apex of a tooth may be which of these?",
+    "options": [
+      "Secondary caries under a restoration",
+      "Vertical bone loss down one root",
+      "A periapical granuloma or radicular dental cyst",
+      "A widened lamina dura"
+    ],
+    "answer": "C",
+    "explanation": "A large apical radiolucency in chronic periapical disease may be a periapical granuloma, a radicular dental cyst or, rarely, a discharging sinus."
+  },
+  {
+    "id": "m24-012",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does secondary caries associated with a restoration or sealant (CARS) appear?",
+    "options": [
+      "As a triangular radiolucency in the enamel",
+      "As radiolucent semicircles at the cervical margin",
+      "As a radiolucent area in the furcation",
+      "As radiolucencies underneath restorations"
+    ],
+    "answer": "D",
+    "explanation": "Secondary caries associated with a restoration or sealant (CARS) appears as radiolucencies underneath restorations."
+  },
+  {
+    "id": "m24-013",
+    "module": "m24",
+    "type": "tf",
+    "question": "True or false: severe periodontal bone loss may show as a radiolucent area in the furcation of the roots.",
+    "answer": true,
+    "explanation": "True. Severe bone loss may show as a radiolucent area in the furcation of the roots."
+  },
+  {
+    "id": "m24-014",
+    "module": "m24",
+    "type": "tf",
+    "question": "True or false: dental radiographs show whether a carious lesion is active or arrested.",
+    "answer": false,
+    "explanation": "False. Radiographs are one way to detect carious lesions, but they do not give information about the status of the carious process."
+  },
+  {
+    "id": "m24-015",
+    "module": "m24",
+    "type": "tf",
+    "question": "True or false: in periapical disease, the periodontal ligament space becomes narrower as it fills with fluid.",
+    "answer": false,
+    "explanation": "False. The periodontal ligament space (the black line) widens as it fills with fluid."
+  },
+  {
+    "id": "m24-016",
+    "module": "m24",
+    "type": "tf",
+    "question": "True or false: localised vertical bone loss may show as a radiolucency in the bone extending down one root.",
+    "answer": true,
+    "explanation": "True. Localised vertical bone loss may show as a radiolucency in the bone extending down one root."
+  },
+  {
+    "id": "m24-017",
+    "module": "m24",
+    "type": "tf",
+    "question": "True or false: periodontal disease is staged from Stage I (very severe) to Stage IV (mild) using the percentage of interproximal bone loss.",
+    "answer": false,
+    "explanation": "False. The percentage of interproximal bone loss is used to stage the disease from Stage I (mild) to Stage IV (very severe)."
+  }
+]

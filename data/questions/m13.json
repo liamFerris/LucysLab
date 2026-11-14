@@ -1,0 +1,196 @@
+[
+  {
+    "id": "m13-001",
+    "module": "m13",
+    "type": "mcq",
+    "question": "What is a bitewing radiograph designed to show?",
+    "options": [
+      "The crowns of premolars and molars on one side",
+      "The roots and apices of a single tooth",
+      "The crowns of all the anterior teeth in both jaws",
+      "The entire dentition of both jaws"
+    ],
+    "answer": "A",
+    "explanation": "The bitewing technique is designed to image the crowns of the premolar and molar teeth on one side of the jaws."
+  },
+  {
+    "id": "m13-002",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Where does the name 'bitewing' come from?",
+    "options": [
+      "The wing-shaped beam aiming ring on the film holder",
+      "The patient biting on a wing attached to the film",
+      "The wing-like shape of the image produced",
+      "The bite peg used in panoramic units"
+    ],
+    "answer": "B",
+    "explanation": "The original technique required the patient to bite on a small wing attached to an intra-oral film packet."
+  },
+  {
+    "id": "m13-003",
+    "module": "m13",
+    "type": "mcq",
+    "question": "When taking a bitewing, at what downward angle should the tubehead be aimed?",
+    "options": [
+      "0° (horizontal)",
+      "Between 15° and 20°",
+      "Between 5° and 8°",
+      "Between 25° and 30°"
+    ],
+    "answer": "C",
+    "explanation": "The tubehead should be aimed slightly downwards, at between 5° and 8°."
+  },
+  {
+    "id": "m13-004",
+    "module": "m13",
+    "type": "mcq",
+    "question": "When taking a bitewing, where should the tubehead be aimed horizontally?",
+    "options": [
+      "At the apices of the premolars",
+      "Perpendicular to an imaginary bisecting line",
+      "Directly at the canine tooth",
+      "Between the contact points of the teeth"
+    ],
+    "answer": "D",
+    "explanation": "The film is placed parallel to the arch and the tubehead aimed between the contact points of the teeth."
+  },
+  {
+    "id": "m13-005",
+    "module": "m13",
+    "type": "mcq",
+    "question": "When taking bitewings on a patient with a square arch, what may be needed?",
+    "options": [
+      "Two phosphor plates or films",
+      "A downward angle of about 15°",
+      "The bisected angle technique",
+      "A small anterior receptor"
+    ],
+    "answer": "A",
+    "explanation": "With a square arch, two phosphor plates/films may be needed so the beam passes through the contact points."
+  },
+  {
+    "id": "m13-006",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Which of these is a clinical indication for a bitewing radiograph?",
+    "options": [
+      "Root shape assessment before extraction",
+      "Assessment of existing restorations",
+      "Post-operative evaluation of implants",
+      "Before and after apical surgery"
+    ],
+    "answer": "B",
+    "explanation": "Bitewing indications are detecting and monitoring caries, assessing existing restorations and assessing periodontal status."
+  },
+  {
+    "id": "m13-007",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Which of these is a disadvantage of the traditional (bite tab) bitewing technique?",
+    "options": [
+      "The tabs are expensive to buy",
+      "Extra control of infection measures are required",
+      "It is unsuitable for solid-state sensors",
+      "It cannot be used on children"
+    ],
+    "answer": "C",
+    "explanation": "The traditional technique is not suitable for solid-state digital sensors; the tabs are cheap, disposable and simple to use in children."
+  },
+  {
+    "id": "m13-008",
+    "module": "m13",
+    "type": "mcq",
+    "question": "With the traditional bitewing technique, which part of the image receptor is commonly coned off?",
+    "options": [
+      "The posterior part",
+      "The upper part",
+      "The lower part",
+      "The anterior part"
+    ],
+    "answer": "D",
+    "explanation": "Coning off or cone cutting of the anterior part of the image receptor is common with the traditional technique."
+  },
+  {
+    "id": "m13-009",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Why does the traditional bitewing technique need no extra control of infection measures?",
+    "options": [
+      "The tabs are cheap and disposable",
+      "The tabs are autoclaved after use",
+      "The tabs are wrapped in cling film",
+      "The tabs never contact saliva"
+    ],
+    "answer": "A",
+    "explanation": "The tabs (wings) are inexpensive and disposable, so no extra control of infection measures are required."
+  },
+  {
+    "id": "m13-010",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Which of these is an advantage of taking bitewings with an image receptor holder?",
+    "options": [
+      "Images are 100 per cent reproducible between visits",
+      "The beam aiming device sets tubehead position",
+      "The holders are all inexpensive",
+      "The holders are easy to use on children of all ages"
+    ],
+    "answer": "B",
+    "explanation": "The horizontal and vertical position of the tubehead is determined by the beam aiming device, so coning off is avoided."
+  },
+  {
+    "id": "m13-011",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Why are bitewings taken with an image receptor holder not perfect for monitoring caries progression?",
+    "options": [
+      "They cannot be used with film packets",
+      "Coning off of the image is common",
+      "Holder position is still operator-dependent",
+      "The tongue can easily displace the image receptor"
+    ],
+    "answer": "C",
+    "explanation": "The holder's position in the mouth is still operator-dependent, so images are not 100 per cent reproducible."
+  },
+  {
+    "id": "m13-012",
+    "module": "m13",
+    "type": "tf",
+    "question": "Monitoring the progression of dental caries is a clinical indication for bitewing radiographs.",
+    "answer": true,
+    "explanation": "Detecting and monitoring the progression of dental caries are both indications for bitewings."
+  },
+  {
+    "id": "m13-013",
+    "module": "m13",
+    "type": "tf",
+    "question": "With the traditional bitewing technique, the tongue can easily displace the phosphor plate or film packet.",
+    "answer": true,
+    "explanation": "Displacement by the tongue is a disadvantage of the traditional tab technique; holders keep the receptor firmly in position."
+  },
+  {
+    "id": "m13-014",
+    "module": "m13",
+    "type": "tf",
+    "question": "Bitewing image receptor holders are easy to use on children.",
+    "answer": false,
+    "explanation": "Holders can be difficult to use on children, whereas the traditional tab technique is simple in both adults and children."
+  },
+  {
+    "id": "m13-015",
+    "module": "m13",
+    "type": "tf",
+    "question": "When taking a bitewing, the tubehead should be aimed slightly upwards.",
+    "answer": false,
+    "explanation": "The tubehead should be aimed slightly downwards, at between 5° and 8°."
+  },
+  {
+    "id": "m13-016",
+    "module": "m13",
+    "type": "tf",
+    "question": "Assessment of periodontal status is a clinical indication for bitewing radiographs.",
+    "answer": true,
+    "explanation": "Assessment of periodontal status is one of the four listed indications for bitewings."
+  }
+]

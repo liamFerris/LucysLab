@@ -1,0 +1,218 @@
+[
+  {
+    "id": "m05-001",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the unit of radiation absorbed dose?",
+    "options": [
+      "Gray (Gy)",
+      "Sievert (Sv)",
+      "Millisievert (mSv)",
+      "Kilovolt (kV)"
+    ],
+    "answer": "A",
+    "explanation": "Radiation absorbed dose is the total radiation absorbed by the patient, measured in grays (Gy)."
+  },
+  {
+    "id": "m05-002",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the radiation weighting factor (WR) for X-rays?",
+    "options": [
+      "0.5",
+      "1",
+      "10",
+      "20"
+    ],
+    "answer": "B",
+    "explanation": "The radiation weighting factor for X-rays is 1."
+  },
+  {
+    "id": "m05-003",
+    "module": "m05",
+    "type": "mcq",
+    "question": "How is effective dose calculated?",
+    "options": [
+      "Absorbed dose × tissue weighting factor",
+      "Equivalent dose × radiation weighting factor",
+      "Equivalent dose × tissue weighting factor",
+      "Absorbed dose × radiation weighting factor"
+    ],
+    "answer": "C",
+    "explanation": "Effective dose = equivalent dose × tissue weighting factor."
+  },
+  {
+    "id": "m05-004",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which radiation-sensitive tissue is nearest to the area affected by dental radiographs?",
+    "options": [
+      "Gonad tissue",
+      "Red bone marrow",
+      "Lung tissue",
+      "Thyroid gland"
+    ],
+    "answer": "D",
+    "explanation": "The thyroid gland is the nearest sensitive tissue to the area affected by dental radiographs."
+  },
+  {
+    "id": "m05-005",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which dose is the most useful in radiology because it allows comparison of different radiation types on different parts of the body?",
+    "options": [
+      "Effective dose",
+      "Absorbed dose",
+      "Equivalent dose",
+      "Reference dose"
+    ],
+    "answer": "A",
+    "explanation": "Effective dose takes account of both radiation type and tissue sensitivity, so it allows these comparisons."
+  },
+  {
+    "id": "m05-006",
+    "module": "m05",
+    "type": "mcq",
+    "question": "How much is one microsievert (µSv)?",
+    "options": [
+      "One thousandth of a sievert",
+      "One millionth of a sievert",
+      "One hundredth of a sievert",
+      "One tenth of a sievert"
+    ],
+    "answer": "B",
+    "explanation": "A microsievert is one millionth of a sievert; a millisievert is one thousandth."
+  },
+  {
+    "id": "m05-007",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Approximately how much natural background radiation does a person receive each year in the UK?",
+    "options": [
+      "0.3 mSv",
+      "1 mSv",
+      "2.7 mSv",
+      "6.6 mSv"
+    ],
+    "answer": "C",
+    "explanation": "We receive about 2.7 mSv of natural background radiation each year in the UK."
+  },
+  {
+    "id": "m05-008",
+    "module": "m05",
+    "type": "mcq",
+    "question": "A modern panoramic X-ray gives the same dose as how much natural background radiation?",
+    "options": [
+      "Half a day",
+      "One week",
+      "One month",
+      "Two days"
+    ],
+    "answer": "D",
+    "explanation": "A modern panoramic X-ray gives the same dose as two days of natural background radiation."
+  },
+  {
+    "id": "m05-009",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the annual legal dose limit for a member of the public?",
+    "options": [
+      "1 mSv",
+      "0.3 mSv",
+      "2.7 mSv",
+      "1.5 mSv"
+    ],
+    "answer": "A",
+    "explanation": "The annual legal dose limit for a member of the public is 1 mSv per year."
+  },
+  {
+    "id": "m05-010",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the recommended annual dose constraint for all dental staff?",
+    "options": [
+      "1 mSv",
+      "0.3 mSv",
+      "2.7 mSv",
+      "1.5 mSv"
+    ],
+    "answer": "B",
+    "explanation": "While legal limits are higher, the recommended annual dose constraint for all dental staff is 0.3 mSv."
+  },
+  {
+    "id": "m05-011",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the estimated risk of fatal cancer from an intra-oral radiograph taken with recommended equipment?",
+    "options": [
+      "1 in 1 million",
+      "1 in 100,000",
+      "1 in 10 million",
+      "1 in 50,000"
+    ],
+    "answer": "C",
+    "explanation": "Recommended equipment gives an estimated risk of 1 in 10 million exposures, compared with 1 in 1 million for traditional equipment."
+  },
+  {
+    "id": "m05-012",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which of these exposures has the highest effective dose?",
+    "options": [
+      "Chest X-ray",
+      "Intra-oral dental",
+      "Barium meal",
+      "Chest CT scan"
+    ],
+    "answer": "D",
+    "explanation": "A chest CT scan (6.6 mSv) has a far higher effective dose than a barium meal, chest X-ray or intra-oral dental exposure."
+  },
+  {
+    "id": "m05-013",
+    "module": "m05",
+    "type": "tf",
+    "question": "The older the patient, the greater the risk from dental radiography.",
+    "answer": false,
+    "explanation": "The younger the patient, the greater the risk."
+  },
+  {
+    "id": "m05-014",
+    "module": "m05",
+    "type": "tf",
+    "question": "Equivalent dose and effective dose are both measured in sieverts (Sv).",
+    "answer": true,
+    "explanation": "Both equivalent dose and effective dose use the sievert; absorbed dose uses the gray."
+  },
+  {
+    "id": "m05-015",
+    "module": "m05",
+    "type": "tf",
+    "question": "For patients with a clear clinical need for an X-ray investigation, there are no set dose limits.",
+    "answer": true,
+    "explanation": "Dose limits protect workers and the public; there are no set limits for patients with a clear clinical need."
+  },
+  {
+    "id": "m05-016",
+    "module": "m05",
+    "type": "tf",
+    "question": "A panoramic radiograph carries a higher risk of death than accidents at work.",
+    "answer": false,
+    "explanation": "A panoramic radiograph carries a risk of about 1 in 1,000,000, whereas accidents at work carry a risk of 1 in 50,000 per year."
+  },
+  {
+    "id": "m05-017",
+    "module": "m05",
+    "type": "tf",
+    "question": "Using modern dental X-ray equipment massively lowers the dose to the patient compared with traditional equipment.",
+    "answer": true,
+    "explanation": "Modern equipment massively lowers patient dose, which is why there are regulations and recommendations on equipment."
+  },
+  {
+    "id": "m05-018",
+    "module": "m05",
+    "type": "tf",
+    "question": "Red bone marrow is one of the tissues least sensitive to radiation damage.",
+    "answer": false,
+    "explanation": "Gonad tissue, red bone marrow and lung tissue are the most sensitive to radiation damage."
+  }
+]

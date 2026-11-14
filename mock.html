@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mock Test · Lucy's Lab</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><img class="logo" src="assets/img/logo.svg" alt=""><span>Lucy's Lab</span></a>
+    <nav class="topnav" aria-label="Main">
+      <a href="study.html">Study</a>
+      <a href="mock.html" aria-current="page">Mock test</a>
+      <a href="notes.html">Notes</a>
+    </nav>
+  </header>
+
+  <main class="page" id="mockMain">
+
+    <!-- Intro -->
+    <section id="intro" class="card intro" hidden>
+      <div class="intro-icon"><svg class="icon" viewBox="0 0 24 24"><path d="M10 2h4M12 14l3-3"/><circle cx="12" cy="14" r="8"/></svg></div>
+      <h1>Mock Test</h1>
+      <p>Random questions from every module. Answers stay hidden until you finish, just like the real thing.</p>
+      <div class="intro-facts">
+        <div class="fact"><b id="factCount">100</b><span>questions</span></div>
+        <div class="fact"><b>60</b><span>minutes</span></div>
+        <div class="fact"><b id="factModules">–</b><span>modules</span></div>
+      </div>
+      <div class="intro-actions">
+        <button class="btn btn-primary" id="resumeBtn" type="button" hidden>Resume test</button>
+        <button class="btn btn-primary" id="startBtn" type="button">Start the clock</button>
+      </div>
+      <p class="note" id="introNote" hidden></p>
+      <div class="history" id="history" hidden>
+        <h3>Recent attempts</h3>
+        <ul id="historyList"></ul>
+      </div>
+    </section>
+
+    <!-- Test -->
+    <section id="test" hidden>
+      <div class="test-head">
+        <div class="test-progress">Question <span id="qNum">1</span> <span class="muted">of <span id="qTotal">100</span></span></div>
+        <div class="timer" id="timer" role="timer" aria-label="Time remaining">
+          <svg class="icon" viewBox="0 0 24 24"><path d="M10 2h4M12 14l3-3"/><circle cx="12" cy="14" r="8"/></svg>
+          <span id="timerText">60:00</span>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="finishBtn" type="button">Finish</button>
+      </div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+
+      <article class="card qcard" id="card">
+        <div class="qmeta">
+          <span id="qModule" class="module-tag"></span>
+          <span id="qType" class="qtype"></span>
+        </div>
+        <h1 class="qtext" id="qText"></h1>
+        <div class="options" id="options"></div>
+      </article>
+
+      <div class="test-nav">
+        <button class="btn btn-ghost" id="prevBtn" type="button">
+          <svg class="icon" viewBox="0 0 24 24"><path d="M19 12H5M11 19l-7-7 7-7"/></svg> Back
+        </button>
+        <button class="btn btn-ghost flag-btn" id="flagBtn" type="button" aria-pressed="false">
+          <svg class="icon" viewBox="0 0 24 24"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1zM4 22v-7"/></svg> Flag
+        </button>
+        <button class="btn btn-primary" id="nextBtn" type="button">
+          Next <svg class="icon" viewBox="0 0 24 24"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </button>
+      </div>
+
+      <section class="palette-wrap" aria-label="Jump to question">
+        <div class="palette-head">
+          <span class="eyebrow"><span id="answeredCount">0</span> answered</span>
+          <span class="legend"><span><i class="l-ans"></i>Answered</span><span><i class="l-flag"></i>Flagged</span><span><i></i>Not yet</span></span>
+        </div>
+        <div class="palette" id="palette"></div>
+      </section>
+    </section>
+
+    <!-- Results -->
+    <section id="results" hidden>
+      <div class="card">
+        <div class="results-hero">
+          <div class="grade" id="grade"><div class="grade-inner"><span class="grade-letter" id="gradeLetter">A</span></div></div>
+          <div>
+            <span class="eyebrow">Mock test complete</span>
+            <h1 id="gradeMsg">Nice work</h1>
+            <div class="big"><b id="pctText">0%</b> · <span id="scoreText">0 / 100 correct</span></div>
+            <div class="muted" id="timeText"></div>
+            <span class="timeup" id="timeUp" hidden>Time ran out, so the test was submitted automatically</span>
+          </div>
+        </div>
+
+        <h2 class="section-title">By module</h2>
+        <div class="mod-bars" id="modBars"></div>
+      </div>
+
+      <h2 class="section-title">Question by question</h2>
+      <div class="review-filters" id="reviewFilters"></div>
+      <div class="review-list" id="reviewList"></div>
+
+      <div class="results-actions">
+        <a class="btn btn-ghost" href="index.html">Home</a>
+        <button class="btn btn-primary" id="againBtn" type="button">Take another test</button>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="confirmDialog">
+    <h2>Finish the test?</h2>
+    <p id="confirmText"></p>
+    <div class="dialog-actions">
+      <button class="btn btn-ghost" id="confirmCancel" type="button">Keep going</button>
+      <button class="btn btn-primary" id="confirmOk" type="button">Finish &amp; mark</button>
+    </div>
+  </dialog>
+
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/confetti.js"></script>
+  <script src="assets/js/mock.js"></script>
+</body>
+</html>

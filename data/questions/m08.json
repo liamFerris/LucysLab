@@ -1,0 +1,160 @@
+[
+  {
+    "id": "m08-001",
+    "module": "m08",
+    "type": "mcq",
+    "question": "On a radiograph, what term describes black areas where X-ray photons have passed through the patient without absorption?",
+    "options": [
+      "Radiopaque",
+      "Radiolucent",
+      "Mixture",
+      "Star artefact"
+    ],
+    "answer": "B",
+    "explanation": "Radiolucent areas are black because photons passed through the patient with no absorption and hit the film."
+  },
+  {
+    "id": "m08-002",
+    "module": "m08",
+    "type": "mcq",
+    "question": "On a radiograph, what term describes white areas where X-ray photons have been totally absorbed by the patient?",
+    "options": [
+      "Radiopaque",
+      "Radiolucent",
+      "Mixture",
+      "Tomographic"
+    ],
+    "answer": "A",
+    "explanation": "Radiopaque areas are white because the X-ray photons were totally absorbed."
+  },
+  {
+    "id": "m08-003",
+    "module": "m08",
+    "type": "tf",
+    "question": "Grey areas on a radiograph occur where there are varying degrees of absorption of X-ray photons.",
+    "answer": true,
+    "explanation": "Grey (mixture) areas result from varying degrees of absorption."
+  },
+  {
+    "id": "m08-004",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Which of the factors that affect an X-ray image depends on the exposure factors?",
+    "options": [
+      "Object thickness or density",
+      "Object shape",
+      "Position of the film",
+      "X-ray beam intensity"
+    ],
+    "answer": "D",
+    "explanation": "X-ray beam intensity depends on the exposure factors; the other options relate to the object or positioning."
+  },
+  {
+    "id": "m08-005",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Which of these is a limitation of 2D digital images?",
+    "options": [
+      "Star artefacts from metal objects",
+      "Blurring from a moving tubehead",
+      "Affected by software image processing",
+      "Shows only a slice of the patient"
+    ],
+    "answer": "C",
+    "explanation": "2D digital images are 2D representations of 3D objects, affected by geometrical distortion and software image processing."
+  },
+  {
+    "id": "m08-006",
+    "module": "m08",
+    "type": "tf",
+    "question": "Dental panoramic radiographs are a type of tomograph.",
+    "answer": true,
+    "explanation": "Dental panoramic radiographs are tomographs, or 'sectional radiographs'."
+  },
+  {
+    "id": "m08-007",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Why are tomographs (such as dental panoramic radiographs) blurred?",
+    "options": [
+      "The X-ray tubehead and film are moving",
+      "The beam is totally absorbed by soft tissue",
+      "The voxel size is too large",
+      "The film is not embossed for orientation"
+    ],
+    "answer": "A",
+    "explanation": "Tomographs are blurred because the X-ray tubehead and film move during the exposure."
+  },
+  {
+    "id": "m08-008",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Why is the resolution of film-based tomographs relatively poor?",
+    "options": [
+      "A real-time solid-state digital sensor is used",
+      "The voxels used to build the image are very small",
+      "An indirect-action film-screen receptor is used",
+      "A direct-action intra-oral film packet is used instead"
+    ],
+    "answer": "C",
+    "explanation": "Tomograph resolution is relatively poor because an indirect-action film-screen image receptor is used."
+  },
+  {
+    "id": "m08-009",
+    "module": "m08",
+    "type": "tf",
+    "question": "A tomograph gives a general overview of the patient rather than a slice.",
+    "answer": false,
+    "explanation": "Tomographs only represent a slice of the patient, not a general overview."
+  },
+  {
+    "id": "m08-010",
+    "module": "m08",
+    "type": "mcq",
+    "question": "In Cone Beam CT (CBCT) images, what can metallic objects create?",
+    "options": [
+      "Equipment ghost shadows",
+      "Star artefacts",
+      "Air shadows",
+      "Processing faults"
+    ],
+    "answer": "B",
+    "explanation": "A limitation of CBCT is that metallic objects can create star artefacts."
+  },
+  {
+    "id": "m08-011",
+    "module": "m08",
+    "type": "mcq",
+    "question": "What is the resolution of a Cone Beam CT (CBCT) image dependent on?",
+    "options": [
+      "The speed of the film",
+      "The type of intensifying screen",
+      "The size of the film packet",
+      "The voxel size"
+    ],
+    "answer": "D",
+    "explanation": "CBCT resolution is dependent on voxel size."
+  },
+  {
+    "id": "m08-012",
+    "module": "m08",
+    "type": "tf",
+    "question": "Plain films such as periapicals and bitewings are not affected by geometrical distortion.",
+    "answer": false,
+    "explanation": "Plain films are affected by geometrical distortions, as well as exposure factors and processing faults."
+  },
+  {
+    "id": "m08-013",
+    "module": "m08",
+    "type": "mcq",
+    "question": "What do the complex 3D volumetric and reformatted images produced by CBCT require?",
+    "options": [
+      "A rare-earth intensifying screen",
+      "Detailed 3D anatomical knowledge",
+      "A longer focus-to-skin distance",
+      "Chemical processing in a darkroom"
+    ],
+    "answer": "B",
+    "explanation": "Multiple complex 3D volumetric and reformatted images can be created, requiring detailed 3D anatomical knowledge."
+  }
+]

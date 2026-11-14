@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Module Notes · Lucy's Lab</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><img class="logo" src="assets/img/logo.svg" alt=""><span>Lucy's Lab</span></a>
+    <nav class="topnav" aria-label="Main">
+      <a href="study.html">Study</a>
+      <a href="mock.html">Mock test</a>
+      <a href="notes.html" aria-current="page">Notes</a>
+    </nav>
+  </header>
+
+  <main class="page page-wide" id="notesMain">
+    <div class="notes-layout">
+      <aside class="notes-side">
+        <h2>Modules</h2>
+        <ul class="notes-list" id="notesList"></ul>
+        <label class="notes-select-wrap">
+          <span class="visually-hidden">Choose a module</span>
+          <select id="notesSelect" class="notes-select"></select>
+        </label>
+      </aside>
+
+      <article class="card">
+        <div class="notes-head">
+          <span class="highlight-key"><mark>Highlighted</mark> = key points from Lucy's notes</span>
+          <a class="btn btn-ghost btn-sm" id="practiseBtn" href="study.html">Practise this module</a>
+        </div>
+        <div class="prose" id="notesBody">
+          <div class="skeleton" style="width:50%;height:32px"></div>
+          <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton" style="width:70%"></div>
+        </div>
+        <div class="notes-foot">
+          <a class="btn btn-ghost btn-sm" id="prevNote" href="#"></a>
+          <a class="btn btn-ghost btn-sm" id="nextNote" href="#"></a>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/notes.js"></script>
+</body>
+</html>

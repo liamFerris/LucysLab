@@ -1,0 +1,232 @@
+[
+  {
+    "id": "m25-001",
+    "module": "m25",
+    "type": "mcq",
+    "question": "What does the term hypodontia describe?",
+    "options": [
+      "Too few teeth",
+      "Too many teeth",
+      "A large pulp chamber",
+      "A bent incisor"
+    ],
+    "answer": "A",
+    "explanation": "Hypodontia is a number defect meaning too few teeth; too many teeth are supernumeraries."
+  },
+  {
+    "id": "m25-002",
+    "module": "m25",
+    "type": "mcq",
+    "question": "What is a taurodont tooth?",
+    "options": [
+      "A group of multiple, small, tooth-like structures",
+      "A tooth with a large pulp chamber",
+      "A tooth within a tooth",
+      "An incisor with a bent root"
+    ],
+    "answer": "B",
+    "explanation": "A taurodont tooth is a shape defect with a large pulp chamber."
+  },
+  {
+    "id": "m25-003",
+    "module": "m25",
+    "type": "mcq",
+    "question": "How does a complex odontome appear on a radiograph?",
+    "options": [
+      "As multiple, small tooth-like structures grouped together",
+      "As a tooth within a tooth",
+      "As a jumble of dental tissues forming a radiopaque mass",
+      "As a multilocular 'soap bubble' radiolucency"
+    ],
+    "answer": "C",
+    "explanation": "A complex odontome is a jumble of dental tissues which appears as a radiopaque mass; a compound odontome is multiple small teeth."
+  },
+  {
+    "id": "m25-004",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Which of these is a developmental position defect of the teeth?",
+    "options": [
+      "Taurodont tooth",
+      "Compound odontome (multiple, small teeth)",
+      "Hypodontia",
+      "Unerupted, impacted third molars"
+    ],
+    "answer": "D",
+    "explanation": "Position defects include unerupted maxillary canines, unerupted impacted third molars and dilacerated (bent) incisors."
+  },
+  {
+    "id": "m25-005",
+    "module": "m25",
+    "type": "mcq",
+    "question": "When bone reacts to disease by resorption, how does the lesion appear?",
+    "options": [
+      "As a radiolucent lesion",
+      "As a radiopaque lesion",
+      "With a 'sun-ray' appearance",
+      "With a dense bony margin"
+    ],
+    "answer": "A",
+    "explanation": "Resorption means bone is removed, giving a radiolucent lesion; deposition lays bone down, giving a radiopaque lesion."
+  },
+  {
+    "id": "m25-006",
+    "module": "m25",
+    "type": "mcq",
+    "question": "How does a slow-growing benign lesion of the jaw typically appear?",
+    "options": [
+      "A poorly defined area with no surrounding dense bony margin",
+      "A well-defined radiolucency with a dense radiopaque margin",
+      "An irregular area of bone destruction around the teeth",
+      "A radiopaque mass with a 'sun-ray' pattern"
+    ],
+    "answer": "B",
+    "explanation": "Benign lesions grow slowly, so the body lays down bone around them, giving a well-defined radiolucent area with a dense, radiopaque bony margin."
+  },
+  {
+    "id": "m25-007",
+    "module": "m25",
+    "type": "mcq",
+    "question": "How does osteomyelitis appear on a radiograph?",
+    "options": [
+      "As a well-defined radiolucency around a tooth apex",
+      "As a radiolucency in the midline of the anterior maxilla",
+      "As a poorly defined lucent area where bone has been resorbed",
+      "As a well-defined lump of bone that is easily seen on radiographs"
+    ],
+    "answer": "C",
+    "explanation": "Osteomyelitis is a spreading infection that appears as a poorly defined lucent area where the bone has been resorbed."
+  },
+  {
+    "id": "m25-008",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Which is the most common type of odontogenic cyst?",
+    "options": [
+      "Dentigerous cyst",
+      "Odontogenic keratocyst",
+      "Residual cyst",
+      "Radicular dental cyst"
+    ],
+    "answer": "D",
+    "explanation": "The radicular dental cyst is the most common type: round, unilocular, with a well-defined bony outline at the apex of a non-vital tooth."
+  },
+  {
+    "id": "m25-009",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Where is a dentigerous cyst found?",
+    "options": [
+      "Around the crown of an unerupted tooth",
+      "At the apex of a non-vital tooth",
+      "In the midline of the anterior maxilla",
+      "Where a non-vital tooth has been extracted"
+    ],
+    "answer": "A",
+    "explanation": "A dentigerous cyst is a round, unilocular area of radiolucency around the crown of an unerupted tooth."
+  },
+  {
+    "id": "m25-010",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Where does a nasopalatine duct cyst appear on a radiograph?",
+    "options": [
+      "Around the apex of a non-vital tooth",
+      "In the midline of the anterior maxilla",
+      "Around the crown of an unerupted tooth",
+      "In the posterior quadrants of the jaws"
+    ],
+    "answer": "B",
+    "explanation": "The nasopalatine duct cyst is a developmental, non-odontogenic cyst that appears as a radiolucency in the midline of the anterior maxilla."
+  },
+  {
+    "id": "m25-011",
+    "module": "m25",
+    "type": "mcq",
+    "question": "When an osteosarcoma deposits bone (osteogenic), what characteristic appearance does it have?",
+    "options": [
+      "A 'soap bubble' appearance",
+      "A 'hole in the bone' appearance",
+      "A 'sun-ray' appearance",
+      "A 'tooth within a tooth' appearance"
+    ],
+    "answer": "C",
+    "explanation": "Osteosarcoma can be osteolytic (destroying bone) or osteogenic (depositing bone with a characteristic 'sun-ray' appearance)."
+  },
+  {
+    "id": "m25-012",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Which is the most common oral cancer?",
+    "options": [
+      "Osteosarcoma",
+      "Ameloblastoma",
+      "Secondary metastatic deposit",
+      "Primary squamous cell carcinoma"
+    ],
+    "answer": "D",
+    "explanation": "Primary squamous cell carcinoma is the most common oral cancer; it can invade local bone and show as irregular bone destruction."
+  },
+  {
+    "id": "m25-013",
+    "module": "m25",
+    "type": "mcq",
+    "question": "How does the radiographic appearance of cemento-osseous dysplasia change over time?",
+    "options": [
+      "It starts radiolucent and becomes radiopaque as it calcifies",
+      "It starts radiopaque and becomes radiolucent as it resorbs",
+      "It stays radiolucent with a 'soap bubble' appearance",
+      "It becomes an irregular area of bone destruction"
+    ],
+    "answer": "A",
+    "explanation": "Periapical cemento-osseous dysplasia first appears as radiolucencies around the apices, and once the lesions calcify they appear as opacities; florid cemento-osseous dysplasia changes in the same way."
+  },
+  {
+    "id": "m25-014",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: an odontogenic keratocyst typically has a multilocular, 'soap bubble' appearance.",
+    "answer": true,
+    "explanation": "True. The odontogenic keratocyst is multilocular with a 'soap bubble' appearance, and develops instead of a tooth."
+  },
+  {
+    "id": "m25-015",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: a residual cyst is a dentigerous cyst left behind after an unerupted tooth has been removed.",
+    "answer": false,
+    "explanation": "False. A residual cyst is a radicular cyst left behind after the non-vital tooth has been extracted."
+  },
+  {
+    "id": "m25-016",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: an ameloblastoma is an odontogenic tumour that is multilocular, expansive and locally aggressive.",
+    "answer": true,
+    "explanation": "True. Ameloblastoma is multilocular, expansive and locally aggressive, and also has a 'soap bubble' appearance."
+  },
+  {
+    "id": "m25-017",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: a central giant cell granuloma is a malignant, multilocular, expansive lesion.",
+    "answer": false,
+    "explanation": "False. A central giant cell granuloma is a benign, multilocular, expansive lesion."
+  },
+  {
+    "id": "m25-018",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: a solitary bone cyst is a benign lesion that appears as an irregular 'hole in the bone'.",
+    "answer": true,
+    "explanation": "True. A solitary bone cyst is benign and appears as an irregular 'hole in the bone'."
+  },
+  {
+    "id": "m25-019",
+    "module": "m25",
+    "type": "tf",
+    "question": "True or false: florid cemento-osseous dysplasia usually affects the anterior quadrants of the jaws.",
+    "answer": false,
+    "explanation": "False. Florid cemento-osseous dysplasia usually affects the posterior quadrants, changing from a radiolucency to a radiopacity."
+  }
+]

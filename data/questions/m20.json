@@ -1,0 +1,182 @@
+[
+  {
+    "id": "m20-001",
+    "module": "m20",
+    "type": "mcq",
+    "question": "What does 'cephalo' mean?",
+    "options": [
+      "In or of the head",
+      "Measurement",
+      "Of the face and jaws",
+      "Side view"
+    ],
+    "answer": "A",
+    "explanation": "Cephalo means in or of the head; metric means measurement."
+  },
+  {
+    "id": "m20-002",
+    "module": "m20",
+    "type": "mcq",
+    "question": "What is cephalometry?",
+    "options": [
+      "Imaging all of the teeth and both jaws together in a single panoramic sweep",
+      "Measuring specific points, distances and lines in the facial skeleton",
+      "Assessing the position of unerupted wisdom teeth",
+      "Taking two oblique laterals on one film"
+    ],
+    "answer": "B",
+    "explanation": "Cephalometry is the measurement and comparison of specific points, distances and lines within the facial skeleton."
+  },
+  {
+    "id": "m20-003",
+    "module": "m20",
+    "type": "tf",
+    "question": "In the word 'cephalometry', 'metric' means measurement.",
+    "answer": true,
+    "explanation": "Cephalo means in or of the head, and metric means measurement."
+  },
+  {
+    "id": "m20-004",
+    "module": "m20",
+    "type": "mcq",
+    "question": "What are true cephalometric lateral skull radiographs mainly used for?",
+    "options": [
+      "Implant planning",
+      "Detecting salivary calculi",
+      "Orthodontics",
+      "Assessing the antral floor"
+    ],
+    "answer": "C",
+    "explanation": "They assess the relationships of the teeth to the jaws and the jaws to the facial skeleton, mainly in orthodontics."
+  },
+  {
+    "id": "m20-005",
+    "module": "m20",
+    "type": "tf",
+    "question": "A true cephalometric lateral skull assesses the relationship of the teeth to the jaws, and of the jaws to the rest of the facial skeleton.",
+    "answer": true,
+    "explanation": "This is the purpose of a true cephalometric lateral skull radiograph."
+  },
+  {
+    "id": "m20-006",
+    "module": "m20",
+    "type": "mcq",
+    "question": "Which is a clinical indication for a true cephalometric lateral skull?",
+    "options": [
+      "Detecting fractures of the mandibular condyle",
+      "Assessing mandibular tori",
+      "Assessing cleft palate",
+      "Monitoring orthodontic treatment progress"
+    ],
+    "answer": "D",
+    "explanation": "Indications include initial diagnosis, treatment planning, monitoring treatment progress and checking targets at the end of treatment."
+  },
+  {
+    "id": "m20-007",
+    "module": "m20",
+    "type": "mcq",
+    "question": "When might a cephalometric lateral skull be taken at the end of retention?",
+    "options": [
+      "If stability is uncertain",
+      "Routinely for every patient",
+      "Only if a tooth is extracted",
+      "If the patient requests one"
+    ],
+    "answer": "A",
+    "explanation": "At the end of retention it is taken if stability is uncertain, unfavourable growth is indicated, or there are clinically observed changes."
+  },
+  {
+    "id": "m20-008",
+    "module": "m20",
+    "type": "mcq",
+    "question": "For a cephalometric lateral skull, what is the ideal focus-to-image receptor distance?",
+    "options": [
+      "0.5–0.8 metres",
+      "1.5–1.8 metres",
+      "1.0–1.2 metres",
+      "2.0–2.5 metres"
+    ],
+    "answer": "B",
+    "explanation": "To minimise magnification effects, the focus-to-receptor distance should ideally be 1.5–1.8 m."
+  },
+  {
+    "id": "m20-009",
+    "module": "m20",
+    "type": "tf",
+    "question": "The focus-to-image receptor distance for a cephalometric lateral skull is kept long in order to increase magnification.",
+    "answer": false,
+    "explanation": "The long 1.5–1.8 m distance is used to minimise magnification effects."
+  },
+  {
+    "id": "m20-010",
+    "module": "m20",
+    "type": "mcq",
+    "question": "What is a cephalostat?",
+    "options": [
+      "A digital image receptor",
+      "A collimator that shapes and restricts the X-ray beam",
+      "A head positioning and stabilising device",
+      "A light beam positioning marker"
+    ],
+    "answer": "C",
+    "explanation": "A cephalostat is a head positioning and stabilising device, either a separate unit or an attachment to a panoramic unit."
+  },
+  {
+    "id": "m20-011",
+    "module": "m20",
+    "type": "mcq",
+    "question": "When positioning a patient for a cephalometric lateral skull, where are the ear rods inserted?",
+    "options": [
+      "Against the bridge of the nose",
+      "Behind the ascending ramus",
+      "Under the lower border of the mandible",
+      "Into the external auditory meati"
+    ],
+    "answer": "D",
+    "explanation": "The plastic ear rods are inserted gradually and very carefully into the external auditory meati; the nasion marker goes on the bridge of the nose."
+  },
+  {
+    "id": "m20-012",
+    "module": "m20",
+    "type": "mcq",
+    "question": "For a cephalometric lateral skull, how should the patient's teeth be positioned during the exposure?",
+    "options": [
+      "Together in maximum intercuspation",
+      "Edge-to-edge, with the incisors resting in a bite peg",
+      "Apart with the mouth open",
+      "Biting on an occlusal receptor"
+    ],
+    "answer": "A",
+    "explanation": "The patient is asked to bite together with their teeth in maximum intercuspation."
+  },
+  {
+    "id": "m20-013",
+    "module": "m20",
+    "type": "tf",
+    "question": "For a cephalometric lateral skull, the patient is positioned with the sagittal plane horizontal and the Frankfort plane vertical.",
+    "answer": false,
+    "explanation": "The sagittal plane should be vertical and parallel to the receptor, and the Frankfort plane horizontal."
+  },
+  {
+    "id": "m20-014",
+    "module": "m20",
+    "type": "mcq",
+    "question": "Which is an ideal image quality criterion for a cephalometric lateral skull?",
+    "options": [
+      "Right and left ear rod shadows shown clearly separated",
+      "Right and left ear rod shadows superimposed exactly",
+      "Only the teeth and alveolar bone included",
+      "Frankfort plane tilted slightly downwards"
+    ],
+    "answer": "B",
+    "explanation": "The right and left ear rod shadows should be superimposed exactly, with the Frankfort plane horizontal."
+  },
+  {
+    "id": "m20-015",
+    "module": "m20",
+    "type": "tf",
+    "question": "On an ideal cephalometric lateral skull, the soft tissue profile should be identifiable.",
+    "answer": true,
+    "explanation": "The soft tissue profile should be identifiable (digital enhancement), and hard and soft tissues should be differentiated."
+  }
+]

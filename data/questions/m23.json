@@ -1,0 +1,218 @@
+[
+  {
+    "id": "m23-001",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which legislation is mainly concerned with the safety of workers and the general public?",
+    "options": [
+      "Ionising Radiation (Medical Exposure) Regulations 2017",
+      "Ionising Radiations Regulations 2017",
+      "The Health and Safety at Work Act",
+      "The Data Protection Act"
+    ],
+    "answer": "B",
+    "explanation": "IRR17 is concerned with the safety of workers and the general public; IRMER is concerned with patients."
+  },
+  {
+    "id": "m23-002",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which legislation is mainly concerned with the safety of patients and ensuring they benefit from X-ray investigations?",
+    "options": [
+      "Ionising Radiation (Medical Exposure) Regulations 2017",
+      "Ionising Radiations Regulations 2017",
+      "The Control of Substances Hazardous to Health Regulations",
+      "The Medicines Act"
+    ],
+    "answer": "A",
+    "explanation": "IRMER 2017 is concerned with the safety of patients and ensuring they benefit from X-ray investigations."
+  },
+  {
+    "id": "m23-003",
+    "module": "m23",
+    "type": "tf",
+    "question": "The Ionising Radiations Regulations 2017 (IRR17) are mainly concerned with the safety of patients.",
+    "answer": false,
+    "explanation": "IRR17 is concerned with the safety of workers and the general public; patient safety is the concern of IRMER 2017."
+  },
+  {
+    "id": "m23-004",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRR17, which body must the employer apply to in order to register to use ionising radiation?",
+    "options": [
+      "The General Dental Council",
+      "The Care Quality Commission",
+      "The Health and Safety Executive",
+      "The British Dental Association"
+    ],
+    "answer": "C",
+    "explanation": "Under IRR17 the employer must apply to the Health and Safety Executive to register to use ionising radiation."
+  },
+  {
+    "id": "m23-005",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRR17, which reports must the employer obtain on installation of new X-ray equipment?",
+    "options": [
+      "Critical examination and acceptance test reports",
+      "Clinical audit and patient diagnostic reference level reports",
+      "Prior risk assessment and Local Rules compliance reports",
+      "Image quality and processing reports"
+    ],
+    "answer": "A",
+    "explanation": "The employer must obtain the 'critical examination' and 'acceptance test' reports when new equipment is installed."
+  },
+  {
+    "id": "m23-006",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRR17, which person must the employer appoint?",
+    "options": [
+      "A Medical Physics Expert",
+      "A Radiation Protection Supervisor",
+      "A Health and Safety Inspector",
+      "A Clinical Auditor"
+    ],
+    "answer": "B",
+    "explanation": "IRR17 requires the employer to appoint a Radiation Protection Supervisor and to consult with a Radiation Protection Adviser."
+  },
+  {
+    "id": "m23-007",
+    "module": "m23",
+    "type": "tf",
+    "question": "Under IRR17, the employer must carry out a prior radiation risk assessment.",
+    "answer": true,
+    "explanation": "Carrying out a prior radiation risk assessment is one of the employer's essential legal requirements under IRR17."
+  },
+  {
+    "id": "m23-008",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRR17, what must an employee do immediately if they have reasonable cause to believe an incident leading to an overexposure has occurred?",
+    "options": [
+      "Repeat the radiograph",
+      "Inform the patient's GP",
+      "Report it to their employer",
+      "Switch off the mains supply"
+    ],
+    "answer": "C",
+    "explanation": "Employees must immediately report to their employer whenever they believe an incident or accident has led to an overexposure."
+  },
+  {
+    "id": "m23-009",
+    "module": "m23",
+    "type": "tf",
+    "question": "Under IRR17, an employee who believes an overexposure incident has occurred must report it directly to the Health and Safety Executive rather than to their employer.",
+    "answer": false,
+    "explanation": "Employees must immediately report to their employer whenever they have reasonable cause to believe an incident or accident leading to an overexposure has occurred."
+  },
+  {
+    "id": "m23-010",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRMER 2017, who is appointed or consulted to advise on dosimetry, equipment QA, dose optimisation and radiation protection?",
+    "options": [
+      "The Radiation Protection Supervisor",
+      "The referrer",
+      "The Operator",
+      "The Medical Physics Expert"
+    ],
+    "answer": "D",
+    "explanation": "IRMER requires appointing or consulting with a Medical Physics Expert (MPE) for advice on dosimetry, equipment QA, dose, optimisation and radiation protection."
+  },
+  {
+    "id": "m23-011",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which of the following is an essential legal requirement under IRMER 2017?",
+    "options": [
+      "Ensuring all medical exposures are justified",
+      "Designating the controlled area",
+      "Registering with the Health and Safety Executive",
+      "Producing Local Rules"
+    ],
+    "answer": "A",
+    "explanation": "Ensuring all medical exposures are justified is an IRMER requirement; the other options are IRR17 employer duties."
+  },
+  {
+    "id": "m23-012",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRMER, what is an Operator?",
+    "options": [
+      "The person who refers the patient to the Practitioner for an X-ray",
+      "A person conducting any practical aspect of a medical exposure",
+      "The person who justifies every exposure",
+      "The person who services and maintains the X-ray equipment"
+    ],
+    "answer": "B",
+    "explanation": "An Operator is a person conducting any practical aspect of a medical exposure, including exposing the radiograph and processing the film."
+  },
+  {
+    "id": "m23-013",
+    "module": "m23",
+    "type": "tf",
+    "question": "Dental nurses acting as Operators who X-ray patients should possess a Certificate in Dental Radiography.",
+    "answer": true,
+    "explanation": "Dental nurses acting as Operators involved in X-raying patients should hold a Certificate in Dental Radiography."
+  },
+  {
+    "id": "m23-014",
+    "module": "m23",
+    "type": "tf",
+    "question": "Operators should attend a continuing education course in radiography every ten years.",
+    "answer": false,
+    "explanation": "CPD is mandatory for Practitioners and Operators, and Operators should attend a continuing education course every five years."
+  },
+  {
+    "id": "m23-015",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which three qualities must a patient's consent to being X-rayed have?",
+    "options": [
+      "Written, signed and witnessed by a second person",
+      "Verbal, recorded and dated",
+      "Voluntary, informed and given with capacity",
+      "Immediate, written and repeated"
+    ],
+    "answer": "C",
+    "explanation": "Consent must be voluntary and informed, and the patient must have the capacity to understand the information provided."
+  },
+  {
+    "id": "m23-016",
+    "module": "m23",
+    "type": "mcq",
+    "question": "A dentist asks you to X-ray a patient, but you were not present when consent was given. Which is good practice before proceeding?",
+    "options": [
+      "Ask the referring dentist to sign and date the radiograph request form again",
+      "Take an extra radiograph to be safe",
+      "Proceed without speaking to the patient",
+      "Confirm the patient's identity and which radiographs you will take"
+    ],
+    "answer": "D",
+    "explanation": "Good practice is to confirm the patient's identity, which radiographs you will take, that they are happy to proceed, and parental consent for children."
+  },
+  {
+    "id": "m23-017",
+    "module": "m23",
+    "type": "mcq",
+    "question": "If you were not present when consent was given, what should you confirm before X-raying a child?",
+    "options": [
+      "That the child has had a radiograph before",
+      "That the child has brought a referral letter",
+      "That the child is over twelve years old",
+      "That you have parental consent"
+    ],
+    "answer": "D",
+    "explanation": "It is good practice to confirm that you have parental consent before X-raying children."
+  },
+  {
+    "id": "m23-018",
+    "module": "m23",
+    "type": "tf",
+    "question": "If the Operator was present in the surgery when the patient gave consent, they can proceed with the radiograph.",
+    "answer": true,
+    "explanation": "If you were present when the patient gave consent, you can proceed; if not, you should carry out the good-practice checks."
+  }
+]

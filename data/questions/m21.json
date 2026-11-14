@@ -1,0 +1,174 @@
+[
+  {
+    "id": "m21-001",
+    "module": "m21",
+    "type": "mcq",
+    "question": "In dental radiography, what is meant by 'localisation'?",
+    "options": [
+      "Reducing the size of the X-ray beam so it covers only the area of interest",
+      "Establishing radiographically the position of a buried object",
+      "Identifying the cause of a fault seen on a processed radiographic film",
+      "Marking the patient's teeth before taking a radiograph"
+    ],
+    "answer": "B",
+    "explanation": "Localisation is the process of establishing radiographically the position or location of a buried object, such as an unerupted tooth."
+  },
+  {
+    "id": "m21-002",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which definition best describes parallax?",
+    "options": [
+      "The apparent displacement of an object because of two different positions of the observer",
+      "The blurring of an image caused by the patient moving their head or jaw during the exposure",
+      "The magnification of an object that lies far from the image receptor",
+      "The overlapping of adjacent teeth caused by incorrect horizontal angulation of the beam"
+    ],
+    "answer": "A",
+    "explanation": "Parallax is the apparent displacement of an object because of two different positions of the observer: stationary objects seem to move as the point of view changes."
+  },
+  {
+    "id": "m21-003",
+    "module": "m21",
+    "type": "mcq",
+    "question": "When localising an object using two radiographs taken at right angles, what does the second radiograph add?",
+    "options": [
+      "The up/down dimension",
+      "The left/right dimension",
+      "The in/out dimension",
+      "The size of the object"
+    ],
+    "answer": "C",
+    "explanation": "The first radiograph locates the object in the up/down and left/right dimensions; the second locates it in the in/out dimension."
+  },
+  {
+    "id": "m21-004",
+    "module": "m21",
+    "type": "mcq",
+    "question": "A plastic denture base plate containing metal markers at known points, worn by the patient during the exposure, is an example of which localisation method?",
+    "options": [
+      "Vertical parallax",
+      "Horizontal parallax",
+      "Cone beam CT",
+      "A radiographic stent"
+    ],
+    "answer": "D",
+    "explanation": "A radiographic stent contains metal markers at known points, so tooth position can be measured from its relationship to the markers."
+  },
+  {
+    "id": "m21-005",
+    "module": "m21",
+    "type": "mcq",
+    "question": "In the SLOB rule used for parallax localisation, what does the 'O' stand for?",
+    "options": [
+      "Occlusal",
+      "Oblique",
+      "Opposite",
+      "Outer"
+    ],
+    "answer": "C",
+    "explanation": "SLOB stands for Same, Lingual, Opposite, Buccal."
+  },
+  {
+    "id": "m21-006",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Using parallax, an unerupted canine seems to move in the same direction as the tubehead. Where does it lie in relation to the superimposed teeth?",
+    "options": [
+      "Lingual (palatal)",
+      "Buccal (cheek side)",
+      "Mesial",
+      "Distal"
+    ],
+    "answer": "A",
+    "explanation": "Same = Lingual: if the tooth moves in the same direction as the tubehead, it is lingual (palatal) to any superimposed object."
+  },
+  {
+    "id": "m21-007",
+    "module": "m21",
+    "type": "tf",
+    "question": "When using parallax, if an unerupted tooth seems to move in the opposite direction to the tubehead, it lies buccal to any superimposed object.",
+    "answer": true,
+    "explanation": "Opposite = Buccal: movement in the opposite direction to the tubehead means the tooth is buccal."
+  },
+  {
+    "id": "m21-008",
+    "module": "m21",
+    "type": "tf",
+    "question": "When using parallax, if an unerupted tooth seems to move in the same direction as the tubehead, it lies buccal to any superimposed object.",
+    "answer": false,
+    "explanation": "Movement in the same direction as the tubehead means the tooth is lingual (palatal); movement in the opposite direction means it is buccal."
+  },
+  {
+    "id": "m21-009",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which pair of radiographs is used for horizontal parallax?",
+    "options": [
+      "A dental panoramic radiograph taken from the front plus an upper standard occlusal taken from the top",
+      "Two periapicals, one centred on the upper central incisor and one on the canine region",
+      "Two bitewings, one taken on each side of the mouth",
+      "A lateral cephalogram and a dental panoramic radiograph"
+    ],
+    "answer": "B",
+    "explanation": "Horizontal parallax uses two periapicals (central incisor and canine region), or an upper standard occlusal on the midline plus a periapical or upper oblique occlusal on the canine region."
+  },
+  {
+    "id": "m21-010",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which pair of radiographs is used for vertical parallax?",
+    "options": [
+      "Two periapicals, one centred on the central incisor and one on the canine",
+      "An upper standard occlusal and an upper oblique occlusal",
+      "A periapical and a bitewing of the same region",
+      "A dental panoramic radiograph and an upper standard occlusal"
+    ],
+    "answer": "D",
+    "explanation": "Vertical parallax uses a dental panoramic radiograph (from the front) and an upper standard occlusal (from the top)."
+  },
+  {
+    "id": "m21-011",
+    "module": "m21",
+    "type": "tf",
+    "question": "For horizontal parallax, an upper standard occlusal centred on the midline can be combined with an upper oblique occlusal centred on the canine region.",
+    "answer": true,
+    "explanation": "Horizontal parallax can use an upper standard occlusal on the midline plus a periapical or upper oblique occlusal centred on the canine region."
+  },
+  {
+    "id": "m21-012",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Parallax is mainly used to assess the position of unerupted canines, odontomes and supernumeraries in which jaw?",
+    "options": [
+      "The mandible",
+      "The maxilla",
+      "The temporomandibular joint",
+      "Both jaws equally"
+    ],
+    "answer": "B",
+    "explanation": "Parallax is used to assess the position of unerupted canines, odontomes and supernumeraries in the maxilla."
+  },
+  {
+    "id": "m21-013",
+    "module": "m21",
+    "type": "tf",
+    "question": "CBCT machines with a large field of view are ideal for localising unerupted or supernumerary canines in the maxilla.",
+    "answer": false,
+    "explanation": "CBCT machines with a small field of view (FOV) are ideal for localising unerupted or supernumerary maxillary canines."
+  },
+  {
+    "id": "m21-014",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Why does Cone Beam Computed Tomography (CBCT) make localisation of an unerupted tooth very easy?",
+    "options": [
+      "It produces a single flat image with no superimposition of the dental arches",
+      "It uses a much lower dose than a periapical",
+      "It allows viewing of slices and moving through them in every direction",
+      "It shows the tooth at a larger magnification than plain films"
+    ],
+    "answer": "C",
+    "explanation": "CBCT lets you view slices of the patient and move back and forth, up and down, and left and right through them."
+  }
+]

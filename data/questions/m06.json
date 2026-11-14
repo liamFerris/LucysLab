@@ -1,0 +1,240 @@
+[
+  {
+    "id": "m06-001",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Which type of digital receptor produces an instantaneous image by converting X-ray energy into electrical signals?",
+    "options": [
+      "Phosphor plate receptor",
+      "Solid-state receptor",
+      "Indirect-action film",
+      "Intensifying screen"
+    ],
+    "answer": "B",
+    "explanation": "Solid-state ('corded') receptors are electronic and produce an instantaneous image by converting X-ray energy into electrical signals."
+  },
+  {
+    "id": "m06-002",
+    "module": "m06",
+    "type": "mcq",
+    "question": "With a phosphor plate ('cordless') digital system, how is the image stored on the plate turned into a digital image?",
+    "options": [
+      "It is scanned by a laser reader",
+      "It is developed in chemical solutions",
+      "It is sent instantly down a cable",
+      "It is viewed directly on a light box"
+    ],
+    "answer": "A",
+    "explanation": "Phosphor plates store the image, which is then scanned by a laser reader that converts it into electrical signals to build the digital image."
+  },
+  {
+    "id": "m06-003",
+    "module": "m06",
+    "type": "tf",
+    "question": "Phosphor plate readers should be placed in a brightly lit room.",
+    "answer": false,
+    "explanation": "Phosphor plate readers should be placed in a dimly lit room."
+  },
+  {
+    "id": "m06-004",
+    "module": "m06",
+    "type": "mcq",
+    "question": "In a 2D digital radiograph, what influences the resolution (clarity) of the final image?",
+    "options": [
+      "The number of voxels in the field of view",
+      "The kV setting of the X-ray set",
+      "The size of each pixel",
+      "The speed rating of the sensor"
+    ],
+    "answer": "C",
+    "explanation": "2D digital images are made of pixels, and the size of each pixel influences the resolution of the final image."
+  },
+  {
+    "id": "m06-005",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Which of these is a disadvantage of digital imaging?",
+    "options": [
+      "Lower radiation dose to the patient than film",
+      "Rapid production of the radiographic image",
+      "Electronic storage and archiving of images",
+      "Sensors may be bulky and easily damaged"
+    ],
+    "answer": "D",
+    "explanation": "Digital sensors may be bulky and easily damaged, and systems can be expensive; the other options are advantages."
+  },
+  {
+    "id": "m06-006",
+    "module": "m06",
+    "type": "tf",
+    "question": "Elimination of film processing is an advantage of digital imaging.",
+    "answer": true,
+    "explanation": "Advantages of digital imaging include elimination of film processing, lower patient dose, rapid image production and electronic storage."
+  },
+  {
+    "id": "m06-007",
+    "module": "m06",
+    "type": "mcq",
+    "question": "With digital imaging, why is it essential that all retakes are properly justified, recorded and included in QA statistics?",
+    "options": [
+      "Because radiographs can be retaken so easily",
+      "Because digital sensors give higher doses",
+      "Because phosphor plates fade over time",
+      "Because digital images cannot be archived"
+    ],
+    "answer": "A",
+    "explanation": "The ease with which digital radiographs can be retaken means every retake must be justified, recorded and included in QA statistics."
+  },
+  {
+    "id": "m06-008",
+    "module": "m06",
+    "type": "mcq",
+    "question": "In Cone Beam Computed Tomography (CBCT), what are the tiny cubes that make up the 3D image called?",
+    "options": [
+      "Pixels",
+      "Phosphors",
+      "Voxels",
+      "Emulsions"
+    ],
+    "answer": "C",
+    "explanation": "CBCT images are made up of tiny cubes called voxels, which are much the same as pixels in 2D images and are reconstructed by computer."
+  },
+  {
+    "id": "m06-009",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Direct-action intra-oral films come in D, E and F speeds. Which is the fastest?",
+    "options": [
+      "D speed",
+      "F speed",
+      "E speed",
+      "All are the same speed"
+    ],
+    "answer": "B",
+    "explanation": "D, E and F refer to film speed, with F being the fastest type."
+  },
+  {
+    "id": "m06-010",
+    "module": "m06",
+    "type": "mcq",
+    "question": "In an intra-oral film packet, what is the main purpose of the thin sheet of lead foil?",
+    "options": [
+      "To emboss an orientation mark onto one corner of the film",
+      "To convert X-rays into visible light that exposes the film",
+      "To protect the film from saliva and moisture in the mouth",
+      "To stop X-rays passing through and reduce scatter"
+    ],
+    "answer": "D",
+    "explanation": "The lead foil helps stop X-rays passing through the film into the other side of the patient and helps prevent scattered photons reducing image quality."
+  },
+  {
+    "id": "m06-011",
+    "module": "m06",
+    "type": "tf",
+    "question": "The green emulsion on direct-action intra-oral film is sensitive to X-rays only and is not affected by light.",
+    "answer": false,
+    "explanation": "The emulsion is primarily sensitive to X-rays, but it is also sensitive to light."
+  },
+  {
+    "id": "m06-012",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Why must indirect-action (extra-oral) film be used with intensifying screens?",
+    "options": [
+      "Its emulsion is too slow to be used for extra-oral views",
+      "Its emulsion is coated on one side of the film only",
+      "Its emulsion is sensitive to light, not X-rays",
+      "Its emulsion does not need any chemical processing"
+    ],
+    "answer": "C",
+    "explanation": "The emulsion of indirect-action film is sensitive to various colours of light rather than X-rays, so screens are needed to convert the X-rays into light."
+  },
+  {
+    "id": "m06-013",
+    "module": "m06",
+    "type": "mcq",
+    "question": "What colour of light is emitted by calcium tungstate intensifying screens?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Ultraviolet"
+    ],
+    "answer": "A",
+    "explanation": "Calcium tungstate phosphors emit blue light; rare earth phosphors emit green, ultraviolet or red light."
+  },
+  {
+    "id": "m06-014",
+    "module": "m06",
+    "type": "tf",
+    "question": "For extra-oral film, the light colour sensitivity of the film should match the colour of light emitted by the intensifying screen.",
+    "answer": true,
+    "explanation": "Current recommendations state that film light sensitivity should match the emitted screen light colour, and rare-earth screens should ideally be used."
+  },
+  {
+    "id": "m06-015",
+    "module": "m06",
+    "type": "mcq",
+    "question": "During chemical processing of a radiograph, what does the fixer solution do?",
+    "options": [
+      "Reduces sensitised emulsion to black metallic silver",
+      "Removes unsensitised emulsion to reveal the clear base",
+      "Converts X-ray energy into an electrical signal",
+      "Makes the latent image sensitive to light"
+    ],
+    "answer": "B",
+    "explanation": "Fixer removes all the unsensitised emulsion to reveal the clear/white base underneath; it is the developer that produces black metallic silver."
+  },
+  {
+    "id": "m06-016",
+    "module": "m06",
+    "type": "mcq",
+    "question": "How might an inadequately fixed film appear soon after processing?",
+    "options": [
+      "Too dark all over",
+      "Too pale all over",
+      "Greenish-yellow or milky",
+      "Covered in star artefacts"
+    ],
+    "answer": "C",
+    "explanation": "Inadequately fixed films may look greenish-yellow or milky because emulsion has been left behind, and may turn brown over time."
+  },
+  {
+    "id": "m06-017",
+    "module": "m06",
+    "type": "tf",
+    "question": "Over-developed films are too pale.",
+    "answer": false,
+    "explanation": "Over-developed films are too dark; it is under-developed films that are too pale."
+  },
+  {
+    "id": "m06-018",
+    "module": "m06",
+    "type": "tf",
+    "question": "Film development is dependent on both time and temperature.",
+    "answer": true,
+    "explanation": "Development is time- and temperature-dependent, which is why processing facilities must operate at the correct temperature."
+  },
+  {
+    "id": "m06-019",
+    "module": "m06",
+    "type": "tf",
+    "question": "Increasing the kV will increase the contrast between the light and dark parts of a radiographic image.",
+    "answer": false,
+    "explanation": "kV controls photon energy and penetrating power; increasing kV decreases the contrast of the image."
+  },
+  {
+    "id": "m06-020",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Which X-ray exposure variables control the quantity of X-ray photons produced?",
+    "options": [
+      "kV alone",
+      "kV and aluminium filtration",
+      "Focus-to-skin distance and collimation",
+      "mA and exposure time"
+    ],
+    "answer": "D",
+    "explanation": "mA and time control the quantity of X-ray photons; increasing them increases the blackening of the film."
+  }
+]

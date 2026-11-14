@@ -1,0 +1,196 @@
+[
+  {
+    "id": "m10-001",
+    "module": "m10",
+    "type": "mcq",
+    "question": "When preparing a patient for dental radiography, which items should they be asked to remove?",
+    "options": [
+      "Spectacles, dentures, appliances and jewellery",
+      "Only removable orthodontic appliances",
+      "Shoes, belts, watches and outer clothing such as coats",
+      "Nothing, if a lead apron is being worn"
+    ],
+    "answer": "A",
+    "explanation": "The patient preparation checklist says to remove spectacles, dentures, orthodontic appliances and relevant jewellery."
+  },
+  {
+    "id": "m10-002",
+    "module": "m10",
+    "type": "mcq",
+    "question": "When a patient is sitting upright for dental radiography, how should the occlusal plane be positioned?",
+    "options": [
+      "Tilted upwards by about 10°",
+      "Horizontal and parallel to the floor",
+      "Vertical and perpendicular to the floor",
+      "Tilted downwards towards the chest"
+    ],
+    "answer": "B",
+    "explanation": "With the patient sitting upright, the occlusal plane should be horizontal and parallel to the floor."
+  },
+  {
+    "id": "m10-003",
+    "module": "m10",
+    "type": "mcq",
+    "question": "During dental radiography, at what point should the exposure settings be selected?",
+    "options": [
+      "After positioning the tubehead and the film packet",
+      "Immediately after the exposure has been made",
+      "Before positioning the film packet and tubehead",
+      "While the patient is biting on the holder"
+    ],
+    "answer": "C",
+    "explanation": "The exposure should be selected before positioning the film packet and tubehead, so the procedure can be carried out quickly and accurately."
+  },
+  {
+    "id": "m10-004",
+    "module": "m10",
+    "type": "mcq",
+    "question": "If an accompanying carer helps to hold a child still during dental radiography, what should the carer be given?",
+    "options": [
+      "A pair of latex gloves",
+      "A personal dosemeter badge",
+      "A pair of eye protectors",
+      "A lead apron"
+    ],
+    "answer": "D",
+    "explanation": "If a carer or comforter helps with a child, the carer should be provided with a lead apron."
+  },
+  {
+    "id": "m10-005",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Which type of extra-oral view is recommended for children?",
+    "options": [
+      "Lateral skull views",
+      "Bisected angle periapicals",
+      "Posterior bitewings",
+      "Oblique laterals"
+    ],
+    "answer": "D",
+    "explanation": "For children, oblique laterals are recommended for extra-oral views."
+  },
+  {
+    "id": "m10-006",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Before intra-oral radiography, how should CCD digital sensors be protected against cross-infection?",
+    "options": [
+      "By autoclaving them before each patient",
+      "By covering them with plastic barriers",
+      "By wiping them with disinfectant only",
+      "By placing them in a bite block"
+    ],
+    "answer": "B",
+    "explanation": "CCD digital sensors should be covered with suitable plastic barrier coverings before use."
+  },
+  {
+    "id": "m10-007",
+    "module": "m10",
+    "type": "mcq",
+    "question": "After intra-oral radiography, how should the used barrier envelopes and disposable tray be dealt with?",
+    "options": [
+      "Autoclaved and reused",
+      "Rinsed and returned to the tray",
+      "Disposed of as clinical waste",
+      "Disposed of as general waste"
+    ],
+    "answer": "C",
+    "explanation": "The barrier envelope and tray should be disposed of as clinical waste."
+  },
+  {
+    "id": "m10-008",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Before panoramic radiography, which high-risk zones should be covered in cling film?",
+    "options": [
+      "The chin support, handles and head supports",
+      "The bite peg and its holder",
+      "The control panel and exposure button",
+      "The ear rods and nasion marker"
+    ],
+    "answer": "C",
+    "explanation": "The control panel and exposure button are the high-risk zones and are covered in cling film to act as a physical barrier."
+  },
+  {
+    "id": "m10-009",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Before panoramic radiography, what should be inserted into the holder on the machine?",
+    "options": [
+      "A disposable polystyrene bite block",
+      "A small blue anterior biteblock",
+      "A barrier-wrapped film packet",
+      "A sterile bite peg"
+    ],
+    "answer": "D",
+    "explanation": "The panoramic pre-operative checklist says to insert a sterile bite peg into the holder."
+  },
+  {
+    "id": "m10-010",
+    "module": "m10",
+    "type": "mcq",
+    "question": "After lateral skull radiography, which parts of the equipment should be wiped down along with the control panels?",
+    "options": [
+      "The ear rods and nasion marker",
+      "The bite peg and chin support",
+      "The beam aiming ring and the film holders",
+      "The tubehead and timer button"
+    ],
+    "answer": "A",
+    "explanation": "After lateral skull radiography, the ear rods and nasion marker are wiped down, along with the control panels."
+  },
+  {
+    "id": "m10-011",
+    "module": "m10",
+    "type": "mcq",
+    "question": "After intra-oral radiography, once the film holders have been scrubbed in soapy water and rinsed, what should happen to them?",
+    "options": [
+      "They are discarded as clinical waste",
+      "They are autoclaved",
+      "They are wrapped in cling film",
+      "They are wiped with disinfectant only"
+    ],
+    "answer": "B",
+    "explanation": "The film holders are scrubbed, rinsed and then autoclaved; the beam aiming ring is disinfected."
+  },
+  {
+    "id": "m10-012",
+    "module": "m10",
+    "type": "tf",
+    "question": "When using a daylight loading automatic processor, gloves should be removed before placing film packets into the unit.",
+    "answer": true,
+    "explanation": "Gloves should be removed, and saliva-contaminated film packets or gloved hands must not be placed into these units."
+  },
+  {
+    "id": "m10-013",
+    "module": "m10",
+    "type": "tf",
+    "question": "During dental radiography, the patient only needs to be watched at the start of the exposure.",
+    "answer": false,
+    "explanation": "The patient should always be watched throughout the whole exposure."
+  },
+  {
+    "id": "m10-014",
+    "module": "m10",
+    "type": "tf",
+    "question": "Before panoramic radiography, a cassette (if one is used) should be covered in cling film.",
+    "answer": true,
+    "explanation": "The panoramic pre-operative checklist says that if a cassette is used, it should be covered in cling film."
+  },
+  {
+    "id": "m10-015",
+    "module": "m10",
+    "type": "tf",
+    "question": "Before lateral skull radiography, the chin support should be covered in cling film.",
+    "answer": false,
+    "explanation": "Before lateral skull radiography it is the ear rods that are covered in cling film, along with the control panel and exposure button."
+  },
+  {
+    "id": "m10-016",
+    "module": "m10",
+    "type": "tf",
+    "question": "Intra-oral film packets should be positioned carefully to avoid soft tissue trauma.",
+    "answer": true,
+    "explanation": "Careful positioning of intra-oral film packets avoids soft tissue trauma."
+  }
+]

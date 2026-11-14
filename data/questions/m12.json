@@ -1,0 +1,174 @@
+[
+  {
+    "id": "m12-001",
+    "module": "m12",
+    "type": "mcq",
+    "question": "In the bisected angle technique, how is the X-ray beam aimed?",
+    "options": [
+      "Parallel to the long axis of the tooth",
+      "Perpendicular to the long axis of the receptor",
+      "Parallel to the imaginary bisecting line",
+      "Perpendicular to the bisecting line"
+    ],
+    "answer": "D",
+    "explanation": "The beam is aimed perpendicular to an imaginary line which bisects the angle between the long axes of the image receptor and the tooth."
+  },
+  {
+    "id": "m12-002",
+    "module": "m12",
+    "type": "mcq",
+    "question": "In the bisected angle technique, the imaginary bisecting line cuts which angle in half?",
+    "options": [
+      "The angle between the receptor and the tooth",
+      "The angle between the occlusal plane and floor",
+      "The angle between the tooth and the X-ray beam",
+      "The angle between the receptor and occlusal plane"
+    ],
+    "answer": "A",
+    "explanation": "The line bisects the angle between the long axis of the image receptor and the long axis of the tooth."
+  },
+  {
+    "id": "m12-003",
+    "module": "m12",
+    "type": "mcq",
+    "question": "When is the bisected angle technique needed for periapical radiography?",
+    "options": [
+      "When the patient has a square or narrow dental arch",
+      "When the receptor cannot be parallel to the tooth",
+      "When only premolar and molar crowns are needed",
+      "When a long focus-to-skin distance is used"
+    ],
+    "answer": "B",
+    "explanation": "In some cases the receptor cannot be placed parallel to the tooth, so the bisected angle technique is used to prevent geometrical distortion."
+  },
+  {
+    "id": "m12-004",
+    "module": "m12",
+    "type": "mcq",
+    "question": "With the bisected angle technique, what does incorrect vertical angulation cause?",
+    "options": [
+      "Overlapping of crowns and roots",
+      "Coning off at the edge of the anterior receptor",
+      "Elongation or foreshortening of the image",
+      "Zygomatic shadow over the molar roots"
+    ],
+    "answer": "C",
+    "explanation": "Incorrect vertical angulation results in elongation or foreshortening of the image."
+  },
+  {
+    "id": "m12-005",
+    "module": "m12",
+    "type": "mcq",
+    "question": "With the bisected angle technique, what does incorrect horizontal angulation cause?",
+    "options": [
+      "Overlapping of crowns and roots",
+      "Elongation of the whole image",
+      "Foreshortening of the buccal roots",
+      "Poorly shown periodontal bone"
+    ],
+    "answer": "A",
+    "explanation": "Incorrect horizontal angulation results in overlapping of crowns and roots."
+  },
+  {
+    "id": "m12-006",
+    "module": "m12",
+    "type": "mcq",
+    "question": "On bisected angle periapicals of the upper molars, the shadow of which structure is superimposed over the roots?",
+    "options": [
+      "The hard palate",
+      "The nasal septum",
+      "The mandibular ramus",
+      "The zygomatic bone"
+    ],
+    "answer": "D",
+    "explanation": "The shadow of the zygomatic bone is superimposed over the roots of the upper molars, and the buccal roots are foreshortened."
+  },
+  {
+    "id": "m12-007",
+    "module": "m12",
+    "type": "mcq",
+    "question": "Distortion of the crowns on bisected angle periapicals prevents the detection of what?",
+    "options": [
+      "Approximal caries",
+      "Apical infection",
+      "Root fractures after trauma",
+      "Failed implants"
+    ],
+    "answer": "A",
+    "explanation": "The crowns are distorted, which prevents detection of approximal caries."
+  },
+  {
+    "id": "m12-008",
+    "module": "m12",
+    "type": "mcq",
+    "question": "Which of these is an advantage of the bisected angle technique?",
+    "options": [
+      "Images are reproducible",
+      "Positioning is relatively simple",
+      "Periodontal bone levels are well shown",
+      "Coning off is avoided"
+    ],
+    "answer": "B",
+    "explanation": "Positioning is relatively simple and the technique is reasonably comfortable; the other options are not true of this technique."
+  },
+  {
+    "id": "m12-009",
+    "module": "m12",
+    "type": "mcq",
+    "question": "If all angulations are correctly assessed in the bisected angle technique, how good should the image be?",
+    "options": [
+      "Ideal for all diagnostic purposes",
+      "Geometrically accurate with no distortion",
+      "Adequate but not ideal for most diagnosis",
+      "Unsuitable for any diagnostic purpose"
+    ],
+    "answer": "C",
+    "explanation": "If all angulations are correctly assessed, the image should be adequate, but not ideal, for most diagnostic purposes."
+  },
+  {
+    "id": "m12-010",
+    "module": "m12",
+    "type": "mcq",
+    "question": "For a bisected angle periapical of posterior teeth, which receptor is used and how is it orientated?",
+    "options": [
+      "Small receptor, long axis vertical",
+      "Small receptor, long axis horizontal",
+      "Large receptor, long axis vertical",
+      "Large receptor, long axis horizontal"
+    ],
+    "answer": "D",
+    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal."
+  },
+  {
+    "id": "m12-011",
+    "module": "m12",
+    "type": "tf",
+    "question": "Coning off (cone cutting) is common with the bisected angle technique.",
+    "answer": true,
+    "explanation": "Coning off or cone cutting is listed as a common problem with the bisected angle technique."
+  },
+  {
+    "id": "m12-012",
+    "module": "m12",
+    "type": "tf",
+    "question": "The bisected angle technique produces reproducible images.",
+    "answer": false,
+    "explanation": "Reproducible images are not possible with the bisected angle technique."
+  },
+  {
+    "id": "m12-013",
+    "module": "m12",
+    "type": "tf",
+    "question": "With the bisected angle technique, the buccal roots of the upper molars appear elongated.",
+    "answer": false,
+    "explanation": "The buccal roots of the upper molars are foreshortened, and the zygomatic shadow overlies the roots."
+  },
+  {
+    "id": "m12-014",
+    "module": "m12",
+    "type": "tf",
+    "question": "With the bisected angle technique, both the horizontal and vertical angles have to be assessed.",
+    "answer": true,
+    "explanation": "Both angles have to be assessed, and this is one of the variables that can cause a distorted image."
+  }
+]

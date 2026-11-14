@@ -1,0 +1,182 @@
+[
+  {
+    "id": "m07-001",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Which dose limitation principle states that, with any medical radiation exposure, the benefits must outweigh the risks?",
+    "options": [
+      "Optimisation",
+      "Limitation",
+      "Justification",
+      "Classification"
+    ],
+    "answer": "C",
+    "explanation": "Justification means the benefits of any medical radiation exposure must outweigh the risks."
+  },
+  {
+    "id": "m07-002",
+    "module": "m07",
+    "type": "mcq",
+    "question": "In radiation protection, what does the ALARP principle stand for?",
+    "options": [
+      "As Low As Reasonably Practicable",
+      "As Little As Radiographically Possible",
+      "As Low As Regulations Permit",
+      "As Long As Risks are Proportionate"
+    ],
+    "answer": "A",
+    "explanation": "Optimisation requires the dose to be As Low As Reasonably Practicable (ALARP)."
+  },
+  {
+    "id": "m07-003",
+    "module": "m07",
+    "type": "mcq",
+    "question": "What dose constraint do the guidance notes recommend for dental staff involved in radiography?",
+    "options": [
+      "1 mSv per year",
+      "0.3 mSv per year",
+      "0.1 mSv per visit",
+      "0.5 mSv per year"
+    ],
+    "answer": "B",
+    "explanation": "Guidance notes recommend a strict dose constraint of 0.3 mSv for dental staff involved in radiography."
+  },
+  {
+    "id": "m07-005",
+    "module": "m07",
+    "type": "tf",
+    "question": "The dose limit for a member of the public is 1 mSv per year.",
+    "answer": true,
+    "explanation": "The limit for a member of the public is 1 mSv per year."
+  },
+  {
+    "id": "m07-006",
+    "module": "m07",
+    "type": "tf",
+    "question": "Patients with a clear clinical need for an X-ray investigation have a strict legal dose limit.",
+    "answer": false,
+    "explanation": "There are no set dose limits for patients with a clear clinical need; the dentist must balance the risks and benefits."
+  },
+  {
+    "id": "m07-007",
+    "module": "m07",
+    "type": "mcq",
+    "question": "What should dentists use to help decide whether a radiograph is clinically necessary?",
+    "options": [
+      "The ALARP principle of dose optimisation",
+      "Selection Criteria for Dental Radiography",
+      "The Golden Rules for radiation safety",
+      "Readings from a personal monitoring device"
+    ],
+    "answer": "B",
+    "explanation": "Clinical judgement is the dentist's responsibility, and they should use 'Selection Criteria for Dental Radiography' to help them."
+  },
+  {
+    "id": "m07-008",
+    "module": "m07",
+    "type": "mcq",
+    "question": "What focus-to-skin distance (fsd) is recommended for a dental X-ray set?",
+    "options": [
+      "100 mm",
+      "150 mm",
+      "200 mm",
+      "250 mm"
+    ],
+    "answer": "C",
+    "explanation": "Equipment recommendations include a long fsd of 200 mm."
+  },
+  {
+    "id": "m07-009",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Which type of beam collimation is recommended for intra-oral X-ray sets?",
+    "options": [
+      "Rectangular",
+      "Circular",
+      "Conical",
+      "Open-ended"
+    ],
+    "answer": "A",
+    "explanation": "Recommended X-ray sets use rectangular collimation, along with 70 kV, aluminium filtration and a 200 mm fsd."
+  },
+  {
+    "id": "m07-010",
+    "module": "m07",
+    "type": "tf",
+    "question": "A dental X-ray set is recommended to operate at 50 kV.",
+    "answer": false,
+    "explanation": "The recommended X-ray set operates at 70 kV."
+  },
+  {
+    "id": "m07-011",
+    "module": "m07",
+    "type": "mcq",
+    "question": "When is it necessary to take special protection measures for a pregnant dental patient?",
+    "options": [
+      "Always, as radiography must be postponed until after the birth",
+      "Only during the first three months of the pregnancy",
+      "Only when bitewing radiographs are being taken",
+      "Only if the beam is aimed at the pelvis"
+    ],
+    "answer": "D",
+    "explanation": "No special measures are needed unless the beam is aimed at the pelvis, which is highly unlikely in routine dental practice; a lead apron may be offered for peace of mind."
+  },
+  {
+    "id": "m07-012",
+    "module": "m07",
+    "type": "mcq",
+    "question": "If it is not practical to designate the entire practice as the controlled area, how far from the X-ray equipment should the operator stand?",
+    "options": [
+      "At least 1.5 m",
+      "At least 0.5 m",
+      "At least 1 m",
+      "At least 3 m"
+    ],
+    "answer": "A",
+    "explanation": "The Golden Rules state the operator should always stand at least 1.5 m away from the X-ray equipment."
+  },
+  {
+    "id": "m07-013",
+    "module": "m07",
+    "type": "tf",
+    "question": "Under the Golden Rules, staff should never hold the image receptor in the patient's mouth.",
+    "answer": true,
+    "explanation": "The Golden Rules say never hold the image receptor in the patient's mouth and never hold the tubehead during exposure."
+  },
+  {
+    "id": "m07-014",
+    "module": "m07",
+    "type": "mcq",
+    "question": "If a radiation incident or accident happens in the practice, what must an employee do?",
+    "options": [
+      "Record it in the log at the next QA audit",
+      "Report it to their employer immediately",
+      "Report it to the patient's GP straight away",
+      "Wait to tell the RPA at their next visit"
+    ],
+    "answer": "B",
+    "explanation": "A duty of employees is to report any incident or accident to their employer immediately."
+  },
+  {
+    "id": "m07-015",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Which of these is a duty of the employer for the safety of staff?",
+    "options": [
+      "Providing each patient with a monitor",
+      "Holding the tubehead for nervous patients",
+      "Consulting a Radiation Protection Adviser",
+      "Removing lead aprons from the surgery"
+    ],
+    "answer": "C",
+    "explanation": "Employers must consult an RPA, designate the controlled area, have contingency plans and ensure staff are informed, instructed and trained."
+  },
+  {
+    "id": "m07-016",
+    "module": "m07",
+    "type": "tf",
+    "question": "Optimisation is the dose limitation principle stating that the benefits of an exposure must outweigh the risks.",
+    "answer": false,
+    "explanation": "That is justification; optimisation means keeping the dose As Low As Reasonably Practicable (ALARP)."
+  }
+]

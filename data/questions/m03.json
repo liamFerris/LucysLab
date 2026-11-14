@@ -1,0 +1,218 @@
+[
+  {
+    "id": "m03-001",
+    "module": "m03",
+    "type": "mcq",
+    "question": "In dental X-ray equipment, which component converts ordinary mains voltage to the high voltage needed to produce X-rays?",
+    "options": [
+      "Tubehead",
+      "Spacer cone",
+      "Step-up transformer",
+      "Tungsten filament (cathode)"
+    ],
+    "answer": "C",
+    "explanation": "The step-up transformer converts mains voltage (240 V) to the high voltage (about 70 kV) required to produce X-rays."
+  },
+  {
+    "id": "m03-002",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Why is the whole tubehead of a dental X-ray set filled with oil?",
+    "options": [
+      "To help remove the heat produced during an exposure",
+      "To help aim the X-ray beam at the patient",
+      "To filter out the lowest-energy X-ray photons",
+      "To accelerate electrons towards the target"
+    ],
+    "answer": "A",
+    "explanation": "The oil helps remove the heat produced during an exposure, together with the copper block."
+  },
+  {
+    "id": "m03-003",
+    "module": "m03",
+    "type": "mcq",
+    "question": "How are X-rays created in a dental X-ray tube?",
+    "options": [
+      "Low-energy photons are re-emitted by the aluminium filter",
+      "High-speed electrons collide with the tungsten target",
+      "Heat from the oil excites atoms in the tungsten filament",
+      "Electrons from the copper block strike the spacer cone"
+    ],
+    "answer": "B",
+    "explanation": "X-rays are created when high-speed electrons, accelerated from the filament, collide with the tungsten target."
+  },
+  {
+    "id": "m03-004",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What determines the overall energy of the X-ray photons produced by a dental X-ray set?",
+    "options": [
+      "The mA (milliamperage) setting",
+      "The exposure time set on the timer",
+      "The kV (the high voltage 'push')",
+      "The length of the spacer cone used"
+    ],
+    "answer": "C",
+    "explanation": "Photon energy depends on how fast the electrons hit the target, which is determined by the size of the high voltage push, or kV."
+  },
+  {
+    "id": "m03-005",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Roughly what percentage of the electrons' energy is converted into X-rays in a dental X-ray tube?",
+    "options": [
+      "1%",
+      "10%",
+      "50%",
+      "99%"
+    ],
+    "answer": "A",
+    "explanation": "Only 1% of the electrons' energy becomes X-rays; the other 99% is converted to heat."
+  },
+  {
+    "id": "m03-006",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Which statement about low-energy X-ray photons is correct?",
+    "options": [
+      "They pass through soft tissue to reach the film",
+      "They are the most diagnostically useful photons",
+      "They are increased by using a 70 kV set",
+      "They tend to be absorbed by the soft tissues"
+    ],
+    "answer": "D",
+    "explanation": "Low-energy photons tend to be absorbed by the patient's soft tissues and can therefore cause damage."
+  },
+  {
+    "id": "m03-007",
+    "module": "m03",
+    "type": "mcq",
+    "question": "How are the most harmful, lowest-energy X-ray photons removed from the beam?",
+    "options": [
+      "By the copper block",
+      "By an aluminium filter",
+      "By the oil in the tubehead",
+      "By the step-up transformer"
+    ],
+    "answer": "B",
+    "explanation": "Passing the beam through an aluminium filter removes the most harmful, lowest-energy photons."
+  },
+  {
+    "id": "m03-008",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What is the effect of increasing the kV on a radiographic image?",
+    "options": [
+      "It increases the contrast",
+      "It has no effect on contrast",
+      "It decreases the contrast",
+      "It reduces film blackening only"
+    ],
+    "answer": "C",
+    "explanation": "Increasing kV decreases the contrast between light and dark areas: 'kV kills contrast'."
+  },
+  {
+    "id": "m03-009",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Which exposure variables control the quantity of X-ray photons produced?",
+    "options": [
+      "mA and time",
+      "kV alone",
+      "Filter thickness",
+      "Spacer cone length"
+    ],
+    "answer": "A",
+    "explanation": "mA (milliamperage) and time control the quantity of photons; kV controls their energy."
+  },
+  {
+    "id": "m03-010",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What is the recommended operating range for dental X-ray sets?",
+    "options": [
+      "50–60 kV",
+      "60–70 kV",
+      "70–80 kV",
+      "80–90 kV"
+    ],
+    "answer": "B",
+    "explanation": "The recommended operating range for dental X-ray sets is 60–70 kV."
+  },
+  {
+    "id": "m03-011",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What thickness of aluminium filter is recommended for dental X-ray sets operating below 70 kV?",
+    "options": [
+      "0.5 mm",
+      "1.0 mm",
+      "2.5 mm",
+      "1.5 mm"
+    ],
+    "answer": "D",
+    "explanation": "Sets below 70 kV need a 1.5 mm aluminium filter; sets above 70 kV need 2.5 mm."
+  },
+  {
+    "id": "m03-012",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What is the maximum diameter recommended for a circular collimator on a dental X-ray set?",
+    "options": [
+      "40 mm",
+      "50 mm",
+      "70 mm",
+      "60 mm"
+    ],
+    "answer": "D",
+    "explanation": "Circular collimators should have a maximum diameter of 60 mm."
+  },
+  {
+    "id": "m03-013",
+    "module": "m03",
+    "type": "tf",
+    "question": "In the term DC 'constant potential', the word 'potential' is another word for voltage.",
+    "answer": true,
+    "explanation": "'Potential' is another word for voltage, so constant potential means a constant voltage output."
+  },
+  {
+    "id": "m03-014",
+    "module": "m03",
+    "type": "tf",
+    "question": "On a dental X-ray set, the timer switch only needs to be pressed briefly to start the exposure.",
+    "answer": false,
+    "explanation": "Timer switches must be continually depressed throughout the exposure."
+  },
+  {
+    "id": "m03-015",
+    "module": "m03",
+    "type": "tf",
+    "question": "Increasing the mA and exposure time will increase the degree of blackening of the film.",
+    "answer": true,
+    "explanation": "mA and time control the quantity of photons, so increasing them increases film blackening."
+  },
+  {
+    "id": "m03-016",
+    "module": "m03",
+    "type": "tf",
+    "question": "The recommended focus-to-skin distance (fsd) for dental X-ray sets is 100 mm.",
+    "answer": false,
+    "explanation": "A 200 mm fsd (long spacer cone) is recommended, and 300 mm is used in the most modern equipment."
+  },
+  {
+    "id": "m03-017",
+    "module": "m03",
+    "type": "tf",
+    "question": "All X-ray photons produced in a dental X-ray tube have the same energy.",
+    "answer": false,
+    "explanation": "Electrons interact with the tungsten atoms in a range of ways, producing photons with a range of energies in continuous and characteristic spectra."
+  },
+  {
+    "id": "m03-018",
+    "module": "m03",
+    "type": "tf",
+    "question": "You may need to select 60 kV rather than 70 kV to ensure adequate contrast.",
+    "answer": true,
+    "explanation": "Because kV kills contrast, a lower setting of 60 kV may be needed to ensure adequate contrast."
+  }
+]

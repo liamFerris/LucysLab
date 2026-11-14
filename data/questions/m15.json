@@ -1,0 +1,160 @@
+[
+  {
+    "id": "m15-001",
+    "module": "m15",
+    "type": "mcq",
+    "question": "When taking a periapical of a lower third molar, what is the solution to positioning the receptor far enough back in the mouth?",
+    "options": [
+      "Use specially designed or adapted holders",
+      "Use a modified bisected angle technique",
+      "Build up the area with cotton wool rolls",
+      "Ask the patient to suck a lozenge"
+    ],
+    "answer": "A",
+    "explanation": "Specially designed or adapted holders are used to position the sensor/film at the back of the mouth for lower third molars."
+  },
+  {
+    "id": "m15-002",
+    "module": "m15",
+    "type": "mcq",
+    "question": "How can the entire lower third molar, its surrounding tissues and the inferior canal be recorded when one image is not enough?",
+    "options": [
+      "Take one occlusal view with the receptor flat in the mouth",
+      "Take two periapicals with two different tubehead positions",
+      "Take one bitewing with a longer exposure",
+      "Take a single oblique lateral view instead of the periapical"
+    ],
+    "answer": "B",
+    "explanation": "Two periapical views are taken with the receptor as far back as possible, using two different X-ray tubehead positions."
+  },
+  {
+    "id": "m15-003",
+    "module": "m15",
+    "type": "tf",
+    "question": "For a patient with a strong gag reflex, asking them to concentrate on breathing deeply while the receptor is in the mouth can help.",
+    "answer": true,
+    "explanation": "Concentrating on breathing deeply is one of the solutions for patients with a strong gag reflex."
+  },
+  {
+    "id": "m15-004",
+    "module": "m15",
+    "type": "mcq",
+    "question": "For a patient with a strong gag reflex, why might the image receptor be placed flat in the mouth in the occlusal plane?",
+    "options": [
+      "So it does not touch the palate",
+      "So the tubehead can be angled downwards",
+      "So the patient can hold it with a finger",
+      "So the exposure time can be reduced"
+    ],
+    "answer": "A",
+    "explanation": "Placing the receptor flat in the occlusal plane stops it touching the palate, reducing gagging."
+  },
+  {
+    "id": "m15-005",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Which of the following is a recommended solution for a patient with a strong gag reflex?",
+    "options": [
+      "Build up the area with cotton wool rolls",
+      "Use an oblique lateral radiograph",
+      "Suck a local anaesthetic lozenge first",
+      "Use different horizontal tubehead positions"
+    ],
+    "answer": "C",
+    "explanation": "Sucking a local anaesthetic lozenge before positioning the receptor is a solution for a strong gag reflex."
+  },
+  {
+    "id": "m15-006",
+    "module": "m15",
+    "type": "tf",
+    "question": "When X-raying a patient with a strong gag reflex, positioning problems are greatest in the anterior incisor regions.",
+    "answer": false,
+    "explanation": "The problem is mainly in the upper and lower posterior molar regions."
+  },
+  {
+    "id": "m15-007",
+    "module": "m15",
+    "type": "mcq",
+    "question": "In partially dentate patients, how can the deficiency be built up to help receptor placement?",
+    "options": [
+      "With a bite-peg",
+      "With a rubber dam clamp",
+      "With an adapted holder",
+      "With cotton wool rolls"
+    ],
+    "answer": "D",
+    "explanation": "In partially dentate patients, the deficiency can be built up using cotton wool rolls."
+  },
+  {
+    "id": "m15-008",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Which of these is a reason receptor placement is difficult in edentulous patients?",
+    "options": [
+      "Lack of height in the palate",
+      "Presence of rubber dam clamps",
+      "Multi-rooted teeth",
+      "Excessive lingual sulcus depth"
+    ],
+    "answer": "A",
+    "explanation": "Problems include lack of palatal height, loss of lingual sulcus depth, and rotation or displacement of the holder."
+  },
+  {
+    "id": "m15-009",
+    "module": "m15",
+    "type": "tf",
+    "question": "Intra-oral periapicals for edentulous patients can be taken using a modified bisected angle technique.",
+    "answer": true,
+    "explanation": "A modified bisected angle technique is one solution for edentulous patients."
+  },
+  {
+    "id": "m15-010",
+    "module": "m15",
+    "type": "mcq",
+    "question": "During endodontics, how can the root canals of a multi-rooted tooth be identified and separated?",
+    "options": [
+      "Take one radiograph with a longer exposure and a larger receptor",
+      "Take two or three radiographs with different vertical tubehead angulations",
+      "Take two or three radiographs with different horizontal tubehead positions",
+      "Take an oblique lateral radiograph of the affected side"
+    ],
+    "answer": "C",
+    "explanation": "At least two or even three radiographs are taken using different horizontal X-ray tubehead positions."
+  },
+  {
+    "id": "m15-011",
+    "module": "m15",
+    "type": "mcq",
+    "question": "During endodontics with rubber dam in place, which of these is a solution for placing and stabilising the receptor?",
+    "options": [
+      "Place it flat in the occlusal plane",
+      "A simple holder held by the patient",
+      "Build up the area with cotton wool",
+      "Take an extra-oral oblique lateral"
+    ],
+    "answer": "B",
+    "explanation": "A simple phosphor plate/film packet holder, positioned parallel to the tooth and held by the patient, or a special endodontic holder, can be used."
+  },
+  {
+    "id": "m15-012",
+    "module": "m15",
+    "type": "tf",
+    "question": "Panoramic tomographs are the recommended alternative extra-oral radiographs for small children who cannot co-operate with intra-oral radiography.",
+    "answer": false,
+    "explanation": "The listed alternative extra-oral radiographs for small children are oblique laterals."
+  },
+  {
+    "id": "m15-013",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Which approach is recommended for intra-oral radiography of small children?",
+    "options": [
+      "Take two views with different horizontal tubehead positions",
+      "Build up the deficiency with cotton wool rolls first",
+      "Use a specially designed or adapted paralleling holder",
+      "Place the receptor flat and use a modified bisected angle"
+    ],
+    "answer": "D",
+    "explanation": "For small children the receptor is placed flat in the occlusal plane and a modified bisected angle technique is used."
+  }
+]

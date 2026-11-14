@@ -1,0 +1,174 @@
+[
+  {
+    "id": "m22-001",
+    "module": "m22",
+    "type": "mcq",
+    "question": "A Quality Assurance programme is described as largely what?",
+    "options": [
+      "Written down common sense",
+      "A legal formality for inspectors",
+      "An external audit of the practice",
+      "A list of equipment faults"
+    ],
+    "answer": "A",
+    "explanation": "A QA programme is a system of procedures and checks to ensure radiographs are excellent every time; it is largely 'written down common sense'."
+  },
+  {
+    "id": "m22-002",
+    "module": "m22",
+    "type": "mcq",
+    "question": "A Quality Assurance programme aims to ensure diagnostic images are of high quality at the lowest possible cost and with what else?",
+    "options": [
+      "The shortest possible processing time",
+      "The least possible exposure of patients and staff to radiation",
+      "The fewest possible staff in the practice",
+      "The largest possible field of view"
+    ],
+    "answer": "B",
+    "explanation": "The definition includes providing adequate diagnostic information at the lowest possible cost and with the least possible exposure of the patient or staff to radiation."
+  },
+  {
+    "id": "m22-003",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which term describes the specific measures for ensuring and verifying the quality of radiographs produced?",
+    "options": [
+      "Quality audit",
+      "Quality assurance",
+      "Quality control",
+      "Clinical governance"
+    ],
+    "answer": "C",
+    "explanation": "Quality control is the specific measures for ensuring and verifying the quality of the radiographs produced."
+  },
+  {
+    "id": "m22-004",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which term describes the arrangements that ensure quality control procedures are effective and lead to relevant change and improvement?",
+    "options": [
+      "Quality control",
+      "Quality audit",
+      "Risk assessment",
+      "Quality assurance"
+    ],
+    "answer": "D",
+    "explanation": "Quality assurance is the arrangements to ensure that the quality control procedures are effective and lead to relevant change and improvement."
+  },
+  {
+    "id": "m22-005",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which term describes external reassurance and assessment that quality control and quality assurance mechanisms are satisfactory and work effectively?",
+    "options": [
+      "Quality control",
+      "Quality audit",
+      "Quality assurance",
+      "Critical examination"
+    ],
+    "answer": "B",
+    "explanation": "Quality audit is the process of external reassurance and assessment that QC and QA mechanisms are satisfactory and effective."
+  },
+  {
+    "id": "m22-006",
+    "module": "m22",
+    "type": "tf",
+    "question": "Quality audit is the specific measures for ensuring and verifying the quality of the radiographs produced.",
+    "answer": false,
+    "explanation": "That describes quality control. Quality audit is the external reassurance and assessment that QC and QA mechanisms work effectively."
+  },
+  {
+    "id": "m22-007",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which of the following is an aim of a QA programme?",
+    "options": [
+      "Increase the number of radiographs taken",
+      "Increase the exposure time used",
+      "Reduce the number of repeat radiographs",
+      "Reduce the need for staff training"
+    ],
+    "answer": "C",
+    "explanation": "Reducing the number of repeat radiographs is one of the aims of a QA programme."
+  },
+  {
+    "id": "m22-008",
+    "module": "m22",
+    "type": "tf",
+    "question": "One aim of a QA programme is to determine all sources of error and allow their correction.",
+    "answer": true,
+    "explanation": "The aims of a QA programme include determining all sources of error and allowing their correction."
+  },
+  {
+    "id": "m22-009",
+    "module": "m22",
+    "type": "tf",
+    "question": "A QA programme aims to keep radiation doses to patients and staff as low as reasonably practicable (ALARP).",
+    "answer": true,
+    "explanation": "Ensuring doses to patients and staff are kept ALARP is one of the aims of a QA programme."
+  },
+  {
+    "id": "m22-010",
+    "module": "m22",
+    "type": "tf",
+    "question": "Increasing costs is accepted as one of the aims of a QA programme, because better images require more expense.",
+    "answer": false,
+    "explanation": "A QA programme aims to decrease costs and increase efficiency."
+  },
+  {
+    "id": "m22-011",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which of these is one of the main areas to be addressed by a QA programme?",
+    "options": [
+      "Staff training and updating",
+      "Patient appointment booking",
+      "Practice marketing",
+      "Choice of dental materials"
+    ],
+    "answer": "A",
+    "explanation": "The main areas of a QA programme include image quality, receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit."
+  },
+  {
+    "id": "m22-012",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which of the following is NOT listed as a main area to be addressed by a QA programme?",
+    "options": [
+      "Image quality",
+      "Working procedures",
+      "Patient dose and X-ray equipment",
+      "Patient payment records"
+    ],
+    "answer": "D",
+    "explanation": "The main areas are image quality, imaging receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit."
+  },
+  {
+    "id": "m22-013",
+    "module": "m22",
+    "type": "mcq",
+    "question": "A dental QA programme should address image quality for which kinds of imaging?",
+    "options": [
+      "Digital imaging only",
+      "Film imaging only",
+      "Both digital and film imaging",
+      "CBCT imaging only"
+    ],
+    "answer": "C",
+    "explanation": "Image quality is a main area of the QA programme, covering both digital and film imaging."
+  },
+  {
+    "id": "m22-014",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which of these is listed among the aims of a QA programme?",
+    "options": [
+      "Increase efficiency",
+      "Increase the kilovoltage",
+      "Increase the field size",
+      "Increase the number of views"
+    ],
+    "answer": "A",
+    "explanation": "Increasing efficiency is one of the aims of a QA programme, alongside decreasing costs."
+  }
+]

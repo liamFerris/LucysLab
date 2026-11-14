@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Study Cards · Lucy's Lab</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><img class="logo" src="assets/img/logo.svg" alt=""><span>Lucy's Lab</span></a>
+    <nav class="topnav" aria-label="Main">
+      <a href="study.html" aria-current="page">Study</a>
+      <a href="mock.html">Mock test</a>
+      <a href="notes.html">Notes</a>
+    </nav>
+  </header>
+
+  <main class="page" id="studyMain">
+    <section class="scorebar" aria-label="Score">
+      <div class="score-main" aria-live="polite">
+        <span class="num" id="points">0</span> <span class="lbl">points</span>
+        <span class="sep">|</span>
+        <span class="num" id="answered">0</span> <span class="lbl">questions</span>
+      </div>
+      <div class="mult" id="mult" data-level="0" title="Points multiplier — grows by ×0.5 for every correct answer in a row">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.07-2.14-.22-4.05 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.15.43-2.29 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>
+        <span id="multValue">×1</span>
+      </div>
+    </section>
+
+    <div class="substats">
+      <span>Streak <b id="streakStat">0</b></span>
+      <span>Accuracy <b id="accuracyStat">–</b></span>
+      <span>Best score <b id="bestStat">0</b></span>
+    </div>
+
+    <details class="filter" id="filter">
+      <summary>
+        <span class="filter-label">
+          <span class="eyebrow">Studying</span>
+          <span id="filterSummary" class="filter-summary">All modules</span>
+        </span>
+        <span class="filter-toggle">Choose modules
+          <svg class="icon" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg>
+        </span>
+      </summary>
+      <div class="filter-body">
+        <p class="filter-hint">Pick one or more modules to focus on. Changing this resets your score.</p>
+        <div id="filterGroups"></div>
+        <div class="filter-foot">
+          <button class="btn btn-ghost btn-sm" id="filterAll" type="button">Study all modules</button>
+          <button class="btn btn-primary btn-sm" id="filterDone" type="button">Done</button>
+        </div>
+      </div>
+    </details>
+
+    <article class="card qcard" id="card">
+      <div class="qmeta">
+        <span id="qModule" class="module-tag"></span>
+        <span id="qType" class="qtype"></span>
+      </div>
+      <h1 class="qtext" id="qText"><span class="skeleton" style="display:block;width:80%"></span></h1>
+      <div class="options" id="options"></div>
+
+      <div class="feedback" id="feedback" hidden>
+        <p class="verdict" id="verdict"></p>
+        <p class="explanation" id="explanation"></p>
+        <div class="feedback-row">
+          <button class="btn btn-primary" id="nextBtn" type="button">
+            Next question
+            <svg class="icon" viewBox="0 0 24 24"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </button>
+          <span class="kbd-hint">Answer with <kbd>A</kbd>–<kbd>D</kbd> or <kbd>T</kbd>/<kbd>F</kbd> · next with <kbd>Enter</kbd></span>
+        </div>
+      </div>
+    </article>
+  </main>
+
+  <div class="banner" id="banner" aria-hidden="true"><strong id="bannerTitle"></strong><span id="bannerSub"></span></div>
+
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/confetti.js"></script>
+  <script src="assets/js/study.js"></script>
+</body>
+</html>

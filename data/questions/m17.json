@@ -1,0 +1,218 @@
+[
+  {
+    "id": "m17-001",
+    "module": "m17",
+    "type": "mcq",
+    "question": "On a panoramic radiograph, which quality rating is given when there are errors in preparation, exposure, positioning or processing that make the image diagnostically unacceptable?",
+    "options": [
+      "Rating N",
+      "Rating A",
+      "Rating U",
+      "Rating R"
+    ],
+    "answer": "A",
+    "explanation": "N stands for 'diagnostically not acceptable'; A is 'diagnostically acceptable'."
+  },
+  {
+    "id": "m17-002",
+    "module": "m17",
+    "type": "tf",
+    "question": "A panoramic image rated 'A' has no errors or only minimal errors and is of sufficient quality to answer the clinical question.",
+    "answer": true,
+    "explanation": "Rating A means diagnostically acceptable: no or minimal errors and good enough to answer the clinical question."
+  },
+  {
+    "id": "m17-003",
+    "module": "m17",
+    "type": "mcq",
+    "question": "Which is a quality criterion for a panoramic radiograph?",
+    "options": [
+      "Magnification should be greater in the horizontal than the vertical plane",
+      "Magnification in the vertical and horizontal planes should be equal",
+      "The hard palate should appear below the tooth apices",
+      "The cervical spine should be clearly shown"
+    ],
+    "answer": "B",
+    "explanation": "Equal vertical and horizontal magnification is a panoramic quality criterion; the hard palate should be above the apices and spine ghosting minimal."
+  },
+  {
+    "id": "m17-004",
+    "module": "m17",
+    "type": "tf",
+    "question": "On a good-quality panoramic image, there should be strong ghost shadows of the contralateral angle of the mandible and the cervical spine.",
+    "answer": false,
+    "explanation": "Ideally only the slightest ghost shadows of the contralateral angle of the mandible and the cervical spine should be evident."
+  },
+  {
+    "id": "m17-005",
+    "module": "m17",
+    "type": "mcq",
+    "question": "On a panoramic radiograph, an air shadow above the tongue typically creates a radiolucent (black) band over which structures?",
+    "options": [
+      "The crowns of the lower teeth",
+      "The condyles of the mandible",
+      "The roots of the upper teeth",
+      "The lower border of the mandible"
+    ],
+    "answer": "C",
+    "explanation": "An air shadow above the tongue produces a black band over the roots of the upper teeth."
+  },
+  {
+    "id": "m17-006",
+    "module": "m17",
+    "type": "mcq",
+    "question": "What should a patient be asked to do to prevent an unwanted dark air shadow on a panoramic image?",
+    "options": [
+      "Bite edge-to-edge on the bite peg",
+      "Tip the head backwards slightly during the exposure",
+      "Keep the lips firmly apart",
+      "Press the tongue against the roof of the mouth"
+    ],
+    "answer": "D",
+    "explanation": "If the tongue is not pressed against the roof of the mouth throughout the exposure, a dark air shadow overlies the image."
+  },
+  {
+    "id": "m17-007",
+    "module": "m17",
+    "type": "tf",
+    "question": "A protective lead apron should be used during panoramic radiography.",
+    "answer": false,
+    "explanation": "One of the three golden rules of patient preparation is not to use a lead apron, because it produces a very large ghost shadow."
+  },
+  {
+    "id": "m17-008",
+    "module": "m17",
+    "type": "mcq",
+    "question": "Which of these is one of the three golden rules of patient preparation for panoramic radiography?",
+    "options": [
+      "Explain the procedure and equipment to the patient",
+      "Fit a protective lead apron",
+      "Ask the patient to tilt the chin down",
+      "Place the patient well forward in the machine to reduce blur"
+    ],
+    "answer": "A",
+    "explanation": "The three rules are: remove jewellery, dentures, appliances, spectacles and hair ornaments; explain the procedure and equipment; and don't use a lead apron."
+  },
+  {
+    "id": "m17-009",
+    "module": "m17",
+    "type": "mcq",
+    "question": "On a panoramic image, the anterior teeth appear blurred and distorted. Which positioning error is the most likely cause?",
+    "options": [
+      "Head rotated to one side of the midline",
+      "Patient positioned too far forward or back",
+      "Tongue not pressed against the palate",
+      "Head tipped up or down from the Frankfort plane"
+    ],
+    "answer": "B",
+    "explanation": "This is an antero-posterior error, corrected by having the patient bite edge-to-edge on the bite peg."
+  },
+  {
+    "id": "m17-010",
+    "module": "m17",
+    "type": "mcq",
+    "question": "During panoramic radiography, which light beam marker is used to make sure the Frankfort plane is horizontal?",
+    "options": [
+      "The vertical light beam marker",
+      "The midline sagittal plane marker",
+      "The horizontal light beam marker",
+      "The nasion positioning marker"
+    ],
+    "answer": "C",
+    "explanation": "Vertical plane errors are corrected by using the horizontal light beam marker to make the Frankfort plane horizontal."
+  },
+  {
+    "id": "m17-011",
+    "module": "m17",
+    "type": "mcq",
+    "question": "On a panoramic radiograph, a 'smiley' or 'grumpy' occlusal plane is caused by which error?",
+    "options": [
+      "The head being rotated to one side",
+      "The patient moving during exposure",
+      "The patient's neck being extended",
+      "The head being tipped up or down"
+    ],
+    "answer": "D",
+    "explanation": "Vertical plane errors, where the head is tipped up or down, distort the occlusal plane into a 'smiley' or 'grumpy' face."
+  },
+  {
+    "id": "m17-012",
+    "module": "m17",
+    "type": "tf",
+    "question": "In panoramic radiography, the vertical light beam marker is used to ensure the midline sagittal plane is vertical and the head is not rotated.",
+    "answer": true,
+    "explanation": "Horizontal plane errors (head rotation) are corrected using the vertical light beam marker."
+  },
+  {
+    "id": "m17-013",
+    "module": "m17",
+    "type": "mcq",
+    "question": "On a panoramic radiograph, spinal shadows are evident. Which positioning fault is most likely?",
+    "options": [
+      "The neck is extended or the patient is too far forward",
+      "The tongue is not pressed to the roof of the mouth",
+      "The patient did not bite their incisors on the bite peg",
+      "The head is rotated towards one side of the machine"
+    ],
+    "answer": "A",
+    "explanation": "Cervical spine ghosting occurs if the neck is extended or the patient is too far forwards; ensure the spine is straight."
+  },
+  {
+    "id": "m17-014",
+    "module": "m17",
+    "type": "tf",
+    "question": "Sharp jumps and blurring on a panoramic image are typical of patient movement during the exposure.",
+    "answer": true,
+    "explanation": "Movement artefacts show as sharp jumps and blurring; ask the patient to remain still throughout."
+  },
+  {
+    "id": "m17-015",
+    "module": "m17",
+    "type": "mcq",
+    "question": "A digital panoramic image appears badly distorted. What is the likely cause?",
+    "options": [
+      "Underexposure",
+      "Software malfunction",
+      "Overexposure",
+      "Static electricity"
+    ],
+    "answer": "B",
+    "explanation": "A badly distorted digital panoramic image indicates a software malfunction."
+  },
+  {
+    "id": "m17-016",
+    "module": "m17",
+    "type": "mcq",
+    "question": "A film-based panoramic image shows two images on one film. What has happened?",
+    "options": [
+      "The film was overdeveloped",
+      "The intensifying screen was dirty",
+      "The film was exposed twice",
+      "Static built up on the film"
+    ],
+    "answer": "C",
+    "explanation": "Two images on one film is a double exposure."
+  },
+  {
+    "id": "m17-017",
+    "module": "m17",
+    "type": "tf",
+    "question": "A digital panoramic image that is too pale has been overexposed.",
+    "answer": false,
+    "explanation": "A digital image that is too pale is underexposed; one that is too dark is overexposed."
+  },
+  {
+    "id": "m17-018",
+    "module": "m17",
+    "type": "mcq",
+    "question": "A film-based panoramic image shows 'lightning marks'. What is the cause?",
+    "options": [
+      "Fogging",
+      "Double exposure",
+      "Underdevelopment",
+      "Static"
+    ],
+    "answer": "D",
+    "explanation": "Lightning marks on a film image are caused by static."
+  }
+]

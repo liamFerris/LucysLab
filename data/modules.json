@@ -1,0 +1,35 @@
+{
+  "groups": [
+    { "id": "science", "name": "X-ray science & safety", "colour": "#7c5cff" },
+    { "id": "basics", "name": "Images, anatomy & patients", "colour": "#2d8fe0" },
+    { "id": "intraoral", "name": "Intra-oral techniques", "colour": "#129e93" },
+    { "id": "extraoral", "name": "Extra-oral techniques", "colour": "#e39b12" },
+    { "id": "practice", "name": "Quality, law & interpretation", "colour": "#e8508f" }
+  ],
+  "modules": [
+    { "id": "m02", "number": 2,  "group": "science",   "name": "X-rays and their dangers",          "title": "What is an X-ray? The nature and dangers of X-rays" },
+    { "id": "m03", "number": 3,  "group": "science",   "name": "X-ray production",                  "title": "How are X-rays produced? X-ray production and X-ray generating equipment" },
+    { "id": "m04", "number": 4,  "group": "science",   "name": "Effects of X-rays on tissue",       "title": "What happens when X-rays hit you or the patient? The effects of X-rays on human tissue" },
+    { "id": "m05", "number": 5,  "group": "science",   "name": "Radiation dose and risk",           "title": "How much radiation do you use? Radiation dose and risk" },
+    { "id": "m06", "number": 6,  "group": "basics",    "name": "Image receptors and processing",    "title": "How do you create an X-ray? Image receptors (film and digital) and processing" },
+    { "id": "m07", "number": 7,  "group": "science",   "name": "Dose limitation and protection",    "title": "How do you limit the dose to the patient and yourselves? Physical methods of dose limitation and practical radiation protection" },
+    { "id": "m08", "number": 8,  "group": "basics",    "name": "Types of X-ray image",              "title": "What is an X-ray image? Understanding the different X-ray images and their limitations" },
+    { "id": "m09", "number": 9,  "group": "basics",    "name": "Maxillofacial anatomy",             "title": "What are the bones of the maxillofacial skeleton? Revision of anatomy and radiographic anatomy" },
+    { "id": "m10", "number": 10, "group": "basics",    "name": "Patient care and infection control", "title": "Patient care and infection control" },
+    { "id": "m11", "number": 11, "group": "intraoral", "name": "Paralleling periapicals",           "title": "How to take paralleling technique periapical radiographs" },
+    { "id": "m12", "number": 12, "group": "intraoral", "name": "Bisected angle periapicals",        "title": "How to take bisected angle technique periapical radiographs" },
+    { "id": "m13", "number": 13, "group": "intraoral", "name": "Bitewings",                         "title": "How to take bitewings" },
+    { "id": "m14", "number": 14, "group": "intraoral", "name": "Intra-oral faults and QA",          "title": "What's wrong? Intra-oral film faults and quality assessment" },
+    { "id": "m15", "number": 15, "group": "intraoral", "name": "Other intra-oral techniques",       "title": "Other intra-oral radiographic techniques and tips for positioning difficulties" },
+    { "id": "m16", "number": 16, "group": "extraoral", "name": "Panoramic radiographs",             "title": "How to take panoramic radiographs" },
+    { "id": "m17", "number": 17, "group": "extraoral", "name": "Panoramic image faults",            "title": "What's wrong? Panoramic radiographic image faults" },
+    { "id": "m18", "number": 18, "group": "intraoral", "name": "Occlusal radiographs",              "title": "How do you take occlusal radiographs?" },
+    { "id": "m19", "number": 19, "group": "extraoral", "name": "Oblique lateral radiographs",       "title": "How do you take oblique lateral radiographs?" },
+    { "id": "m20", "number": 20, "group": "extraoral", "name": "Cephalometric laterals",            "title": "How to take cephalometric lateral skull radiographs for orthodontics" },
+    { "id": "m21", "number": 21, "group": "intraoral", "name": "Localising unerupted teeth",        "title": "How do you localise the position of an unerupted tooth?" },
+    { "id": "m22", "number": 22, "group": "practice",  "name": "Quality assurance",                 "title": "How can you ensure good quality films? Quality assurance" },
+    { "id": "m23", "number": 23, "group": "practice",  "name": "The law",                           "title": "The law: legal requirements and recommended good practice" },
+    { "id": "m24", "number": 24, "group": "practice",  "name": "Lesions affecting the teeth",       "title": "What can you see? Radiological interpretation of lesions affecting the teeth" },
+    { "id": "m25", "number": 25, "group": "practice",  "name": "Lesions affecting the jaws",        "title": "What can you see? Radiological interpretation of lesions affecting the jaws" }
+  ]
+}

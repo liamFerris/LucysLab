@@ -1,0 +1,52 @@
+[
+  {
+    "id": "m09-001",
+    "module": "m09",
+    "type": "mcq",
+    "question": "When revising the maxillofacial skeleton, which bone is described as containing the antra?",
+    "options": [
+      "Mandible",
+      "Maxilla",
+      "Hyoid",
+      "Occipital"
+    ],
+    "answer": "B",
+    "explanation": "The maxilla is studied in detail including its main foramina and antra."
+  },
+  {
+    "id": "m09-002",
+    "module": "m09",
+    "type": "mcq",
+    "question": "When describing the mandible in detail, which features should be covered along with its main foramina?",
+    "options": [
+      "Its antra and sinuses",
+      "Its sutures and fontanelles",
+      "Its shape and internal structure",
+      "Its enamel and dentine"
+    ],
+    "answer": "C",
+    "explanation": "The mandible should be described including its shape, internal structure and main foramina."
+  },
+  {
+    "id": "m09-003",
+    "module": "m09",
+    "type": "mcq",
+    "question": "Which two bones are the main focus of revising the anatomy of the maxillofacial skeleton?",
+    "options": [
+      "Maxilla and hyoid",
+      "Mandible and occipital",
+      "Zygoma and sphenoid",
+      "Maxilla and mandible"
+    ],
+    "answer": "D",
+    "explanation": "The maxilla and the mandible are each described in detail, including their main foramina."
+  },
+  {
+    "id": "m09-004",
+    "module": "m09",
+    "type": "tf",
+    "question": "The anatomy of the maxillofacial skeleton is best understood by looking at anatomical models and radiographs.",
+    "answer": true,
+    "explanation": "This subject is best understood by looking at anatomical models and radiographs."
+  }
+]
