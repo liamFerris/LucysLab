@@ -103,6 +103,7 @@
     };
     save();
     startTest();
+    window.Chris?.react('mockStart');
   });
 
   $('resumeBtn').addEventListener('click', () => {
@@ -338,6 +339,7 @@
     renderList(filters[0]);
 
     if (pct >= 70) setTimeout(() => Confetti.rain(180), 400);
+    setTimeout(() => window.Chris?.react('mockResult', { grade: g.grade }), 900);
   }
 
   function reviewItem({ q, i, chosen }, st) {

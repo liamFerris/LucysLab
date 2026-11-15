@@ -207,6 +207,7 @@
 
       els.verdict.textContent = `${pick(PRAISE)} +${gained} points`;
       els.verdict.className = 'verdict good';
+      window.Chris?.react('correct', { streak: state.streak, mult: fmtMult(multiplier()).slice(1) });
     } else {
       const lostStreak = state.streak;
       state.streak = 0;
@@ -214,6 +215,7 @@
       if (lostStreak >= 2) Lab.replay(els.mult, 'drop');
       els.verdict.textContent = `Not quite. The answer is ${Lab.optionLabel(q, q.answerIndex)}.`;
       els.verdict.className = 'verdict bad';
+      window.Chris?.react('wrong', { lost: lostStreak });
     }
 
     els.explanation.textContent = q.explanation || '';
