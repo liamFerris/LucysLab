@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Million Climb · Lucy's Lab</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><img class="logo" src="assets/img/logo.svg" alt=""><span>Lucy's Lab</span></a>
+    <nav class="topnav" aria-label="Main">
+      <a href="study.html">Study</a>
+      <a href="climb.html" aria-current="page">Climb</a>
+      <a href="mock.html">Mock</a>
+      <a href="notes.html">Notes</a>
+    </nav>
+  </header>
+
+  <main class="page climb-page" id="climbMain">
+
+    <!-- Intro -->
+    <section id="climbIntro" class="card intro" hidden>
+      <div class="intro-icon climb-icon">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3a3 3 0 0 1-3 4M7 5H4a3 3 0 0 0 3 4"/></svg>
+      </div>
+      <h1>The Million Climb</h1>
+      <p>Fifteen questions between you and £1,000,000. Each right answer moves you up the ladder. One wrong answer and you drop back to your last safe point.</p>
+      <div class="intro-facts">
+        <div class="fact"><b>15</b><span>questions</span></div>
+        <div class="fact"><b>3</b><span>lifelines</span></div>
+        <div class="fact"><b>2</b><span>safe points</span></div>
+      </div>
+      <ul class="climb-rules">
+        <li><b>Halve it</b> takes away two wrong answers.</li>
+        <li><b>Poll the class</b> shows how everyone else would vote.</li>
+        <li><b>Ask Chris</b>: he always knows the answer.</li>
+        <li>Each lifeline can be used once. You can walk away with your winnings at any time.</li>
+      </ul>
+      <div class="intro-actions">
+        <button class="btn btn-primary btn-gold" id="climbStart" type="button">Start climbing</button>
+      </div>
+      <p class="climb-best" id="climbBest" hidden></p>
+    </section>
+
+    <!-- Game -->
+    <section id="climbGame" class="climb-layout" hidden>
+      <aside class="lifelines" aria-label="Lifelines">
+        <span class="eyebrow">Lifelines</span>
+        <button class="lifeline" id="llHalf" type="button" aria-label="Halve it: remove two wrong answers">
+          <span class="ll-icon"><span class="ll-half">½</span></span>
+          <span class="ll-name">Halve it</span>
+        </button>
+        <button class="lifeline" id="llPoll" type="button" aria-label="Poll the class: see how everyone would vote">
+          <span class="ll-icon"><svg class="icon" viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></span>
+          <span class="ll-name">Poll the class</span>
+        </button>
+        <button class="lifeline" id="llChris" type="button" aria-label="Ask Chris: he tells you the answer">
+          <span class="ll-icon"><img src="assets/img/chris.png" alt=""></span>
+          <span class="ll-name">Ask Chris</span>
+        </button>
+      </aside>
+
+      <div class="climb-main">
+        <div class="climb-strip" aria-hidden="true">
+          <div class="strip-dots" id="stripDots"></div>
+          <span class="strip-text" id="stripText"></span>
+        </div>
+
+        <div class="climb-title">
+          <span class="eyebrow" id="climbQNum">Question 1 of 15</span>
+          <h1 id="climbFor">For £100</h1>
+        </div>
+
+        <article class="card qcard" id="card">
+          <div class="qmeta">
+            <span id="qModule" class="module-tag"></span>
+          </div>
+          <h2 class="qtext" id="qText"></h2>
+          <div class="options climb-options" id="options"></div>
+
+          <div class="poll" id="poll" hidden>
+            <span class="eyebrow">The class voted</span>
+            <div class="poll-bars" id="pollBars"></div>
+          </div>
+
+          <div class="climb-actions" id="climbActions">
+            <button class="btn btn-ghost" id="walkBtn" type="button">Walk away</button>
+            <button class="btn btn-primary btn-gold" id="lockBtn" type="button" disabled>Lock it in</button>
+          </div>
+
+          <div class="feedback" id="feedback" hidden>
+            <p class="verdict" id="verdict"></p>
+            <p class="explanation" id="explanation"></p>
+            <div class="feedback-row">
+              <button class="btn btn-primary btn-gold" id="nextBtn" type="button"></button>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <aside class="ladder" aria-label="Prize ladder">
+        <ol class="ladder-list" id="ladder"></ol>
+      </aside>
+    </section>
+
+    <!-- Game over / walked away -->
+    <section id="climbEnd" class="card intro climb-end" hidden>
+      <span class="eyebrow" id="endEyebrow">Game over</span>
+      <h1 id="endTitle">You leave with £0</h1>
+      <p id="endText"></p>
+      <div class="intro-actions">
+        <a class="btn btn-ghost" href="index.html">Home</a>
+        <button class="btn btn-primary btn-gold" id="againBtn" type="button">Climb again</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Winning the million -->
+  <div class="win" id="win" hidden>
+    <div class="win-rays" aria-hidden="true"></div>
+    <div class="win-content" role="alert">
+      <span class="win-eyebrow">Lucy, you've done it!</span>
+      <div class="win-amount">£<span id="winAmount">0</span></div>
+      <p class="win-sub">Fifteen out of fifteen. You're a radiography millionaire.</p>
+      <div class="win-actions">
+        <a class="btn btn-ghost win-btn-ghost" href="index.html">Home</a>
+        <button class="btn btn-primary btn-gold" id="winAgain" type="button">Climb again</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/common.js"></script>
+  <script src="assets/js/confetti.js"></script>
+  <script src="assets/js/climb.js"></script>
+  <script src="assets/js/chris.js"></script>
+</body>
+</html>

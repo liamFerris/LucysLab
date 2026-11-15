@@ -23,13 +23,13 @@ const Confetti = (() => {
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
   }
 
-  function particle(x, y, vx, vy) {
+  function particle(x, y, vx, vy, colours = COLOURS) {
     return {
       x, y, vx, vy,
       size: 5 + Math.random() * 6,
       rot: Math.random() * Math.PI * 2,
       vr: (Math.random() - 0.5) * 0.35,
-      colour: COLOURS[Math.floor(Math.random() * COLOURS.length)],
+      colour: colours[Math.floor(Math.random() * colours.length)],
       shape: Math.random() < 0.6 ? 'rect' : 'circle',
       life: 0,
       max: 70 + Math.random() * 40,
@@ -52,13 +52,13 @@ const Confetti = (() => {
     start();
   }
 
-  /** Full-screen shower for milestones. */
-  function rain(count = 140) {
+  /** Full-screen shower for milestones. Optionally pass a list of colours. */
+  function rain(count = 140, colours) {
     if (Lab.reducedMotion) return;
     ensureCanvas();
     for (let i = 0; i < count; i++) {
       const p = particle(Math.random() * innerWidth, -20 - Math.random() * innerHeight * 0.4,
-        (Math.random() - 0.5) * 3, 2 + Math.random() * 4);
+        (Math.random() - 0.5) * 3, 2 + Math.random() * 4, colours);
       p.max = 140 + Math.random() * 60;
       parts.push(p);
     }

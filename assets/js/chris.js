@@ -61,6 +61,29 @@ const Chris = (() => {
     mockC: ['A solid pass! Have a look at the weaker modules and you\'ll climb higher.'],
     mockLow: ["Tough one. Look through the review, find the gaps, and we'll go again.", "Don't be disheartened. That's exactly what mock tests are for."],
     hello: ["Hello Lucy! Click me any time if you need a pep talk."],
+    climbStart: [
+      "Fifteen questions between you and a million pounds. Let's climb!",
+      "Here we go! Remember, you've got three lifelines. And me.",
+    ],
+    climbCorrect: [
+      "Right answer! You've just won {p}.",
+      "Yes! {p} in the bank. Up you go.",
+      "Correct! Keep climbing, Lucy.",
+      "Lovely stuff. The ladder's getting shorter.",
+    ],
+    climbSafe: [
+      "That's {p} safe! Nobody can take that away from you now.",
+      "{p} guaranteed! Now we can really play.",
+    ],
+    climbWrong: [
+      "Oh no! I'm so sorry, Lucy. But every wrong answer is one you'll never get wrong again.",
+      "Ohhh, that's the wrong one. Shake it off and climb again!",
+    ],
+    climbWalk: ["Very sensible. You take that money and run!"],
+    climbWin: [
+      "A MILLION POUNDS! Lucy, you've only gone and done it!",
+      "ONE MILLION! I'm actually emotional. Look at you go!",
+    ],
   };
 
   let root, bubble, text, hideTimer;
@@ -111,8 +134,15 @@ const Chris = (() => {
 
   /** Let pages tell Chris what just happened. He doesn't comment on everything, so he doesn't get annoying. */
   function react(event, data = {}) {
-    const fill = (s) => s.replace('{n}', data.streak).replace('{m}', data.mult);
+    const fill = (s) => s.replace('{n}', data.streak).replace('{m}', data.mult).replace('{p}', data.prize);
     switch (event) {
+      case 'climbCorrect':
+        if (data.safe) say(fill(pick('climbSafe')));
+        else if (Math.random() < 0.45) say(fill(pick('climbCorrect')));
+        break;
+      case 'climbWin':
+        say(pick('climbWin'), 9000);
+        break;
       case 'correct':
         if (data.streak >= 3 && (data.streak === 3 || data.streak % 5 === 0)) say(fill(pick('streak')));
         else if (Math.random() < 0.3) say(pick('correct'));
