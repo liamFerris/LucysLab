@@ -159,7 +159,8 @@
         [state.deck[0], state.deck[last]] = [state.deck[last], state.deck[0]];
       }
     }
-    state.current = state.deck.pop();
+    // Deal a fresh set of options (random wrong answers, random order) each time it comes up.
+    state.current = Lab.deal(state.deck.pop());
     state.locked = false;
     renderQuestion(state.current);
   }

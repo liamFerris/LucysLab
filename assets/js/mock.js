@@ -34,7 +34,28 @@
   }
 
   const save = () => test && Lab.store.set(ACTIVE_KEY, test);
-  const testQuestions = () => test.ids.map((id) => questionById[id]);
+  // The questions as shown in this test: same random wrong answers and order every time
+  // the test is resumed, because the dealt options are saved in test.dealt.
+  let dealtQs = [];
+  const testQuestions = () => dealtQs;
+
+  function prepareDealt() {
+    if (!Array.isArray(test.dealt)) test.dealt = test.ids.map(() => null);   // tests saved before dealing existed
+    dealtQs = test.ids.map((id, i) => {
+      const base = questionById[id];
+      if (base.type !== 'mcq') return base;
+      const saved = test.dealt[i];
+      if (!saved) return base;   // old saved test: keep the file's original order so saved answers still line up
+      const q = Lab.redeal(base, saved);
+      if (q.options.join('\n') !== saved.join('\n')) {
+        // The question changed since this test was saved, so it was dealt again; its old answer no longer applies.
+        test.answers[i] = null;
+        test.dealt[i] = q.options;
+      }
+      return q;
+    });
+    save();
+  }
 
   /* ---------- Intro ---------- */
 
@@ -91,10 +112,12 @@
   }
 
   $('startBtn').addEventListener('click', () => {
-    const ids = pickQuestions().map((q) => q.id);
+    const picked = pickQuestions().map((q) => Lab.deal(q));
+    const ids = picked.map((q) => q.id);
     const now = Date.now();
     test = {
       ids,
+      dealt: picked.map((q) => (q.type === 'mcq' ? q.options : null)),
       answers: ids.map(() => null),
       flags: ids.map(() => false),
       current: 0,
@@ -113,15 +136,22 @@
 
   /* ---------- Test ---------- */
 
-  function startTest() {
+  /** Tidy a saved or new test against the current question bank, and rebuild its dealt questions. */
+  function loadTest() {
     // Drop any questions that no longer exist in the bank (e.g. after an edit).
     const keep = test.ids.map((id, i) => (questionById[id] ? i : -1)).filter((i) => i >= 0);
     if (keep.length !== test.ids.length) {
       test.ids = keep.map((i) => test.ids[i]);
       test.answers = keep.map((i) => test.answers[i]);
       test.flags = keep.map((i) => test.flags[i]);
+      if (Array.isArray(test.dealt)) test.dealt = keep.map((i) => test.dealt[i]);
       test.current = Math.min(test.current, test.ids.length - 1);
     }
+    prepareDealt();
+  }
+
+  function startTest() {
+    loadTest();
     $('qTotal').textContent = test.ids.length;
     buildPalette();
     show('test');
@@ -143,7 +173,7 @@
 
   function renderCurrent() {
     const i = test.current;
-    const q = questionById[test.ids[i]];
+    const q = dealtQs[i];
     $('qNum').textContent = i + 1;
     Lab.moduleTag($('qModule'), moduleById[q.module], q.module);
     $('qType').textContent = q.type === 'tf' ? 'True or false' : 'Multiple choice';
@@ -228,7 +258,7 @@
 
   document.addEventListener('keydown', (e) => {
     if (views.test.hidden || $('confirmDialog').open || e.metaKey || e.ctrlKey || e.altKey) return;
-    const q = questionById[test.ids[test.current]];
+    const q = dealtQs[test.current];
     const key = e.key.toLowerCase();
     if (key === 'arrowright') go(test.current + 1);
     else if (key === 'arrowleft') go(test.current - 1);
@@ -388,6 +418,7 @@
   const saved = Lab.store.get(ACTIVE_KEY, null);
   if (saved && Date.now() >= saved.endTime) {
     test = saved;
+    loadTest();
     finish(true);
   } else {
     showIntro();

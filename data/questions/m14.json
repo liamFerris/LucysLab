@@ -11,7 +11,12 @@
       "Not less than 99%"
     ],
     "answer": "A",
-    "explanation": "For digital radiography, not less than 95% of radiographs taken should be rated A."
+    "explanation": "For digital radiography, not less than 95% of radiographs taken should be rated A.",
+    "extraWrong": [
+      "Not less than 75%",
+      "Not less than 50%",
+      "Not less than 80%"
+    ]
   },
   {
     "id": "m14-002",
@@ -25,7 +30,12 @@
       "Not greater than 20%"
     ],
     "answer": "B",
-    "explanation": "For film radiography, not greater than 10% of radiographs should be rated N (and not less than 90% rated A)."
+    "explanation": "For film radiography, not greater than 10% of radiographs should be rated N (and not less than 90% rated A).",
+    "extraWrong": [
+      "Not greater than 25%",
+      "Not greater than 30%",
+      "Not greater than 50%"
+    ]
   },
   {
     "id": "m14-003",
@@ -55,7 +65,12 @@
       "Non-standard projection used"
     ],
     "answer": "C",
-    "explanation": "Rating N means diagnostically not acceptable: errors render the radiograph unable to be used diagnostically."
+    "explanation": "Rating N means diagnostically not acceptable: errors render the radiograph unable to be used diagnostically.",
+    "extraWrong": [
+      "Not yet reported",
+      "No errors detected",
+      "Negative for caries"
+    ]
   },
   {
     "id": "m14-006",
@@ -69,7 +84,12 @@
       "Rating A"
     ],
     "answer": "D",
-    "explanation": "A is 'diagnostically acceptable': no or minimal errors and sufficient quality to answer the clinical question."
+    "explanation": "A is 'diagnostically acceptable': no or minimal errors and sufficient quality to answer the clinical question.",
+    "extraWrong": [
+      "Rating C",
+      "Rating E",
+      "Rating X"
+    ]
   },
   {
     "id": "m14-007",
@@ -83,7 +103,12 @@
       "Mesial aspect of the first premolars to the mesial aspect of the first molars"
     ],
     "answer": "A",
-    "explanation": "A bitewing should show from the distal aspect of the canines to the mesial aspect of the third molars."
+    "explanation": "A bitewing should show from the distal aspect of the canines to the mesial aspect of the third molars.",
+    "extraWrong": [
+      "Distal aspect of the incisors to the distal aspect of the first molars",
+      "Mesial aspect of the canines to the mesial aspect of the second premolars",
+      "Distal aspect of the lateral incisors to the mesial aspect of the second molars"
+    ]
   },
   {
     "id": "m14-008",
@@ -97,7 +122,12 @@
       "The whole mandible including both condyles is shown"
     ],
     "answer": "B",
-    "explanation": "A bitewing should have the occlusal plane in the middle of the image, parallel to the top and bottom of the image."
+    "explanation": "A bitewing should have the occlusal plane in the middle of the image, parallel to the top and bottom of the image.",
+    "extraWrong": [
+      "Both temporomandibular joints are included",
+      "The inferior border of the mandible is shown",
+      "The occlusal plane lies along the top edge of the image"
+    ]
   },
   {
     "id": "m14-009",
@@ -119,7 +149,12 @@
       "Distal of the canines to mesial of the third molars"
     ],
     "answer": "C",
-    "explanation": "A periapical must include the crown and entire root, with apical tissues clearly defined including the full extent of any disease."
+    "explanation": "A periapical must include the crown and entire root, with apical tissues clearly defined including the full extent of any disease.",
+    "extraWrong": [
+      "Whole dental arch shown from condyle to condyle",
+      "Crowns and necks only, with apices excluded",
+      "Teeth of both jaws shown on the same image"
+    ]
   },
   {
     "id": "m14-011",
@@ -141,7 +176,12 @@
       "Failure to keep the timer depressed"
     ],
     "answer": "D",
-    "explanation": "Causes of an under-exposed, pale image include an incorrect timer setting, a faulty timer, or failure to keep the timer depressed."
+    "explanation": "Causes of an under-exposed, pale image include an incorrect timer setting, a faulty timer, or failure to keep the timer depressed.",
+    "extraWrong": [
+      "Phosphor plate dirt",
+      "Solid-state sensor cracked",
+      "Overlapping of the contact areas"
+    ]
   },
   {
     "id": "m14-013",
@@ -155,7 +195,12 @@
       "Re-instruct the patient"
     ],
     "answer": "A",
-    "explanation": "A scratched phosphor plate should be replaced, and the image repeated using a new plate."
+    "explanation": "A scratched phosphor plate should be replaced, and the image repeated using a new plate.",
+    "extraWrong": [
+      "Use a beam-aiming device",
+      "Change the chemicals",
+      "Check the processor/darkroom"
+    ]
   },
   {
     "id": "m14-014",
@@ -169,7 +214,12 @@
       "Re-instruct the patient"
     ],
     "answer": "B",
-    "explanation": "Coning off, elongation, foreshortening and overlapping are all corrected by using a beam-aiming device."
+    "explanation": "Coning off, elongation, foreshortening and overlapping are all corrected by using a beam-aiming device.",
+    "extraWrong": [
+      "Repeat using a new plate",
+      "Organise service and repair",
+      "Clean and repeat"
+    ]
   },
   {
     "id": "m14-015",
@@ -183,7 +233,12 @@
       "Development time too short"
     ],
     "answer": "C",
-    "explanation": "Overdevelopment (film too dark) is caused by developer that is too hot, too concentrated, or development time that is too long."
+    "explanation": "Overdevelopment (film too dark) is caused by developer that is too hot, too concentrated, or development time that is too long.",
+    "extraWrong": [
+      "Developer too dilute",
+      "Under-fixation",
+      "Film packet creased by the operator"
+    ]
   },
   {
     "id": "m14-016",
@@ -205,7 +260,12 @@
       "Change chemicals"
     ],
     "answer": "D",
-    "explanation": "An exhausted (or too dilute) developer causes underdevelopment and is corrected by changing the chemicals."
+    "explanation": "An exhausted (or too dilute) developer causes underdevelopment and is corrected by changing the chemicals.",
+    "extraWrong": [
+      "Re-instruct patient",
+      "Use beam-aiming device",
+      "Organise service and repair"
+    ]
   },
   {
     "id": "m14-018",
@@ -219,7 +279,12 @@
       "Chemical splashes; careful chemical handling"
     ],
     "answer": "A",
-    "explanation": "Fogging by light is due to light leakage, so the processor/darkroom should be checked."
+    "explanation": "Fogging by light is due to light leakage, so the processor/darkroom should be checked.",
+    "extraWrong": [
+      "Patient movement; re-instruct patient",
+      "Developer too hot; check temperature and adjust",
+      "Coning off; use beam-aiming device"
+    ]
   },
   {
     "id": "m14-019",
@@ -233,7 +298,12 @@
       "Patient movement"
     ],
     "answer": "B",
-    "explanation": "Processing errors that mark a film include chemical splashes, films stuck together, insufficient chemicals and under-fixation."
+    "explanation": "Processing errors that mark a film include chemical splashes, films stuck together, insufficient chemicals and under-fixation.",
+    "extraWrong": [
+      "Incorrect timer setting",
+      "Failure to remove a denture",
+      "Foreshortening"
+    ]
   },
   {
     "id": "m14-020",
@@ -242,5 +312,119 @@
     "question": "An unsharp or blurred image caused by patient movement is corrected by using a beam-aiming device.",
     "answer": false,
     "explanation": "Blurring from patient movement is corrected by re-instructing the patient; beam-aiming devices correct positioning errors such as coning off."
+  },
+  {
+    "id": "m14-021",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A digital image is marked because the solid-state sensor is cracked. What is the corrective action?",
+    "options": [
+      "Clean and repeat",
+      "Adjust the timer setting",
+      "Repeat using a new sensor",
+      "Re-instruct the patient"
+    ],
+    "answer": "C",
+    "explanation": "A cracked solid-state sensor marks the image; the corrective action is to repeat using a new sensor.",
+    "extraWrong": [
+      "Use a beam-aiming device",
+      "Change the chemicals",
+      "Check the processor/darkroom"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m14-022",
+    "module": "m14",
+    "type": "mcq",
+    "question": "A digital radiograph is too dark (over-exposed) because the timer is faulty. What is the corrective action?",
+    "options": [
+      "Re-instruct the patient",
+      "Organise service and repair",
+      "Repeat using a new plate",
+      "Use a beam-aiming device"
+    ],
+    "answer": "B",
+    "explanation": "A faulty timer is corrected by organising a service and repair; an incorrect timer setting is corrected by adjusting the setting.",
+    "extraWrong": [
+      "Change the chemicals",
+      "Clean and repeat",
+      "Dilute the developer"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m14-023",
+    "module": "m14",
+    "type": "mcq",
+    "question": "On a good-quality bitewing, the contrast and density should allow which junction to be clearly visualised for caries diagnosis?",
+    "options": [
+      "Dentine–pulp junction",
+      "Mucogingival junction",
+      "Cemento–dentine junction",
+      "Enamel–dentine junction"
+    ],
+    "answer": "D",
+    "explanation": "Bitewing contrast and density should allow enamel, dentine and pulp to be differentiated and the enamel–dentine junction (EDJ) to be clearly visualised for caries diagnosis.",
+    "extraWrong": [
+      "Lamina dura",
+      "Periodontal ligament space",
+      "Root apex"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m14-024",
+    "module": "m14",
+    "type": "tf",
+    "question": "On a good-quality bitewing, the crowns, necks and coronal third of the roots of all the teeth should be clearly defined.",
+    "answer": true,
+    "explanation": "Bitewing quality criteria include clear definition of the crowns, necks and coronal third of the roots of all the teeth, with no vertical geometrical distortion.",
+    "source": "generated"
+  },
+  {
+    "id": "m14-c01",
+    "module": "m14",
+    "type": "mcq",
+    "question": "If an image appears too light in colour/pale, it will be a result of...",
+    "options": [
+      "Over-development",
+      "Over-exposure",
+      "Under-exposure",
+      "Light fogging"
+    ],
+    "answer": "C",
+    "explanation": "Too few x-rays hit the image receptor.",
+    "source": "Study card sc1 r4c3"
+  },
+  {
+    "id": "m14-c02",
+    "module": "m14",
+    "type": "mcq",
+    "question": "If an image appears too dark in colour, it will be a result of...",
+    "options": [
+      "over-development",
+      "under-development",
+      "under-exposure",
+      "Film packet back to front"
+    ],
+    "answer": "A",
+    "explanation": "Over-developed films are too dark, while under-developed films are too pale.",
+    "source": "Study card sc5 r5c1"
+  },
+  {
+    "id": "m14-c03",
+    "module": "m14",
+    "type": "mcq",
+    "question": "What percent of images should be grade A in digital dental radiography?",
+    "options": [
+      "10%",
+      "30%",
+      "70%",
+      "95%"
+    ],
+    "answer": "D",
+    "explanation": "GRADE A = Diagnostically Acceptable. GRADE N = Diagnostically Not acceptable.",
+    "source": "Study card sc6 r3c1"
   }
 ]

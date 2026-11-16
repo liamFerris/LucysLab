@@ -11,7 +11,12 @@
       "Nothing, if a lead apron is being worn"
     ],
     "answer": "A",
-    "explanation": "The patient preparation checklist says to remove spectacles, dentures, orthodontic appliances and relevant jewellery."
+    "explanation": "The patient preparation checklist says to remove spectacles, dentures, orthodontic appliances and relevant jewellery.",
+    "extraWrong": [
+      "Only spectacles and contact lenses",
+      "Only dentures, if they are loose",
+      "Coats, scarves and gloves"
+    ]
   },
   {
     "id": "m10-002",
@@ -25,7 +30,12 @@
       "Tilted downwards towards the chest"
     ],
     "answer": "B",
-    "explanation": "With the patient sitting upright, the occlusal plane should be horizontal and parallel to the floor."
+    "explanation": "With the patient sitting upright, the occlusal plane should be horizontal and parallel to the floor.",
+    "extraWrong": [
+      "Tilted upwards by about 45°",
+      "Angled downwards by 5° to 8°",
+      "Tilted sideways towards the tubehead"
+    ]
   },
   {
     "id": "m10-003",
@@ -39,7 +49,12 @@
       "While the patient is biting on the holder"
     ],
     "answer": "C",
-    "explanation": "The exposure should be selected before positioning the film packet and tubehead, so the procedure can be carried out quickly and accurately."
+    "explanation": "The exposure should be selected before positioning the film packet and tubehead, so the procedure can be carried out quickly and accurately.",
+    "extraWrong": [
+      "After removing the film from the mouth",
+      "Once the patient has left the chair",
+      "Only after a trial exposure"
+    ]
   },
   {
     "id": "m10-004",
@@ -53,7 +68,12 @@
       "A lead apron"
     ],
     "answer": "D",
-    "explanation": "If a carer or comforter helps with a child, the carer should be provided with a lead apron."
+    "explanation": "If a carer or comforter helps with a child, the carer should be provided with a lead apron.",
+    "extraWrong": [
+      "A disposable plastic apron",
+      "A surgical face mask",
+      "A sterile bite peg"
+    ]
   },
   {
     "id": "m10-005",
@@ -67,7 +87,12 @@
       "Oblique laterals"
     ],
     "answer": "D",
-    "explanation": "For children, oblique laterals are recommended for extra-oral views."
+    "explanation": "For children, oblique laterals are recommended for extra-oral views.",
+    "extraWrong": [
+      "Paralleling periapicals",
+      "Cone beam CT scans",
+      "Submentovertex views"
+    ]
   },
   {
     "id": "m10-006",
@@ -81,7 +106,12 @@
       "By placing them in a bite block"
     ],
     "answer": "B",
-    "explanation": "CCD digital sensors should be covered with suitable plastic barrier coverings before use."
+    "explanation": "CCD digital sensors should be covered with suitable plastic barrier coverings before use.",
+    "extraWrong": [
+      "By soaking them in bleach overnight",
+      "By wrapping them in a lead apron",
+      "By cleaning them in an ultrasonic bath"
+    ]
   },
   {
     "id": "m10-007",
@@ -95,7 +125,12 @@
       "Disposed of as general waste"
     ],
     "answer": "C",
-    "explanation": "The barrier envelope and tray should be disposed of as clinical waste."
+    "explanation": "The barrier envelope and tray should be disposed of as clinical waste.",
+    "extraWrong": [
+      "Wiped and stored for reuse",
+      "Placed in the daylight loader",
+      "Recycled with the paper waste"
+    ]
   },
   {
     "id": "m10-008",
@@ -109,7 +144,12 @@
       "The ear rods and nasion marker"
     ],
     "answer": "C",
-    "explanation": "The control panel and exposure button are the high-risk zones and are covered in cling film to act as a physical barrier."
+    "explanation": "The control panel and exposure button are the high-risk zones and are covered in cling film to act as a physical barrier.",
+    "extraWrong": [
+      "The patient's lead apron",
+      "The beam aiming ring",
+      "The film holders and biteblocks"
+    ]
   },
   {
     "id": "m10-009",
@@ -123,7 +163,12 @@
       "A sterile bite peg"
     ],
     "answer": "D",
-    "explanation": "The panoramic pre-operative checklist says to insert a sterile bite peg into the holder."
+    "explanation": "The panoramic pre-operative checklist says to insert a sterile bite peg into the holder.",
+    "extraWrong": [
+      "A beam aiming ring",
+      "A CCD digital sensor",
+      "A cling-film-wrapped ear rod"
+    ]
   },
   {
     "id": "m10-010",
@@ -137,7 +182,12 @@
       "The tubehead and timer button"
     ],
     "answer": "A",
-    "explanation": "After lateral skull radiography, the ear rods and nasion marker are wiped down, along with the control panels."
+    "explanation": "After lateral skull radiography, the ear rods and nasion marker are wiped down, along with the control panels.",
+    "extraWrong": [
+      "The film holders and biteblocks",
+      "The patient's lead apron",
+      "The daylight loading processor"
+    ]
   },
   {
     "id": "m10-011",
@@ -151,7 +201,12 @@
       "They are wiped with disinfectant only"
     ],
     "answer": "B",
-    "explanation": "The film holders are scrubbed, rinsed and then autoclaved; the beam aiming ring is disinfected."
+    "explanation": "The film holders are scrubbed, rinsed and then autoclaved; the beam aiming ring is disinfected.",
+    "extraWrong": [
+      "They are placed in the daylight loader",
+      "They are dried and reused immediately",
+      "They are disposed of as general waste"
+    ]
   },
   {
     "id": "m10-012",
@@ -192,5 +247,104 @@
     "question": "Intra-oral film packets should be positioned carefully to avoid soft tissue trauma.",
     "answer": true,
     "explanation": "Careful positioning of intra-oral film packets avoids soft tissue trauma."
+  },
+  {
+    "id": "m10-017",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Which of these is on the patient preparation checklist before dental radiography?",
+    "options": [
+      "Taking the patient's blood pressure",
+      "Asking the patient to fast for two hours",
+      "Confirming the radiographic request",
+      "Giving the patient a local anaesthetic"
+    ],
+    "answer": "C",
+    "explanation": "The checklist is: confirm the patient's identity, check their current medical history, confirm the radiographic request, explain the procedure, reassure the patient, and remove spectacles, dentures, orthodontic appliances and relevant jewellery.",
+    "extraWrong": [
+      "Weighing the patient on scales",
+      "Scaling and polishing the teeth first",
+      "Measuring the patient's height"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m10-018",
+    "module": "m10",
+    "type": "mcq",
+    "question": "After intra-oral radiography, how should the film be taken out of its barrier envelope?",
+    "options": [
+      "Open the envelope without touching the film and drop the film onto the work surface",
+      "Autoclave the envelope with the film inside before opening it",
+      "Soak the envelope in disinfectant overnight before opening it",
+      "Put the whole envelope, unopened, straight into the processor"
+    ],
+    "answer": "A",
+    "explanation": "The barrier envelope is opened without touching the film, and the film is dropped onto the work surface. The envelope and tray are then disposed of as clinical waste.",
+    "extraWrong": [
+      "Ask the patient to tear open the envelope and hand over the film",
+      "Rinse the envelope under the tap and post it into the daylight loader",
+      "Leave the film in the envelope and dispose of both as clinical waste"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m10-019",
+    "module": "m10",
+    "type": "mcq",
+    "question": "After intra-oral radiography, if no cling film was used, how should the tubehead, control panel and timer button be dealt with?",
+    "options": [
+      "Autoclave them",
+      "Wipe them with surface disinfectant",
+      "Scrub them in soapy water",
+      "Rinse them under running water"
+    ],
+    "answer": "B",
+    "explanation": "If no cling film was used, the X-ray tubehead, control panel and timer button are wiped down with surface disinfectant, then the gloves are discarded as clinical waste.",
+    "extraWrong": [
+      "Wipe them with a dry paper towel",
+      "Leave them until the end of the day",
+      "Spray them with plain water only"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m10-020",
+    "module": "m10",
+    "type": "tf",
+    "question": "If a patient is lying down rather than sitting upright, the radiographic techniques should be modified to suit.",
+    "answer": true,
+    "explanation": "If the patient is sitting upright the occlusal plane should be horizontal; if the patient is lying down, the techniques should be modified to suit.",
+    "source": "generated"
+  },
+  {
+    "id": "m10-c01",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Which of the following should be autoclaved after use?",
+    "options": [
+      "Panoramic chin supports",
+      "Film packets",
+      "Film holders",
+      "Digital sensors"
+    ],
+    "answer": "C",
+    "explanation": "Rest must be wiped down after use.",
+    "source": "Study card sc5 r2c2"
+  },
+  {
+    "id": "m10-c02",
+    "module": "m10",
+    "type": "mcq",
+    "question": "Which piece of radiographic equipment should you routinely wipe down after each patient?",
+    "options": [
+      "X-ray tubehead",
+      "Control panel",
+      "Timer button",
+      "All of the above"
+    ],
+    "answer": "D",
+    "explanation": "If no cling film was used, wipe down the X-ray tubehead, control panel and timer button with surface disinfectant after each patient.",
+    "source": "Study card sc5 r3c2"
   }
 ]

@@ -11,7 +11,12 @@
       "At an angle to the long axis of the tooth"
     ],
     "answer": "A",
-    "explanation": "With the paralleling technique, the image receptor is positioned parallel to the long axis of the tooth."
+    "explanation": "With the paralleling technique, the image receptor is positioned parallel to the long axis of the tooth.",
+    "extraWrong": [
+      "Parallel to the occlusal plane",
+      "At 45° to the long axis of the tooth",
+      "Parallel to an imaginary bisecting line"
+    ]
   },
   {
     "id": "m11-002",
@@ -25,7 +30,12 @@
       "30°"
     ],
     "answer": "C",
-    "explanation": "The receptor is parallel to the tooth's long axis and the X-ray beam hits the receptor at 90°."
+    "explanation": "The receptor is parallel to the tooth's long axis and the X-ray beam hits the receptor at 90°.",
+    "extraWrong": [
+      "60°",
+      "180°",
+      "15°"
+    ]
   },
   {
     "id": "m11-003",
@@ -39,7 +49,12 @@
       "50 mm"
     ],
     "answer": "B",
-    "explanation": "A long fsd of 200 mm is used."
+    "explanation": "A long fsd of 200 mm is used.",
+    "extraWrong": [
+      "20 mm",
+      "400 mm",
+      "1000 mm"
+    ]
   },
   {
     "id": "m11-004",
@@ -53,7 +68,12 @@
       "To keep beam divergence and magnification to a minimum"
     ],
     "answer": "D",
-    "explanation": "A long fsd (200 mm) keeps divergence of the X-ray beam, and therefore magnification of the image, to a minimum."
+    "explanation": "A long fsd (200 mm) keeps divergence of the X-ray beam, and therefore magnification of the image, to a minimum.",
+    "extraWrong": [
+      "To allow a smaller image receptor to be used",
+      "To avoid the need for a receptor holder",
+      "To remove the need for a barrier sheath"
+    ]
   },
   {
     "id": "m11-005",
@@ -67,7 +87,12 @@
       "Large (blue) biteblock"
     ],
     "answer": "B",
-    "explanation": "For anterior teeth, the small (blue) biteblock is used with the anterior metal arm and blue aiming ring."
+    "explanation": "For anterior teeth, the small (blue) biteblock is used with the anterior metal arm and blue aiming ring.",
+    "extraWrong": [
+      "Medium (green) biteblock",
+      "Small (red) biteblock",
+      "Large (red) biteblock"
+    ]
   },
   {
     "id": "m11-006",
@@ -81,7 +106,12 @@
       "Small receptor, long axis horizontal"
     ],
     "answer": "C",
-    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal."
+    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal.",
+    "extraWrong": [
+      "Occlusal receptor, long axis vertical",
+      "Two small receptors side by side",
+      "Extra-oral cassette, long axis horizontal"
+    ]
   },
   {
     "id": "m11-007",
@@ -95,7 +125,12 @@
       "By looking through the aiming ring"
     ],
     "answer": "D",
-    "explanation": "The posterior set-up is checked by looking through the aiming ring."
+    "explanation": "The posterior set-up is checked by looking through the aiming ring.",
+    "extraWrong": [
+      "By comparing it with an old radiograph",
+      "By placing it against the patient's cheek",
+      "By switching on the tubehead light"
+    ]
   },
   {
     "id": "m11-008",
@@ -109,7 +144,12 @@
       "A thyroid shield"
     ],
     "answer": "A",
-    "explanation": "The technique is modified to accommodate the sensor cable, and the sensor must have a barrier sheath fitted."
+    "explanation": "The technique is modified to accommodate the sensor cable, and the sensor must have a barrier sheath fitted.",
+    "extraWrong": [
+      "An intensifying screen",
+      "A sterile bite peg",
+      "A cardboard bite tab"
+    ]
   },
   {
     "id": "m11-009",
@@ -123,7 +163,12 @@
       "Periodontal bone levels are poorly shown"
     ],
     "answer": "C",
-    "explanation": "Positioning the receptor can be uncomfortable and sometimes causes gagging. The other options contradict the advantages of paralleling: there is no coning off, images are reproducible, and periodontal bone levels are well represented."
+    "explanation": "Positioning the receptor can be uncomfortable and sometimes causes gagging. The other options contradict the advantages of paralleling: there is no coning off, images are reproducible, and periodontal bone levels are well represented.",
+    "extraWrong": [
+      "Crowns are distorted",
+      "Images are heavily magnified",
+      "Roots are often foreshortened"
+    ]
   },
   {
     "id": "m11-010",
@@ -137,7 +182,12 @@
       "A flat, shallow palate"
     ],
     "answer": "D",
-    "explanation": "Mouth anatomy such as a flat, shallow palate can make the paralleling technique impossible."
+    "explanation": "Mouth anatomy such as a flat, shallow palate can make the paralleling technique impossible.",
+    "extraWrong": [
+      "Large existing restorations",
+      "Widely spaced front teeth",
+      "Crowded lower incisors"
+    ]
   },
   {
     "id": "m11-011",
@@ -151,7 +201,12 @@
       "Restorations and caries only"
     ],
     "answer": "A",
-    "explanation": "Contrast and density should be such that enamel, dentine and pulp can be differentiated."
+    "explanation": "Contrast and density should be such that enamel, dentine and pulp can be differentiated.",
+    "extraWrong": [
+      "The lips and gingival soft tissues",
+      "The nasal floor and antrum",
+      "The lead foil and film base"
+    ]
   },
   {
     "id": "m11-012",
@@ -165,7 +220,12 @@
       "Imaging the crowns of all the teeth on one side only"
     ],
     "answer": "B",
-    "explanation": "Assessment of root shape and number before extractions is one of the clinical indications for periapical radiography."
+    "explanation": "Assessment of root shape and number before extractions is one of the clinical indications for periapical radiography.",
+    "extraWrong": [
+      "Monitoring growth of the whole skull",
+      "Imaging the whole face for fractures",
+      "Producing 3D slices in three planes"
+    ]
   },
   {
     "id": "m11-013",
@@ -206,5 +266,164 @@
     "question": "The paralleling technique needs to be modified during endodontics.",
     "answer": true,
     "explanation": "The technique has to be modified during endodontics (covered in Module 15)."
+  },
+  {
+    "id": "m11-018",
+    "module": "m11",
+    "type": "mcq",
+    "question": "On an ideal periapical radiograph, what must be included on the image?",
+    "options": [
+      "Both condyles of the mandible",
+      "Only the crowns of the teeth",
+      "The full extent of the maxillary sinus",
+      "The crown and entire roots of the tooth"
+    ],
+    "answer": "D",
+    "explanation": "The crown and entire roots of the tooth or teeth under investigation should be included, with the apical tissues clearly defined, including the full extent of any disease present.",
+    "extraWrong": [
+      "The roots only, without the crown",
+      "The inferior border of the mandible",
+      "The whole of both jaws"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m11-019",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of these is an advantage of the paralleling technique?",
+    "options": [
+      "It is possible in very small children",
+      "Minimal elongation or foreshortening",
+      "It is easy for inexperienced operators",
+      "Positioning is easy in the lower third molar region"
+    ],
+    "answer": "B",
+    "explanation": "Paralleling gives geometrically accurate images with minimal magnification and minimal elongation or foreshortening. It can be difficult for inexperienced operators and in the lower third molar region, and is impossible in very small children.",
+    "extraWrong": [
+      "It never causes gagging",
+      "No receptor holders are needed",
+      "No modification is needed during endodontics"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m11-020",
+    "module": "m11",
+    "type": "mcq",
+    "question": "What is periapical radiography designed to show?",
+    "options": [
+      "The crowns of the premolars and molars on one side",
+      "Both jaws and the TMJs on a single image",
+      "Individual teeth and the tissues around the apices",
+      "The whole skull viewed from the side"
+    ],
+    "answer": "C",
+    "explanation": "Periapical radiography is designed to show individual teeth and the tissues around the apices.",
+    "extraWrong": [
+      "Slices of the patient in three planes",
+      "The floor of the mouth and the tongue only",
+      "The maxillary sinuses and the nasal cavity only"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m11-021",
+    "module": "m11",
+    "type": "tf",
+    "question": "With the paralleling technique, positioning the holders in the lower third molar region can be difficult.",
+    "answer": true,
+    "explanation": "Difficulty positioning the holders in the lower third molar region is one of the disadvantages of the paralleling technique.",
+    "source": "generated"
+  },
+  {
+    "id": "m11-c01",
+    "module": "m11",
+    "type": "mcq",
+    "question": "What is the recommended focus-to-skin distance when taking paralleling technique radiographs?",
+    "options": [
+      "200nm",
+      "200mm",
+      "200cm",
+      "200m"
+    ],
+    "answer": "B",
+    "explanation": "A long focus-to-skin distance of 200 mm keeps divergence of the X-ray beam, and so magnification, to a minimum.",
+    "source": "Study card sc2 r4c1"
+  },
+  {
+    "id": "m11-c02",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of the following is an advantage of using a receptor holder/beam aiming device when taking a paralleling technique periapical radiograph?",
+    "options": [
+      "Allows short focus-to-skin distance of 100mm",
+      "Easy to 'cone off/cut' image",
+      "Correct position of tubehead can be easily determined",
+      "Geometrical distortion of image is increased"
+    ],
+    "answer": "C",
+    "explanation": "With the paralleling technique, the position of the X-ray tubehead is determined by the aiming device.",
+    "source": "Study card sc3 r3c1"
+  },
+  {
+    "id": "m11-c03",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of the following is an advantage of using the paralleling technique when taking a periapical?",
+    "options": [
+      "Angulation of patient's Frankfort plane is easily determined",
+      "Angulation of focal trough is easily determined",
+      "Angulation of bisecting angle easily determined",
+      "Angulation of the tubehead easily determined"
+    ],
+    "answer": "D",
+    "explanation": "Image receptor holder/beam aiming device helps tubehead line up to 90°.",
+    "source": "Study card sc3 r5c3"
+  },
+  {
+    "id": "m11-c04",
+    "module": "m11",
+    "type": "mcq",
+    "question": "How should the image receptor be aligned for a paralleling technique periapical radiograph?",
+    "options": [
+      "Perpendicular to the tooth",
+      "Parallel to the tooth",
+      "90° to the tooth",
+      "Parallel to xray beam"
+    ],
+    "answer": "B",
+    "explanation": "If image receptor is parallel to the tooth then it helps minimise geometric distortion.",
+    "source": "Study card sc5 r4c3"
+  },
+  {
+    "id": "m11-c05",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of the following is an advantage of using the paralleling technique for periapical radiographs?",
+    "options": [
+      "Crowns, roots & periodontal bone levels are not well represented",
+      "Images are geometrically accurate with minimal magnification",
+      "Relationship of tubehead & image receptor can be judged by eye",
+      "Images cannot easily be reproduced"
+    ],
+    "answer": "B",
+    "explanation": "The paralleling technique produces geometrically accurate images with little magnification, and they can be reproduced at different visits.",
+    "source": "Study card sc6 r4c2"
+  },
+  {
+    "id": "m11-c06",
+    "module": "m11",
+    "type": "mcq",
+    "question": "Which of the following is an ADVANTAGE of using the paralleling technique for periapical radiographs?",
+    "options": [
+      "Crowns, roots & periodontal bone levels are not well represented",
+      "Images are geometrically accurate with minimal magnification",
+      "Relationship of x-ray tubehead & image receptor can be judged by eye",
+      "Images cannot easily be reproduced at different visits"
+    ],
+    "answer": "B",
+    "explanation": "The paralleling technique produces geometrically accurate images with little magnification, and they can be reproduced at different visits.",
+    "source": "Study card sc6 r5c3"
   }
 ]

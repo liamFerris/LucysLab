@@ -11,7 +11,12 @@
       "The Data Protection Act"
     ],
     "answer": "B",
-    "explanation": "IRR17 is concerned with the safety of workers and the general public; IRMER is concerned with patients."
+    "explanation": "IRR17 is concerned with the safety of workers and the general public; IRMER is concerned with patients.",
+    "extraWrong": [
+      "The Medicines Act",
+      "The Mental Capacity Act",
+      "The Consumer Protection Act"
+    ]
   },
   {
     "id": "m23-002",
@@ -25,7 +30,12 @@
       "The Medicines Act"
     ],
     "answer": "A",
-    "explanation": "IRMER 2017 is concerned with the safety of patients and ensuring they benefit from X-ray investigations."
+    "explanation": "IRMER 2017 is concerned with the safety of patients and ensuring they benefit from X-ray investigations.",
+    "extraWrong": [
+      "The Data Protection Act",
+      "The Equality Act",
+      "The Consumer Protection Act"
+    ]
   },
   {
     "id": "m23-003",
@@ -47,7 +57,12 @@
       "The British Dental Association"
     ],
     "answer": "C",
-    "explanation": "Under IRR17 the employer must apply to the Health and Safety Executive to register to use ionising radiation."
+    "explanation": "Under IRR17 the employer must apply to the Health and Safety Executive to register to use ionising radiation.",
+    "extraWrong": [
+      "The local authority",
+      "NHS England",
+      "The Royal College of Radiologists"
+    ]
   },
   {
     "id": "m23-005",
@@ -61,7 +76,12 @@
       "Image quality and processing reports"
     ],
     "answer": "A",
-    "explanation": "The employer must obtain the 'critical examination' and 'acceptance test' reports when new equipment is installed."
+    "explanation": "The employer must obtain the 'critical examination' and 'acceptance test' reports when new equipment is installed.",
+    "extraWrong": [
+      "Reject analysis and repeat rate reports",
+      "Staff training and CPD reports",
+      "Patient consent and identity reports"
+    ]
   },
   {
     "id": "m23-006",
@@ -75,7 +95,12 @@
       "A Clinical Auditor"
     ],
     "answer": "B",
-    "explanation": "IRR17 requires the employer to appoint a Radiation Protection Supervisor and to consult with a Radiation Protection Adviser."
+    "explanation": "IRR17 requires the employer to appoint a Radiation Protection Supervisor and to consult with a Radiation Protection Adviser.",
+    "extraWrong": [
+      "A Referrer",
+      "A Practice Manager",
+      "A Dental Technician"
+    ]
   },
   {
     "id": "m23-007",
@@ -97,7 +122,12 @@
       "Switch off the mains supply"
     ],
     "answer": "C",
-    "explanation": "Employees must immediately report to their employer whenever they believe an incident or accident has led to an overexposure."
+    "explanation": "Employees must immediately report to their employer whenever they believe an incident or accident has led to an overexposure.",
+    "extraWrong": [
+      "Tell the patient to come back next week",
+      "Record it only in their own notebook",
+      "Wait until the next practice meeting"
+    ]
   },
   {
     "id": "m23-009",
@@ -119,7 +149,12 @@
       "The Medical Physics Expert"
     ],
     "answer": "D",
-    "explanation": "IRMER requires appointing or consulting with a Medical Physics Expert (MPE) for advice on dosimetry, equipment QA, dose, optimisation and radiation protection."
+    "explanation": "IRMER requires appointing or consulting with a Medical Physics Expert (MPE) for advice on dosimetry, equipment QA, dose, optimisation and radiation protection.",
+    "extraWrong": [
+      "The Practitioner",
+      "The practice receptionist",
+      "The Health and Safety Executive"
+    ]
   },
   {
     "id": "m23-011",
@@ -133,7 +168,12 @@
       "Producing Local Rules"
     ],
     "answer": "A",
-    "explanation": "Ensuring all medical exposures are justified is an IRMER requirement; the other options are IRR17 employer duties."
+    "explanation": "Ensuring all medical exposures are justified is an IRMER requirement; the other options are IRR17 employer duties.",
+    "extraWrong": [
+      "Appointing a Radiation Protection Supervisor",
+      "Obtaining the critical examination report",
+      "Carrying out a prior radiation risk assessment"
+    ]
   },
   {
     "id": "m23-012",
@@ -147,7 +187,12 @@
       "The person who services and maintains the X-ray equipment"
     ],
     "answer": "B",
-    "explanation": "An Operator is a person conducting any practical aspect of a medical exposure, including exposing the radiograph and processing the film."
+    "explanation": "An Operator is a person conducting any practical aspect of a medical exposure, including exposing the radiograph and processing the film.",
+    "extraWrong": [
+      "The person who appoints the Radiation Protection Supervisor",
+      "The Medical Physics Expert who advises on dose",
+      "The person who registers the practice with the HSE"
+    ]
   },
   {
     "id": "m23-013",
@@ -177,7 +222,12 @@
       "Immediate, written and repeated"
     ],
     "answer": "C",
-    "explanation": "Consent must be voluntary and informed, and the patient must have the capacity to understand the information provided."
+    "explanation": "Consent must be voluntary and informed, and the patient must have the capacity to understand the information provided.",
+    "extraWrong": [
+      "Typed, dated and filed with the radiograph",
+      "Verbal, private and recorded on video",
+      "Signed, stamped and sent to the HSE"
+    ]
   },
   {
     "id": "m23-016",
@@ -191,7 +241,12 @@
       "Confirm the patient's identity and which radiographs you will take"
     ],
     "answer": "D",
-    "explanation": "Good practice is to confirm the patient's identity, which radiographs you will take, that they are happy to proceed, and parental consent for children."
+    "explanation": "Good practice is to confirm the patient's identity, which radiographs you will take, that they are happy to proceed, and parental consent for children.",
+    "extraWrong": [
+      "Ask the patient to sign a waiver of liability",
+      "Use a longer exposure to avoid a retake",
+      "Check the patient's payment details first"
+    ]
   },
   {
     "id": "m23-017",
@@ -205,7 +260,12 @@
       "That you have parental consent"
     ],
     "answer": "D",
-    "explanation": "It is good practice to confirm that you have parental consent before X-raying children."
+    "explanation": "It is good practice to confirm that you have parental consent before X-raying children.",
+    "extraWrong": [
+      "That the child can hold the receptor without help",
+      "That the child's school has been informed",
+      "That the child has fasted beforehand"
+    ]
   },
   {
     "id": "m23-018",
@@ -214,5 +274,194 @@
     "question": "If the Operator was present in the surgery when the patient gave consent, they can proceed with the radiograph.",
     "answer": true,
     "explanation": "If you were present when the patient gave consent, you can proceed; if not, you should carry out the good-practice checks."
+  },
+  {
+    "id": "m23-019",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRR17, which adviser must the employer consult?",
+    "options": [
+      "A General Dental Council inspector",
+      "A Radiation Protection Adviser",
+      "The patient's GP",
+      "A dental technician"
+    ],
+    "answer": "B",
+    "explanation": "Under IRR17 the employer must consult with a Radiation Protection Adviser (RPA) and appoint a Radiation Protection Supervisor (RPS).",
+    "extraWrong": [
+      "A local councillor",
+      "The practice accountant",
+      "An orthodontist"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m23-020",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Under IRMER 2017, what must the employer provide for all medical exposures, and ensure are complied with?",
+    "options": [
+      "Written procedures",
+      "Local Rules",
+      "Controlled area signs",
+      "Critical examination reports"
+    ],
+    "answer": "A",
+    "explanation": "IRMER requires the employer to provide 'written procedures' for all medical exposures and ensure compliance. Local Rules and the controlled area are IRR17 requirements.",
+    "extraWrong": [
+      "Patient information leaflets",
+      "Personal dosimeters",
+      "Prior risk assessments"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m23-021",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Operators involved only in processing or QA should have a Certificate in Dental Radiography, or what instead?",
+    "options": [
+      "A degree in medical physics",
+      "At least ten years' experience",
+      "Registration with the HSE",
+      "Adequate and documented training specific to their tasks"
+    ],
+    "answer": "D",
+    "explanation": "Operators involved in processing or QA should have a Certificate in Dental Radiography, or have received adequate and documented training specific to the tasks they undertake.",
+    "extraWrong": [
+      "A signed letter from the patient",
+      "Supervision by the patient's GP",
+      "Membership of the British Dental Association"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m23-022",
+    "module": "m23",
+    "type": "tf",
+    "question": "Under IRR17, employees should not knowingly expose themselves or any other person to X-rays to an extent greater than necessary for the purposes of their work.",
+    "answer": true,
+    "explanation": "This is one of the duties of employees under IRR17, along with exercising reasonable care and reporting suspected overexposures to the employer.",
+    "source": "generated"
+  },
+  {
+    "id": "m23-c01",
+    "module": "m23",
+    "type": "mcq",
+    "question": "What IR(ME)R 'named person' must justify each radiographic exposure?",
+    "options": [
+      "Operator",
+      "RPS",
+      "Practitioner",
+      "Medical physics expert"
+    ],
+    "answer": "C",
+    "explanation": "Practitioner gathers all clinical info to make a decision. Responsible for justifying every exposure.",
+    "source": "Study card sc3 r4c2"
+  },
+  {
+    "id": "m23-c02",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which of following should NOT be contained in the practice's 'written procedures'?",
+    "options": [
+      "Details required for identification of patients",
+      "Details required for identification of pregnant patients",
+      "Details required for identification of carers & comforters",
+      "Details required for identification of cleaning staff"
+    ],
+    "answer": "D",
+    "explanation": "IRMER written procedures cover medical exposures (identifying patients, pregnant patients and carers & comforters), not cleaning staff.",
+    "source": "Study card sc4 r2c2"
+  },
+  {
+    "id": "m23-c03",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which piece of legislation is principally concerned with safety of patients?",
+    "options": [
+      "IRR17",
+      "IR(ME)R17",
+      "HTM 01-05",
+      "GDPR"
+    ],
+    "answer": "B",
+    "explanation": "IR(ME)R17 = safety of patients. IRR17 = protects workers & public.",
+    "source": "Study card sc5 r1c2"
+  },
+  {
+    "id": "m23-c04",
+    "module": "m23",
+    "type": "mcq",
+    "question": "How many hours of CPD should IRMER operators complete within each five year cycle?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "D",
+    "explanation": "Guidance notes & GDC.",
+    "source": "Study card sc5 r4c1"
+  },
+  {
+    "id": "m23-c05",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which piece of legislation is principally concerned with safety of workers and general public?",
+    "options": [
+      "IRR17",
+      "IR(ME)R17",
+      "HTM 01-05",
+      "GDPR"
+    ],
+    "answer": "A",
+    "explanation": "IRR17 = protects workers & public. IR(ME)R17 = concerned with safety of patients.",
+    "source": "Study card sc5 r4c2"
+  },
+  {
+    "id": "m23-c06",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which IR(ME)R 'named person' must justify each radiographic exposure?",
+    "options": [
+      "Operator",
+      "RPS",
+      "Practitioner",
+      "Medical Physics Expert"
+    ],
+    "answer": "C",
+    "explanation": "Practitioner/dentist will justify each & every exposure, according to evidence & clinical judgement.",
+    "source": "Study card sc6 r2c1"
+  },
+  {
+    "id": "m23-c07",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which of the following is NOT a duty of employees when it comes to radiation safety?",
+    "options": [
+      "Never expose yourself or anyone in the practice to more radiation than necessary",
+      "Carry out risk assessment prior to exposures",
+      "Exercise reasonable care",
+      "Report accidents to employer"
+    ],
+    "answer": "B",
+    "explanation": "B is your employer's job. Everything else listed is yours.",
+    "source": "Study card sc6 r5c1"
+  },
+  {
+    "id": "m23-c08",
+    "module": "m23",
+    "type": "mcq",
+    "question": "Which of the following must be confirmed before taking a dental radiograph?",
+    "options": [
+      "Patients identity",
+      "Operators identity",
+      "Referrers identity",
+      "Practitioners identity"
+    ],
+    "answer": "A",
+    "explanation": "Under IR(ME)R the patient's identity must be confirmed before any exposure, so the right person gets the right radiograph.",
+    "source": "Study card sc6 r5c2"
   }
 ]

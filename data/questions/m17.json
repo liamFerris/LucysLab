@@ -11,7 +11,12 @@
       "Rating R"
     ],
     "answer": "A",
-    "explanation": "N stands for 'diagnostically not acceptable'; A is 'diagnostically acceptable'."
+    "explanation": "N stands for 'diagnostically not acceptable'; A is 'diagnostically acceptable'.",
+    "extraWrong": [
+      "Rating B",
+      "Rating C",
+      "Rating X"
+    ]
   },
   {
     "id": "m17-002",
@@ -33,7 +38,12 @@
       "The cervical spine should be clearly shown"
     ],
     "answer": "B",
-    "explanation": "Equal vertical and horizontal magnification is a panoramic quality criterion; the hard palate should be above the apices and spine ghosting minimal."
+    "explanation": "Equal vertical and horizontal magnification is a panoramic quality criterion; the hard palate should be above the apices and spine ghosting minimal.",
+    "extraWrong": [
+      "Only the anterior teeth need be shown",
+      "The hard palate should overlie the upper roots",
+      "Left and right molars should differ in width"
+    ]
   },
   {
     "id": "m17-004",
@@ -55,7 +65,12 @@
       "The lower border of the mandible"
     ],
     "answer": "C",
-    "explanation": "An air shadow above the tongue produces a black band over the roots of the upper teeth."
+    "explanation": "An air shadow above the tongue produces a black band over the roots of the upper teeth.",
+    "extraWrong": [
+      "The cervical spine",
+      "The roots of the lower teeth",
+      "The contralateral angle of the mandible"
+    ]
   },
   {
     "id": "m17-006",
@@ -69,7 +84,12 @@
       "Press the tongue against the roof of the mouth"
     ],
     "answer": "D",
-    "explanation": "If the tongue is not pressed against the roof of the mouth throughout the exposure, a dark air shadow overlies the image."
+    "explanation": "If the tongue is not pressed against the roof of the mouth throughout the exposure, a dark air shadow overlies the image.",
+    "extraWrong": [
+      "Keep the tongue resting on the floor of the mouth",
+      "Breathe in deeply during the exposure",
+      "Open the mouth wide"
+    ]
   },
   {
     "id": "m17-007",
@@ -91,7 +111,12 @@
       "Place the patient well forward in the machine to reduce blur"
     ],
     "answer": "A",
-    "explanation": "The three rules are: remove jewellery, dentures, appliances, spectacles and hair ornaments; explain the procedure and equipment; and don't use a lead apron."
+    "explanation": "The three rules are: remove jewellery, dentures, appliances, spectacles and hair ornaments; explain the procedure and equipment; and don't use a lead apron.",
+    "extraWrong": [
+      "Keep dentures in place throughout",
+      "Leave spectacles on for comfort",
+      "Ask the patient to move with the machine"
+    ]
   },
   {
     "id": "m17-009",
@@ -105,7 +130,12 @@
       "Head tipped up or down from the Frankfort plane"
     ],
     "answer": "B",
-    "explanation": "This is an antero-posterior error, corrected by having the patient bite edge-to-edge on the bite peg."
+    "explanation": "This is an antero-posterior error, corrected by having the patient bite edge-to-edge on the bite peg.",
+    "extraWrong": [
+      "Lead apron left on the patient",
+      "Earrings not removed",
+      "Film exposed twice"
+    ]
   },
   {
     "id": "m17-010",
@@ -119,7 +149,12 @@
       "The nasion positioning marker"
     ],
     "answer": "C",
-    "explanation": "Vertical plane errors are corrected by using the horizontal light beam marker to make the Frankfort plane horizontal."
+    "explanation": "Vertical plane errors are corrected by using the horizontal light beam marker to make the Frankfort plane horizontal.",
+    "extraWrong": [
+      "The canine positioning light",
+      "The bite-peg indicator",
+      "The cervical spine marker"
+    ]
   },
   {
     "id": "m17-011",
@@ -133,7 +168,12 @@
       "The head being tipped up or down"
     ],
     "answer": "D",
-    "explanation": "Vertical plane errors, where the head is tipped up or down, distort the occlusal plane into a 'smiley' or 'grumpy' face."
+    "explanation": "Vertical plane errors, where the head is tipped up or down, distort the occlusal plane into a 'smiley' or 'grumpy' face.",
+    "extraWrong": [
+      "The tongue not pressed to the palate",
+      "The patient too far forward",
+      "A lead apron being used"
+    ]
   },
   {
     "id": "m17-012",
@@ -155,7 +195,12 @@
       "The head is rotated towards one side of the machine"
     ],
     "answer": "A",
-    "explanation": "Cervical spine ghosting occurs if the neck is extended or the patient is too far forwards; ensure the spine is straight."
+    "explanation": "Cervical spine ghosting occurs if the neck is extended or the patient is too far forwards; ensure the spine is straight.",
+    "extraWrong": [
+      "The head is tipped up or down",
+      "The film was exposed twice",
+      "Static built up on the film"
+    ]
   },
   {
     "id": "m17-014",
@@ -177,7 +222,12 @@
       "Static electricity"
     ],
     "answer": "B",
-    "explanation": "A badly distorted digital panoramic image indicates a software malfunction."
+    "explanation": "A badly distorted digital panoramic image indicates a software malfunction.",
+    "extraWrong": [
+      "Fogging",
+      "Dirty intensifying screen",
+      "Double exposure"
+    ]
   },
   {
     "id": "m17-016",
@@ -191,7 +241,12 @@
       "Static built up on the film"
     ],
     "answer": "C",
-    "explanation": "Two images on one film is a double exposure."
+    "explanation": "Two images on one film is a double exposure.",
+    "extraWrong": [
+      "The film was fogged",
+      "The film was underexposed",
+      "The head was rotated"
+    ]
   },
   {
     "id": "m17-017",
@@ -213,6 +268,136 @@
       "Static"
     ],
     "answer": "D",
-    "explanation": "Lightning marks on a film image are caused by static."
+    "explanation": "Lightning marks on a film image are caused by static.",
+    "extraWrong": [
+      "Overexposure",
+      "Dirty intensifying screen",
+      "Software malfunction"
+    ]
+  },
+  {
+    "id": "m17-019",
+    "module": "m17",
+    "type": "mcq",
+    "question": "A film-based panoramic image is marked. What are the likely causes?",
+    "options": [
+      "Static or double exposure",
+      "Underexposure or underdevelopment",
+      "Processing error or dirty intensifying screen",
+      "Software malfunction or overexposure"
+    ],
+    "answer": "C",
+    "explanation": "A marked film panoramic image is caused by a processing error or a dirty intensifying screen; static gives lightning marks.",
+    "extraWrong": [
+      "Fogging or overdevelopment",
+      "Head tipped up or down",
+      "Neck extended or patient too far forward"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m17-020",
+    "module": "m17",
+    "type": "mcq",
+    "question": "A film-based panoramic image is too dark. Which of these is a possible cause?",
+    "options": [
+      "Underdevelopment",
+      "Underexposure",
+      "Software malfunction",
+      "Fogging"
+    ],
+    "answer": "D",
+    "explanation": "A film image that is too dark may be overexposed, overdeveloped or fogged; too pale means underexposed or underdeveloped.",
+    "extraWrong": [
+      "Static",
+      "Head tipped down",
+      "Head rotated to one side"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m17-021",
+    "module": "m17",
+    "type": "mcq",
+    "question": "What happens if a patient's jewellery or dentures are not removed before a panoramic radiograph?",
+    "options": [
+      "Lightning marks appear across the image",
+      "Ghost shadows obscure the image",
+      "The occlusal plane looks like a 'smiley' face",
+      "Two images appear on one film"
+    ],
+    "answer": "B",
+    "explanation": "Failure to remove jewellery or dentures results in ghost shadows obscuring the image.",
+    "extraWrong": [
+      "The image becomes badly distorted by software",
+      "Only the anterior teeth are blurred",
+      "The image is too pale overall"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m17-022",
+    "module": "m17",
+    "type": "tf",
+    "question": "If the patient's head is rotated to one side during a panoramic exposure, the image will be blurred and distorted in size.",
+    "answer": true,
+    "explanation": "Horizontal plane errors (head rotation) produce a blurred image distorted in size; use the vertical light beam marker to correct the head position.",
+    "source": "generated"
+  },
+  {
+    "id": "m17-c01",
+    "module": "m17",
+    "type": "mcq",
+    "question": "If the left hand side of the mandible is smaller than it should be & right molars are magnified on a panoramic radiograph, what could be the cause?",
+    "options": [
+      "Patient's chin raised",
+      "Patient rotated to left",
+      "Patient rotated to right",
+      "Movement in vertical plane"
+    ],
+    "answer": "B",
+    "explanation": "Right side are magnified which means too far away from image receptor.",
+    "source": "Study card sc2 r1c3"
+  },
+  {
+    "id": "m17-c02",
+    "module": "m17",
+    "type": "mcq",
+    "question": "Which best describes the patient's Frankfort plane?",
+    "options": [
+      "Vertical",
+      "Horizontal"
+    ],
+    "answer": "B",
+    "explanation": "For panoramic positioning, the Frankfort plane should be horizontal so the head is not tipped up or down.",
+    "source": "Study card sc3 r3c2"
+  },
+  {
+    "id": "m17-c03",
+    "module": "m17",
+    "type": "mcq",
+    "question": "Which best describes the patient's sagittal plane?",
+    "options": [
+      "Vertical",
+      "Horizontal"
+    ],
+    "answer": "A",
+    "explanation": "For panoramic positioning, the mid-sagittal plane should be vertical so the head is not rotated.",
+    "source": "Study card sc3 r3c3"
+  },
+  {
+    "id": "m17-c04",
+    "module": "m17",
+    "type": "mcq",
+    "question": "If the lower teeth appear blurred & larger on a panoramic radiograph, what would be the cause?",
+    "options": [
+      "Patient too close to image receptor",
+      "Patient too far away from image receptor",
+      "Patient's chin raised",
+      "Patient rotated towards the left"
+    ],
+    "answer": "B",
+    "explanation": "Head outside horseshoe focal trough & far back enough to result in magnification of front teeth.",
+    "source": "Study card sc4 r4c3"
   }
 ]

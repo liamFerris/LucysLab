@@ -11,7 +11,12 @@
       "To check the monitor using a test pattern"
     ],
     "answer": "A",
-    "explanation": "The objectives of interpretation are to identify the presence or absence of disease, to give information on its nature and extent, and to enable a differential diagnosis."
+    "explanation": "The objectives of interpretation are to identify the presence or absence of disease, to give information on its nature and extent, and to enable a differential diagnosis.",
+    "extraWrong": [
+      "To measure the patient's radiation dose",
+      "To decide on the patient's treatment fee",
+      "To confirm the patient's consent"
+    ]
   },
   {
     "id": "m24-002",
@@ -25,7 +30,12 @@
       "An extra-bright spotlight"
     ],
     "answer": "B",
-    "explanation": "Optimum digital viewing needs a clean, bright, good-quality monitor that has been checked using a test pattern, in a quiet, darkened room."
+    "explanation": "Optimum digital viewing needs a clean, bright, good-quality monitor that has been checked using a test pattern, in a quiet, darkened room.",
+    "extraWrong": [
+      "A coin test",
+      "A personal dosimeter",
+      "A phosphor plate"
+    ]
   },
   {
     "id": "m24-003",
@@ -39,7 +49,12 @@
       "An extra-bright spotlight"
     ],
     "answer": "C",
-    "explanation": "For film viewing, an SDI X-ray viewer or black card blocks the light surrounding the film."
+    "explanation": "For film viewing, an SDI X-ray viewer or black card blocks the light surrounding the film.",
+    "extraWrong": [
+      "A thyroid collar",
+      "A film holder",
+      "A cephalostat"
+    ]
   },
   {
     "id": "m24-004",
@@ -53,7 +68,12 @@
       "A triangular radiolucency pointing towards the dentine"
     ],
     "answer": "D",
-    "explanation": "Proximal caries confined to the enamel shows as a triangular radiolucency, with the point of the triangle towards the dentine."
+    "explanation": "Proximal caries confined to the enamel shows as a triangular radiolucency, with the point of the triangle towards the dentine.",
+    "extraWrong": [
+      "A triangular radiolucency spreading along the enamel-dentine junction",
+      "A radiolucency underneath a restoration",
+      "A radiopaque line at the root apex"
+    ]
   },
   {
     "id": "m24-005",
@@ -67,7 +87,12 @@
       "Radiolucent semicircles at the cervical margin"
     ],
     "answer": "A",
-    "explanation": "With occlusal caries you usually cannot see the caries in the enamel, but there is a semi-circular radiolucency in the dentine underneath the enamel."
+    "explanation": "With occlusal caries you usually cannot see the caries in the enamel, but there is a semi-circular radiolucency in the dentine underneath the enamel.",
+    "extraWrong": [
+      "A radiolucency spreading only along the enamel-dentine junction",
+      "Radiolucencies underneath restorations",
+      "A widening of the periodontal ligament space"
+    ]
   },
   {
     "id": "m24-006",
@@ -81,7 +106,12 @@
       "Because it starts at the cervical margin"
     ],
     "answer": "B",
-    "explanation": "Buccal/lingual surface caries appears as radiolucent oval-shaped lesions because you are looking at the lesion end-on."
+    "explanation": "Buccal/lingual surface caries appears as radiolucent oval-shaped lesions because you are looking at the lesion end-on.",
+    "extraWrong": [
+      "Because it lies in the root furcation",
+      "Because it occurs only on root surfaces",
+      "Because the lesion is filled with fluid"
+    ]
   },
   {
     "id": "m24-007",
@@ -95,7 +125,12 @@
       "As radiolucencies underneath restorations"
     ],
     "answer": "C",
-    "explanation": "Root/cervical caries usually appears as radiolucent semicircles at the cervical margin."
+    "explanation": "Root/cervical caries usually appears as radiolucent semicircles at the cervical margin.",
+    "extraWrong": [
+      "As a widening of the periodontal ligament space",
+      "As a semi-circular radiolucency under the occlusal enamel",
+      "As a radiolucent area in the furcation"
+    ]
   },
   {
     "id": "m24-008",
@@ -109,7 +144,12 @@
       "The lamina dura of the tooth socket"
     ],
     "answer": "D",
-    "explanation": "Normally the periapical tissues show a black line (the periodontal ligament space) and a white line (the lamina dura of the tooth socket)."
+    "explanation": "Normally the periapical tissues show a black line (the periodontal ligament space) and a white line (the lamina dura of the tooth socket).",
+    "extraWrong": [
+      "The enamel cap of the crown",
+      "The pulp chamber",
+      "The root canal"
+    ]
   },
   {
     "id": "m24-009",
@@ -123,7 +163,12 @@
       "A dense radiopaque line at the apex"
     ],
     "answer": "A",
-    "explanation": "Periapical disease normally appears as a widening of the black line as the periodontal ligament space fills with fluid; the lamina dura is lost only if inflammation continues."
+    "explanation": "Periapical disease normally appears as a widening of the black line as the periodontal ligament space fills with fluid; the lamina dura is lost only if inflammation continues.",
+    "extraWrong": [
+      "A triangular radiolucency in the enamel",
+      "Narrowing of the periodontal ligament space",
+      "A radiolucency under a restoration"
+    ]
   },
   {
     "id": "m24-010",
@@ -137,7 +182,12 @@
       "8–10 mm"
     ],
     "answer": "B",
-    "explanation": "Normally the distance from the cemento-enamel junction to the alveolar crest bone should be 2–3 mm."
+    "explanation": "Normally the distance from the cemento-enamel junction to the alveolar crest bone should be 2–3 mm.",
+    "extraWrong": [
+      "12–15 mm",
+      "15–20 mm",
+      "20–25 mm"
+    ]
   },
   {
     "id": "m24-011",
@@ -151,7 +201,12 @@
       "A widened lamina dura"
     ],
     "answer": "C",
-    "explanation": "A large apical radiolucency in chronic periapical disease may be a periapical granuloma, a radicular dental cyst or, rarely, a discharging sinus."
+    "explanation": "A large apical radiolucency in chronic periapical disease may be a periapical granuloma, a radicular dental cyst or, rarely, a discharging sinus.",
+    "extraWrong": [
+      "Root caries at the cervical margin",
+      "A triangular radiolucency in the enamel",
+      "Bone loss in the root furcation"
+    ]
   },
   {
     "id": "m24-012",
@@ -165,7 +220,12 @@
       "As radiolucencies underneath restorations"
     ],
     "answer": "D",
-    "explanation": "Secondary caries associated with a restoration or sealant (CARS) appears as radiolucencies underneath restorations."
+    "explanation": "Secondary caries associated with a restoration or sealant (CARS) appears as radiolucencies underneath restorations.",
+    "extraWrong": [
+      "As a widening of the periodontal ligament space",
+      "As a radiolucent oval-shaped lesion",
+      "As a radiopaque line around the root apex"
+    ]
   },
   {
     "id": "m24-013",
@@ -206,5 +266,119 @@
     "question": "True or false: periodontal disease is staged from Stage I (very severe) to Stage IV (mild) using the percentage of interproximal bone loss.",
     "answer": false,
     "explanation": "False. The percentage of interproximal bone loss is used to stage the disease from Stage I (mild) to Stage IV (very severe)."
+  },
+  {
+    "id": "m24-018",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does proximal caries that has reached the enamel-dentine junction (EDJ) appear?",
+    "options": [
+      "A radiolucent oval-shaped lesion",
+      "The triangular enamel radiolucency spreads along the EDJ",
+      "Radiolucent semicircles at the cervical margin",
+      "A radiolucency underneath a restoration"
+    ],
+    "answer": "B",
+    "explanation": "When proximal caries reaches the EDJ, the triangular radiolucency in the enamel spreads along the enamel-dentine junction.",
+    "extraWrong": [
+      "A widening of the periodontal ligament space",
+      "A radiopaque mass at the root apex",
+      "A radiolucent area in the furcation"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m24-019",
+    "module": "m24",
+    "type": "mcq",
+    "question": "Proximal caries involving dentine shows a triangular radiolucency in the enamel plus what?",
+    "options": [
+      "A radiopaque line along the enamel-dentine junction",
+      "A widened periodontal ligament space",
+      "Loss of the lamina dura",
+      "A semi-circular radiolucency projecting into the dentine"
+    ],
+    "answer": "D",
+    "explanation": "As well as the triangular radiolucency in the enamel, there is a semi-circular radiolucency projecting into the dentine.",
+    "extraWrong": [
+      "A radiolucent area in the furcation",
+      "A radiolucency at the cervical margin only",
+      "A dense radiopaque line at the apex"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m24-020",
+    "module": "m24",
+    "type": "mcq",
+    "question": "If periapical inflammation continues, what happens to the white line around the apex?",
+    "options": [
+      "It disappears as the lamina dura is destroyed",
+      "It moves towards the crown of the tooth",
+      "It is unaffected by the inflammation",
+      "It splits into two parallel lines"
+    ],
+    "answer": "A",
+    "explanation": "Periapical disease first widens the black line (periodontal ligament space); if inflammation continues, the white line disappears as the lamina dura is destroyed.",
+    "extraWrong": [
+      "It spreads along the enamel-dentine junction",
+      "It changes into a triangular shadow",
+      "It becomes wavy but stays intact"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m24-021",
+    "module": "m24",
+    "type": "tf",
+    "question": "Caries diagnosis requires a careful clinical examination before radiographs are taken.",
+    "answer": true,
+    "explanation": "Caries diagnosis requires a careful clinical examination first; radiographs are only one method of detecting carious lesions.",
+    "source": "generated"
+  },
+  {
+    "id": "m24-c01",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does periapical infection initially present on a radiograph?",
+    "options": [
+      "Narrowing of the white line of the lamina dura",
+      "Widening of the white line of the lamina dura",
+      "Narrowing of the dark line of the periodontal ligament space",
+      "Widening of the dark line of the periodontal ligament space"
+    ],
+    "answer": "D",
+    "explanation": "Keyword = widening.",
+    "source": "Study card sc1 r5c3"
+  },
+  {
+    "id": "m24-c02",
+    "module": "m24",
+    "type": "mcq",
+    "question": "How does periapical infection initially present on a radiograph?",
+    "options": [
+      "Narrowing of the white line of the lamina dura",
+      "Widening of the white line of the lamina dura",
+      "Widening of the dark line of the periodontal ligament",
+      "Narrowing of the dark line of the periodontal ligament"
+    ],
+    "answer": "C",
+    "explanation": "Periapical disease normally first appears as a widening of the black line, as the periodontal ligament space fills with fluid.",
+    "source": "Study card sc2 r3c3"
+  },
+  {
+    "id": "m24-c03",
+    "module": "m24",
+    "type": "mcq",
+    "question": "Which is required for making a diagnosis of caries?",
+    "options": [
+      "Panoramic radiograph",
+      "Full set of bitewings",
+      "Periapical radiograph of affected tooth/teeth",
+      "Full clinical examination which may include a radiograph"
+    ],
+    "answer": "D",
+    "explanation": "Radiographs are only one part of the examination. Need clinical justification.",
+    "source": "Study card sc4 r1c2"
   }
 ]

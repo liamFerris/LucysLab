@@ -11,7 +11,12 @@
       "Tungsten filament (cathode)"
     ],
     "answer": "C",
-    "explanation": "The step-up transformer converts mains voltage (240 V) to the high voltage (about 70 kV) required to produce X-rays."
+    "explanation": "The step-up transformer converts mains voltage (240 V) to the high voltage (about 70 kV) required to produce X-rays.",
+    "extraWrong": [
+      "Aluminium filter",
+      "Copper block",
+      "Tungsten target (anode)"
+    ]
   },
   {
     "id": "m03-002",
@@ -25,7 +30,12 @@
       "To accelerate electrons towards the target"
     ],
     "answer": "A",
-    "explanation": "The oil helps remove the heat produced during an exposure, together with the copper block."
+    "explanation": "The oil helps remove the heat produced during an exposure, together with the copper block.",
+    "extraWrong": [
+      "To slow the electrons before they hit the target",
+      "To provide the electrons for the X-ray beam",
+      "To convert mains voltage to a high voltage"
+    ]
   },
   {
     "id": "m03-003",
@@ -39,7 +49,12 @@
       "Electrons from the copper block strike the spacer cone"
     ],
     "answer": "B",
-    "explanation": "X-rays are created when high-speed electrons, accelerated from the filament, collide with the tungsten target."
+    "explanation": "X-rays are created when high-speed electrons, accelerated from the filament, collide with the tungsten target.",
+    "extraWrong": [
+      "The step-up transformer releases photons from the oil",
+      "Electrons pass through the aluminium filter into the oil",
+      "The spacer cone focuses visible light onto the target"
+    ]
   },
   {
     "id": "m03-004",
@@ -53,7 +68,12 @@
       "The length of the spacer cone used"
     ],
     "answer": "C",
-    "explanation": "Photon energy depends on how fast the electrons hit the target, which is determined by the size of the high voltage push, or kV."
+    "explanation": "Photon energy depends on how fast the electrons hit the target, which is determined by the size of the high voltage push, or kV.",
+    "extraWrong": [
+      "The diameter of the collimator",
+      "The amount of oil in the tubehead",
+      "The focus-to-skin distance used"
+    ]
   },
   {
     "id": "m03-005",
@@ -67,7 +87,12 @@
       "99%"
     ],
     "answer": "A",
-    "explanation": "Only 1% of the electrons' energy becomes X-rays; the other 99% is converted to heat."
+    "explanation": "Only 1% of the electrons' energy becomes X-rays; the other 99% is converted to heat.",
+    "extraWrong": [
+      "25%",
+      "75%",
+      "90%"
+    ]
   },
   {
     "id": "m03-006",
@@ -81,7 +106,12 @@
       "They tend to be absorbed by the soft tissues"
     ],
     "answer": "D",
-    "explanation": "Low-energy photons tend to be absorbed by the patient's soft tissues and can therefore cause damage."
+    "explanation": "Low-energy photons tend to be absorbed by the patient's soft tissues and can therefore cause damage.",
+    "extraWrong": [
+      "They are the least harmful photons to the patient",
+      "They are increased by adding an aluminium filter",
+      "They mainly produce the image on the film"
+    ]
   },
   {
     "id": "m03-007",
@@ -95,7 +125,12 @@
       "By the step-up transformer"
     ],
     "answer": "B",
-    "explanation": "Passing the beam through an aluminium filter removes the most harmful, lowest-energy photons."
+    "explanation": "Passing the beam through an aluminium filter removes the most harmful, lowest-energy photons.",
+    "extraWrong": [
+      "By the tungsten target",
+      "By the spacer cone",
+      "By the glass vacuum tube"
+    ]
   },
   {
     "id": "m03-008",
@@ -109,7 +144,12 @@
       "It reduces film blackening only"
     ],
     "answer": "C",
-    "explanation": "Increasing kV decreases the contrast between light and dark areas: 'kV kills contrast'."
+    "explanation": "Increasing kV decreases the contrast between light and dark areas: 'kV kills contrast'.",
+    "extraWrong": [
+      "It doubles the contrast",
+      "It only changes image sharpness",
+      "It only affects the image size"
+    ]
   },
   {
     "id": "m03-009",
@@ -123,7 +163,12 @@
       "Spacer cone length"
     ],
     "answer": "A",
-    "explanation": "mA (milliamperage) and time control the quantity of photons; kV controls their energy."
+    "explanation": "mA (milliamperage) and time control the quantity of photons; kV controls their energy.",
+    "extraWrong": [
+      "Oil in the tubehead",
+      "Collimator diameter",
+      "kV and filter thickness"
+    ]
   },
   {
     "id": "m03-010",
@@ -137,7 +182,12 @@
       "80–90 kV"
     ],
     "answer": "B",
-    "explanation": "The recommended operating range for dental X-ray sets is 60–70 kV."
+    "explanation": "The recommended operating range for dental X-ray sets is 60–70 kV.",
+    "extraWrong": [
+      "30–40 kV",
+      "40–50 kV",
+      "90–100 kV"
+    ]
   },
   {
     "id": "m03-011",
@@ -151,7 +201,12 @@
       "1.5 mm"
     ],
     "answer": "D",
-    "explanation": "Sets below 70 kV need a 1.5 mm aluminium filter; sets above 70 kV need 2.5 mm."
+    "explanation": "Sets below 70 kV need a 1.5 mm aluminium filter; sets above 70 kV need 2.5 mm.",
+    "extraWrong": [
+      "3.5 mm",
+      "5.0 mm",
+      "0.1 mm"
+    ]
   },
   {
     "id": "m03-012",
@@ -165,7 +220,12 @@
       "60 mm"
     ],
     "answer": "D",
-    "explanation": "Circular collimators should have a maximum diameter of 60 mm."
+    "explanation": "Circular collimators should have a maximum diameter of 60 mm.",
+    "extraWrong": [
+      "80 mm",
+      "90 mm",
+      "100 mm"
+    ]
   },
   {
     "id": "m03-013",
@@ -214,5 +274,119 @@
     "question": "You may need to select 60 kV rather than 70 kV to ensure adequate contrast.",
     "answer": true,
     "explanation": "Because kV kills contrast, a lower setting of 60 kV may be needed to ensure adequate contrast."
+  },
+  {
+    "id": "m03-019",
+    "module": "m03",
+    "type": "mcq",
+    "question": "In a dental X-ray tube, what is the tungsten wire filament also called?",
+    "options": [
+      "The cathode",
+      "The anode",
+      "The target",
+      "The collimator"
+    ],
+    "answer": "A",
+    "explanation": "The tungsten wire filament is the cathode; on the other side of the tube is the tungsten target (anode) set into a block of copper.",
+    "extraWrong": [
+      "The spacer cone",
+      "The filter",
+      "The step-up transformer"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m03-020",
+    "module": "m03",
+    "type": "mcq",
+    "question": "X-ray photons are produced with a range of energies. In which two spectra are they produced?",
+    "options": [
+      "Visible and ultraviolet",
+      "Primary and secondary",
+      "Continuous and characteristic",
+      "Direct and indirect"
+    ],
+    "answer": "C",
+    "explanation": "Because high-speed electrons interact with the tungsten atoms in a range of ways, X-ray photons are produced in both a continuous and a characteristic spectrum.",
+    "extraWrong": [
+      "Ionising and non-ionising",
+      "Constant and alternating",
+      "Natural and man-made"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m03-021",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Where in a dental X-ray set are the X-rays actually produced?",
+    "options": [
+      "The step-up transformer",
+      "The oil-filled spacer cone",
+      "The aluminium filter",
+      "A small glass vacuum tube"
+    ],
+    "answer": "D",
+    "explanation": "X-rays are produced in the X-ray tube, a small glass vacuum tube containing the tungsten filament (cathode) and tungsten target (anode).",
+    "extraWrong": [
+      "The copper block",
+      "The collimator",
+      "The timer switch"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m03-022",
+    "module": "m03",
+    "type": "tf",
+    "question": "X-ray sets with a high kV rating, such as 70 kV, produce more high-energy, diagnostically useful X-ray photons.",
+    "answer": true,
+    "explanation": "High-energy photons pass through the soft tissues to hit the film, and a high kV rating such as 70 kV produces more of them.",
+    "source": "generated"
+  },
+  {
+    "id": "m03-c01",
+    "module": "m03",
+    "type": "mcq",
+    "question": "Inside a dental x-ray tube, what is the anode made of?",
+    "options": [
+      "Copper target set into a tungsten block",
+      "Tungsten coil set into a copper block",
+      "Copper coil set into a tungsten block",
+      "Tungsten target set into a copper block"
+    ],
+    "answer": "D",
+    "explanation": "Anode is the target, made of tungsten. Copper keeps everything cool.",
+    "source": "Study card sc1 r4c1"
+  },
+  {
+    "id": "m03-c02",
+    "module": "m03",
+    "type": "mcq",
+    "question": "When an incoming electron passes close to the nucleus of a tungsten atom it is slowed down dramatically & deflected, losing lots of energy in the process. What is the energy converted to?",
+    "options": [
+      "Electrons",
+      "Heat",
+      "Protons",
+      "X-rays"
+    ],
+    "answer": "D",
+    "explanation": "Energy lost by slowing down of the incoming electron is converted to x-rays.",
+    "source": "Study card sc2 r2c1"
+  },
+  {
+    "id": "m03-c03",
+    "module": "m03",
+    "type": "mcq",
+    "question": "What setting on the control panel determines the energy range of the x-rays produced?",
+    "options": [
+      "kV",
+      "mA",
+      "P",
+      "s (Time)"
+    ],
+    "answer": "A",
+    "explanation": "The kV determines the energy of the X-ray photons, and so the penetrating power (quality) of the beam.",
+    "source": "Study card sc4 r3c3"
   }
 ]

@@ -11,7 +11,12 @@
       "A water molecule"
     ],
     "answer": "B",
-    "explanation": "The photoelectric effect occurs when an X-ray photon collides with an inner-shell electron in the patient's tissue."
+    "explanation": "The photoelectric effect occurs when an X-ray photon collides with an inner-shell electron in the patient's tissue.",
+    "extraWrong": [
+      "A positive ion",
+      "A hydrogen peroxide molecule",
+      "The atomic nucleus"
+    ]
   },
   {
     "id": "m04-002",
@@ -25,7 +30,12 @@
       "It is absorbed and the atom gives off heat and light"
     ],
     "answer": "A",
-    "explanation": "In the Compton effect the photon hits an outer-shell electron, loses only some of its energy and is deflected."
+    "explanation": "In the Compton effect the photon hits an outer-shell electron, loses only some of its energy and is deflected.",
+    "extraWrong": [
+      "It hits an inner-shell electron and is fully absorbed",
+      "It turns a water molecule into hydrogen gas",
+      "It gains energy and speeds up"
+    ]
   },
   {
     "id": "m04-003",
@@ -39,7 +49,12 @@
       "Number of outer-shell electrons"
     ],
     "answer": "C",
-    "explanation": "The chance depends on the atomic number cubed (Z³); the higher the Z³, the more likely complete absorption is."
+    "explanation": "The chance depends on the atomic number cubed (Z³); the higher the Z³, the more likely complete absorption is.",
+    "extraWrong": [
+      "Number of water molecules nearby",
+      "Atomic mass of the nucleus",
+      "Number of positive ions present"
+    ]
   },
   {
     "id": "m04-004",
@@ -53,7 +68,12 @@
       "Heat and light"
     ],
     "answer": "D",
-    "explanation": "After all the photon's energy is absorbed, the atom restabilises and gives off energy as heat and light."
+    "explanation": "After all the photon's energy is absorbed, the atom restabilises and gives off energy as heat and light.",
+    "extraWrong": [
+      "Hydrogen peroxide",
+      "Radio waves",
+      "Water molecules"
+    ]
   },
   {
     "id": "m04-005",
@@ -67,7 +87,12 @@
       "A positive ion and a scattered photon"
     ],
     "answer": "A",
-    "explanation": "Ionisation produces an unstable atom (a positive ion) and a stray electron (a negative ion)."
+    "explanation": "Ionisation produces an unstable atom (a positive ion) and a stray electron (a negative ion).",
+    "extraWrong": [
+      "Two positive ions only",
+      "Hydrogen peroxide and water",
+      "A neutral atom and a photon"
+    ]
   },
   {
     "id": "m04-006",
@@ -81,7 +106,12 @@
       "Protein molecules"
     ],
     "answer": "C",
-    "explanation": "Indirect damage occurs when X-rays ionise other molecules in the cell, most commonly water."
+    "explanation": "Indirect damage occurs when X-rays ionise other molecules in the cell, most commonly water.",
+    "extraWrong": [
+      "Fat molecules",
+      "Sugar molecules",
+      "Calcium molecules"
+    ]
   },
   {
     "id": "m04-007",
@@ -95,7 +125,12 @@
       "Hydrogen peroxide and oxygen gas"
     ],
     "answer": "B",
-    "explanation": "Ionising water produces hydrogen peroxide and hydrogen gas, both of which are toxic."
+    "explanation": "Ionising water produces hydrogen peroxide and hydrogen gas, both of which are toxic.",
+    "extraWrong": [
+      "Nitrogen gas and oxygen gas",
+      "Hydrogen peroxide and carbon dioxide",
+      "Water vapour and hydrogen gas"
+    ]
   },
   {
     "id": "m04-008",
@@ -109,7 +144,12 @@
       "A congenital abnormality"
     ],
     "answer": "D",
-    "explanation": "Disruption to the genetic code may lead to a congenital abnormality in reproductive cells, or a malignancy in somatic cells."
+    "explanation": "Disruption to the genetic code may lead to a congenital abnormality in reproductive cells, or a malignancy in somatic cells.",
+    "extraWrong": [
+      "Immediate radiation burns to the skin",
+      "Hardening of the tooth enamel",
+      "Increased contrast in the radiograph"
+    ]
   },
   {
     "id": "m04-009",
@@ -123,7 +163,12 @@
       "Heat damage to the tissues"
     ],
     "answer": "C",
-    "explanation": "Dental doses are not high enough to cause deterministic effects, so the main concern is somatic stochastic effects."
+    "explanation": "Dental doses are not high enough to cause deterministic effects, so the main concern is somatic stochastic effects.",
+    "extraWrong": [
+      "Radiation burns to the skin",
+      "Toxic gases in the surgery",
+      "Damage to the X-ray film"
+    ]
   },
   {
     "id": "m04-010",
@@ -156,5 +201,182 @@
     "question": "Cancer is an example of a somatic stochastic effect of X-rays.",
     "answer": true,
     "explanation": "Cancer is a somatic stochastic effect, and even a tiny dose can cause a fatal cancer."
+  },
+  {
+    "id": "m04-014",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is meant by direct damage from X-rays?",
+    "options": [
+      "An X-ray photon ionises water molecules in the cell",
+      "An X-ray photon ionises the genetic code (DNA or RNA) in the cell",
+      "The atom gives off heat that burns the cell",
+      "Scattered photons reach the reproductive organs"
+    ],
+    "answer": "B",
+    "explanation": "Direct damage occurs when an X-ray photon hits and ionises the genetic code in the patient's cells, contained in DNA or RNA molecules; ionising water is indirect damage.",
+    "extraWrong": [
+      "Hydrogen gas leaks out through the cell membrane",
+      "An X-ray photon is deflected by an outer-shell electron",
+      "The cell absorbs light from the film emulsion"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m04-015",
+    "module": "m04",
+    "type": "mcq",
+    "question": "When direct X-ray damage alters the genetic code in somatic (body) cells, what may result?",
+    "options": [
+      "A congenital abnormality in future offspring",
+      "Production of hydrogen peroxide",
+      "Compton scatter of the photon",
+      "A malignancy"
+    ],
+    "answer": "D",
+    "explanation": "Disruption to the genetic code may lead to a malignancy in somatic cells, or a congenital abnormality in reproductive cells.",
+    "extraWrong": [
+      "An increase in the cell's atomic number",
+      "Lower absorption of later X-rays",
+      "Faster development of the film"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m04-016",
+    "module": "m04",
+    "type": "mcq",
+    "question": "In the photoelectric effect, how much of the X-ray photon's energy is absorbed?",
+    "options": [
+      "None of it",
+      "Only some of it",
+      "All of it",
+      "About half of it"
+    ],
+    "answer": "C",
+    "explanation": "In the photoelectric effect all of the photon's energy is absorbed in the collision; in the Compton effect it loses only some of its energy.",
+    "extraWrong": [
+      "About one per cent of it",
+      "About a quarter of it",
+      "Exactly three-quarters of it"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m04-017",
+    "module": "m04",
+    "type": "mcq",
+    "question": "In indirect damage, why do the ions produced go on to harm the cell?",
+    "options": [
+      "They are highly reactive and damage other parts of the cell",
+      "They block X-rays from reaching the film",
+      "They make the cell's atoms completely stable",
+      "They raise the kV of the X-ray beam"
+    ],
+    "answer": "A",
+    "explanation": "The ions produced by indirect damage are highly reactive and go on to damage other parts of the cell.",
+    "extraWrong": [
+      "They turn the cell's DNA into water",
+      "They cool the tissue around the cell",
+      "They reflect X-rays back out of the cell"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m04-c01",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What does 'in-direct damage' mean when describing the effects of x-rays on patient's tissue?",
+    "options": [
+      "x-rays hitting DNA and damaging the genetic code",
+      "x-rays hitting water and creating damaging, toxic chemicals",
+      "x-rays hitting protein and damaging their structure",
+      "x-rays hitting the patient's tissue & scattering within the body"
+    ],
+    "answer": "B",
+    "explanation": "C is direct damage - breaking a cell. Indirect can go on to damage a cell.",
+    "source": "Study card sc3 r4c1"
+  },
+  {
+    "id": "m04-c02",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is the photo-electric effect?",
+    "options": [
+      "Occurs when x-ray photon collides with an inner shell electron",
+      "Occurs when x-ray photon collides with an outer shell electron"
+    ],
+    "answer": "A",
+    "explanation": "In the photoelectric effect the X-ray photon hits an inner-shell electron and all of its energy is absorbed.",
+    "source": "Study card sc4 r1c3"
+  },
+  {
+    "id": "m04-c03",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is the compton effect?",
+    "options": [
+      "Occurs when x-ray photon collides with an inner shell electron",
+      "Occurs when x-ray photon collides with an outer shell electron"
+    ],
+    "answer": "B",
+    "explanation": "In the Compton effect the X-ray photon hits an outer-shell electron, loses only some of its energy and is deflected.",
+    "source": "Study card sc4 r2c3"
+  },
+  {
+    "id": "m04-c04",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is direct damage?",
+    "options": [
+      "Occurs when x-rays hit & break a part of a cell (DNA or protein)",
+      "Occurs when x-rays hit water molecules, turning them into toxic chemicals"
+    ],
+    "answer": "A",
+    "explanation": "Direct damage occurs when an X-ray photon hits and ionises the genetic code (DNA or RNA) in the patient's cells.",
+    "source": "Study card sc4 r3c1"
+  },
+  {
+    "id": "m04-c05",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is indirect damage?",
+    "options": [
+      "Occurs when x-rays hit & break apart of a cell (DNA or protein)",
+      "Occurs when x-rays hit water molecules turning them into toxic chemicals"
+    ],
+    "answer": "B",
+    "explanation": "Indirect damage occurs when an X-ray photon ionises other molecules in the cell, usually water, producing toxic substances such as hydrogen peroxide that damage the cell.",
+    "source": "Study card sc5 r6c2"
+  },
+  {
+    "id": "m04-c06",
+    "module": "m04",
+    "type": "mcq",
+    "question": "Absorption of x-rays is proportional to what property of a material or tissue?",
+    "options": [
+      "Z¹ (atomic number to power of 1)",
+      "Z² (atomic number squared)",
+      "Z³ (atomic number cubed)",
+      "Z⁴ (atomic number to power of 4)"
+    ],
+    "answer": "C",
+    "explanation": "Denser the material, the more x-rays it will absorb.",
+    "source": "Study card sc6 r2c3"
+  },
+  {
+    "id": "m04-c07",
+    "module": "m04",
+    "type": "mcq",
+    "question": "What is the highest, safe dose of radiation that's 100% guaranteed to not cause any negative health effects?",
+    "options": [
+      "0mSv",
+      "1mSv",
+      "6mSv",
+      "9mSv"
+    ],
+    "answer": "A",
+    "explanation": "Zero = no risks. Keep all doses as low as reasonably practicable.",
+    "source": "Study card sc6 r3c3"
   }
 ]

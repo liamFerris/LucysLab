@@ -11,7 +11,12 @@
       "Occipital"
     ],
     "answer": "B",
-    "explanation": "The maxilla is studied in detail including its main foramina and antra."
+    "explanation": "The maxilla is studied in detail including its main foramina and antra.",
+    "extraWrong": [
+      "Vomer",
+      "Parietal",
+      "Nasal bone"
+    ]
   },
   {
     "id": "m09-002",
@@ -25,7 +30,12 @@
       "Its enamel and dentine"
     ],
     "answer": "C",
-    "explanation": "The mandible should be described including its shape, internal structure and main foramina."
+    "explanation": "The mandible should be described including its shape, internal structure and main foramina.",
+    "extraWrong": [
+      "Its nasal septum and turbinates",
+      "Its crowns and pulp chambers",
+      "Its ear ossicles and canals"
+    ]
   },
   {
     "id": "m09-003",
@@ -39,7 +49,12 @@
       "Maxilla and mandible"
     ],
     "answer": "D",
-    "explanation": "The maxilla and the mandible are each described in detail, including their main foramina."
+    "explanation": "The maxilla and the mandible are each described in detail, including their main foramina.",
+    "extraWrong": [
+      "Frontal and parietal",
+      "Hyoid and vomer",
+      "Temporal and occipital"
+    ]
   },
   {
     "id": "m09-004",
@@ -48,5 +63,83 @@
     "question": "The anatomy of the maxillofacial skeleton is best understood by looking at anatomical models and radiographs.",
     "answer": true,
     "explanation": "This subject is best understood by looking at anatomical models and radiographs."
+  },
+  {
+    "id": "m09-005",
+    "module": "m09",
+    "type": "mcq",
+    "question": "Where is the mental foramen found?",
+    "options": [
+      "On the maxilla, behind the upper central incisors",
+      "On the outer surface of the mandible, near the premolar apices",
+      "On the inner (medial) surface of the mandibular ramus",
+      "Below the orbit, on the front of the maxilla"
+    ],
+    "answer": "B",
+    "explanation": "The mental foramen lies on the outer surface of the body of the mandible, usually near the apices of the lower premolars. On a periapical it can look like a small radiolucency near a premolar apex.",
+    "extraWrong": [
+      "In the floor of the maxillary antrum",
+      "On the hard palate, near the third molars",
+      "At the tip of the coronoid process"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m09-006",
+    "module": "m09",
+    "type": "mcq",
+    "question": "Which canal runs through the mandible, carrying the inferior alveolar nerve and vessels?",
+    "options": [
+      "The nasolacrimal canal",
+      "The infraorbital canal",
+      "The greater palatine canal",
+      "The inferior dental (mandibular) canal"
+    ],
+    "answer": "D",
+    "explanation": "The inferior dental (mandibular) canal runs through the mandible from the mandibular foramen and carries the inferior alveolar nerve and vessels. It appears as a radiolucent band outlined by thin radiopaque lines.",
+    "extraWrong": [
+      "The optic canal",
+      "The external auditory canal",
+      "The hypoglossal canal"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m09-007",
+    "module": "m09",
+    "type": "mcq",
+    "question": "Which air-filled structure appears as a radiolucent area above the roots of the upper premolars and molars?",
+    "options": [
+      "The maxillary antrum (sinus)",
+      "The mental foramen",
+      "The inferior dental canal",
+      "The mandibular foramen"
+    ],
+    "answer": "A",
+    "explanation": "The maxillary antra (sinuses) are air-filled spaces in the maxilla above the roots of the upper premolars and molars. They appear radiolucent, outlined by a thin radiopaque line.",
+    "extraWrong": [
+      "The genial tubercles",
+      "The external oblique ridge",
+      "The incisive foramen"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m09-008",
+    "module": "m09",
+    "type": "tf",
+    "question": "The mandible has a dense outer layer of cortical bone surrounding an inner layer of cancellous (trabecular) bone.",
+    "answer": true,
+    "explanation": "The mandible's internal structure is a dense outer shell of cortical bone, which appears radiopaque, around inner cancellous (trabecular) bone, which has a finer, more radiolucent pattern.",
+    "source": "generated"
+  },
+  {
+    "id": "m09-c01",
+    "module": "m09",
+    "type": "tf",
+    "question": "In radiographs of the maxilla, the antral floor can create a thin dense radiopaque line?",
+    "answer": true,
+    "explanation": "If you radiograph an egg cup, the X-rays will pass through the main part of the cup but you will still see the sides as you're looking at it edge-on. Same applies for maxillary sinus.",
+    "source": "Study card sc4 r3c2"
   }
 ]

@@ -46,9 +46,19 @@ The notes and questions were built from photos of Lucy's printed revision handou
   "question": "What is the SI unit of absorbed dose?",
   "options": ["Sievert (Sv)", "Gray (Gy)", "Becquerel (Bq)", "Coulomb per kilogram (C/kg)"],
   "answer": "B",
-  "explanation": "Optional. Shown after answering and in the mock test review."
+  "explanation": "Optional. Shown after answering and in the mock test review.",
+  "extraWrong": ["Rad", "Roentgen (R)", "Curie (Ci)"]
 }
 ```
+
+**How options are shown:** the correct answer is pooled with every other wrong answer (the other `options` plus any `extraWrong`). Each time a question appears, the app shows the correct answer plus **3 wrong answers picked at random from that pool**, in a random order. So a question with 6 wrong answers looks different most times it comes up, and the correct letter moves around.
+
+This means:
+- every wrong answer must be clearly wrong on its own;
+- avoid "all/none of the above", or options that only make sense next to another option;
+- explanations shouldn't mention option letters.
+
+The mock test saves the options it dealt, so resuming a test shows the same ones. Questions transcribed from Lucy's study cards keep exactly the options on the card, so they're shuffled but have no `extraWrong`. They have a `"source": "Study card scN rXcY"` field. Generated questions have `"source": "generated"`.
 
 True/false questions leave out `options` and use a boolean answer:
 
@@ -60,6 +70,7 @@ True/false questions leave out `options` and use a boolean answer:
 - `id` must be unique. The mock test uses it to restore progress.
 - `answer` for `mcq` is a letter (`"A"`–`"D"`). For `tf` it is `true` or `false`.
 - Malformed questions are skipped, with a warning in the browser console.
+- Run `python3 tools/check_bank.py` from the project root after editing questions. It checks IDs, answers, `extraWrong` and so on, and prints per-module counts.
 
 ### Adding a module
 

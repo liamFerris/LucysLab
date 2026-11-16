@@ -11,7 +11,12 @@
       "Kilovolt (kV)"
     ],
     "answer": "A",
-    "explanation": "Radiation absorbed dose is the total radiation absorbed by the patient, measured in grays (Gy)."
+    "explanation": "Radiation absorbed dose is the total radiation absorbed by the patient, measured in grays (Gy).",
+    "extraWrong": [
+      "Microsievert (µSv)",
+      "Milliamperage (mA)",
+      "Kilogram (kg)"
+    ]
   },
   {
     "id": "m05-002",
@@ -25,7 +30,12 @@
       "20"
     ],
     "answer": "B",
-    "explanation": "The radiation weighting factor for X-rays is 1."
+    "explanation": "The radiation weighting factor for X-rays is 1.",
+    "extraWrong": [
+      "0.1",
+      "5",
+      "100"
+    ]
   },
   {
     "id": "m05-003",
@@ -39,7 +49,12 @@
       "Absorbed dose × radiation weighting factor"
     ],
     "answer": "C",
-    "explanation": "Effective dose = equivalent dose × tissue weighting factor."
+    "explanation": "Effective dose = equivalent dose × tissue weighting factor.",
+    "extraWrong": [
+      "Equivalent dose ÷ tissue weighting factor",
+      "Absorbed dose ÷ radiation weighting factor",
+      "Absorbed dose + equivalent dose"
+    ]
   },
   {
     "id": "m05-004",
@@ -53,7 +68,12 @@
       "Thyroid gland"
     ],
     "answer": "D",
-    "explanation": "The thyroid gland is the nearest sensitive tissue to the area affected by dental radiographs."
+    "explanation": "The thyroid gland is the nearest sensitive tissue to the area affected by dental radiographs.",
+    "extraWrong": [
+      "Kidney tissue",
+      "Bladder tissue",
+      "Liver tissue"
+    ]
   },
   {
     "id": "m05-005",
@@ -67,7 +87,12 @@
       "Reference dose"
     ],
     "answer": "A",
-    "explanation": "Effective dose takes account of both radiation type and tissue sensitivity, so it allows these comparisons."
+    "explanation": "Effective dose takes account of both radiation type and tissue sensitivity, so it allows these comparisons.",
+    "extraWrong": [
+      "Background dose",
+      "Dose constraint",
+      "Dose limit"
+    ]
   },
   {
     "id": "m05-006",
@@ -81,7 +106,12 @@
       "One tenth of a sievert"
     ],
     "answer": "B",
-    "explanation": "A microsievert is one millionth of a sievert; a millisievert is one thousandth."
+    "explanation": "A microsievert is one millionth of a sievert; a millisievert is one thousandth.",
+    "extraWrong": [
+      "One thousand sieverts",
+      "One ten-thousandth of a sievert",
+      "One billionth of a sievert"
+    ]
   },
   {
     "id": "m05-007",
@@ -95,7 +125,12 @@
       "6.6 mSv"
     ],
     "answer": "C",
-    "explanation": "We receive about 2.7 mSv of natural background radiation each year in the UK."
+    "explanation": "We receive about 2.7 mSv of natural background radiation each year in the UK.",
+    "extraWrong": [
+      "0.038 mSv",
+      "1.5 mSv",
+      "15 mSv"
+    ]
   },
   {
     "id": "m05-008",
@@ -109,7 +144,12 @@
       "Two days"
     ],
     "answer": "D",
-    "explanation": "A modern panoramic X-ray gives the same dose as two days of natural background radiation."
+    "explanation": "A modern panoramic X-ray gives the same dose as two days of natural background radiation.",
+    "extraWrong": [
+      "One year",
+      "Six months",
+      "Two hours"
+    ]
   },
   {
     "id": "m05-009",
@@ -123,7 +163,12 @@
       "1.5 mSv"
     ],
     "answer": "A",
-    "explanation": "The annual legal dose limit for a member of the public is 1 mSv per year."
+    "explanation": "The annual legal dose limit for a member of the public is 1 mSv per year.",
+    "extraWrong": [
+      "5 mSv",
+      "10 mSv",
+      "50 mSv"
+    ]
   },
   {
     "id": "m05-010",
@@ -137,7 +182,12 @@
       "1.5 mSv"
     ],
     "answer": "B",
-    "explanation": "While legal limits are higher, the recommended annual dose constraint for all dental staff is 0.3 mSv."
+    "explanation": "While legal limits are higher, the recommended annual dose constraint for all dental staff is 0.3 mSv.",
+    "extraWrong": [
+      "5 mSv",
+      "10 mSv",
+      "6.6 mSv"
+    ]
   },
   {
     "id": "m05-011",
@@ -151,7 +201,12 @@
       "1 in 50,000"
     ],
     "answer": "C",
-    "explanation": "Recommended equipment gives an estimated risk of 1 in 10 million exposures, compared with 1 in 1 million for traditional equipment."
+    "explanation": "Recommended equipment gives an estimated risk of 1 in 10 million exposures, compared with 1 in 1 million for traditional equipment.",
+    "extraWrong": [
+      "1 in 200",
+      "1 in 700",
+      "1 in 10,000"
+    ]
   },
   {
     "id": "m05-012",
@@ -165,7 +220,12 @@
       "Chest CT scan"
     ],
     "answer": "D",
-    "explanation": "A chest CT scan (6.6 mSv) has a far higher effective dose than a barium meal, chest X-ray or intra-oral dental exposure."
+    "explanation": "A chest CT scan (6.6 mSv) has a far higher effective dose than a barium meal, chest X-ray or intra-oral dental exposure.",
+    "extraWrong": [
+      "Modern panoramic X-ray",
+      "Bitewing radiograph",
+      "Periapical radiograph"
+    ]
   },
   {
     "id": "m05-013",
@@ -214,5 +274,188 @@
     "question": "Red bone marrow is one of the tissues least sensitive to radiation damage.",
     "answer": false,
     "explanation": "Gonad tissue, red bone marrow and lung tissue are the most sensitive to radiation damage."
+  },
+  {
+    "id": "m05-019",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What does equivalent dose take into account?",
+    "options": [
+      "The sensitivity of each tissue",
+      "The type of radiation",
+      "The age of the patient",
+      "The size of the X-ray beam"
+    ],
+    "answer": "B",
+    "explanation": "Equivalent dose takes account of the type of radiation by giving it a radiation weighting factor (WR); effective dose takes account of tissue sensitivity.",
+    "extraWrong": [
+      "The total time spent in the surgery",
+      "The distance from the X-ray set",
+      "The speed of the film used"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m05-020",
+    "module": "m05",
+    "type": "mcq",
+    "question": "If the absorbed dose given to a patient for an examination exceeds the reference dose, what must happen?",
+    "options": [
+      "Steps must be taken to reduce further doses",
+      "The patient must be given a dosemeter badge",
+      "The examination must be repeated straight away",
+      "The patient must be referred for a CT scan"
+    ],
+    "answer": "A",
+    "explanation": "If the dose given exceeds the reference dose for that examination, steps must be taken to reduce further doses.",
+    "extraWrong": [
+      "The dose must be recorded as natural background radiation",
+      "Nothing, as long as the image is diagnostic",
+      "The patient must sign a consent form for the extra dose"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m05-021",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which of these carries the highest risk of death per year?",
+    "options": [
+      "Smoking 10 cigarettes each day",
+      "Accidents on the road",
+      "Accidents at work",
+      "Accidents in the home"
+    ],
+    "answer": "A",
+    "explanation": "Smoking 10 cigarettes a day carries a risk of about 1 in 200 per year, far higher than accidents in the home or on the road (1 in 10,000) or at work (1 in 50,000).",
+    "extraWrong": [
+      "Having a panoramic radiograph",
+      "Having an intra-oral radiograph",
+      "Natural causes, aged 40"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m05-022",
+    "module": "m05",
+    "type": "mcq",
+    "question": "How can your exposure to X-ray radiation at work be measured?",
+    "options": [
+      "With a lead apron",
+      "With a spacer cone",
+      "With a personal monitoring device",
+      "With a step-up transformer"
+    ],
+    "answer": "C",
+    "explanation": "A personal monitoring device can be used to measure your exposure to X-ray radiation at work.",
+    "extraWrong": [
+      "With an aluminium filter",
+      "With a beam-aiming device",
+      "With a patient positioning aid"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m05-c01",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What do we normally mean when we say 'dose' in relation to medical and dental radiation exposures?",
+    "options": [
+      "Background dose",
+      "Radiation absorbed dose",
+      "Equivalent dose",
+      "Effective dose"
+    ],
+    "answer": "D",
+    "explanation": "Effective dose accounts for the type of radiation used and the type of body tissue being exposed. Think EFFECT of body tissue.",
+    "source": "Study card sc1 r1c2"
+  },
+  {
+    "id": "m05-c02",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which radiation dose unit measures the amount of energy absorbed from the radiation beam?",
+    "options": [
+      "Radiation absorbed dose",
+      "Equivalent dose",
+      "Effective dose"
+    ],
+    "answer": "A",
+    "explanation": "Radiation absorbed dose is the total amount of radiation absorbed by the patient, measured in gray (Gy).",
+    "source": "Study card sc2 r5c3"
+  },
+  {
+    "id": "m05-c03",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What age group is most at risk of radiation induced cancer?",
+    "options": [
+      "0-20 years old",
+      "20-40 years old",
+      "40-60 years old",
+      "60+ years old"
+    ],
+    "answer": "A",
+    "explanation": "Cancer usually takes time to develop. Younger patients have more time for it to develop.",
+    "source": "Study card sc3 r5c2"
+  },
+  {
+    "id": "m05-c04",
+    "module": "m05",
+    "type": "mcq",
+    "question": "Which radiation dose unit allows for the differing biological effect of different types of radiation & provides a common unit?",
+    "options": [
+      "Radiation absorbed dose",
+      "Equivalent dose",
+      "Effective dose"
+    ],
+    "answer": "B",
+    "explanation": "Equivalent dose gives each type of radiation a weighting factor according to the damage it does; its unit is the sievert (Sv).",
+    "source": "Study card sc4 r4c1"
+  },
+  {
+    "id": "m05-c05",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the estimated risk of a fatal cancer resulting from a panoramic radiograph?",
+    "options": [
+      "1 in 10,000",
+      "1 in 670,000",
+      "1 in 1,000,000",
+      "1 in 10,000,000"
+    ],
+    "answer": "C",
+    "explanation": "Higher dose than an intra-oral radiograph, so slightly higher risk.",
+    "source": "Study card sc5 r3c3"
+  },
+  {
+    "id": "m05-c06",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What is the estimated risk of a fatal cancer resulting from an intra oral radiograph? (Taken using the recommended equipment)",
+    "options": [
+      "1 in 10,000",
+      "1 in 670,000",
+      "1 in 1,000,000",
+      "1 in 10,000,000"
+    ],
+    "answer": "D",
+    "explanation": "Risks are very low, but not zero.",
+    "source": "Study card sc6 r1c2"
+  },
+  {
+    "id": "m05-c07",
+    "module": "m05",
+    "type": "mcq",
+    "question": "What's the suggested 'dose constraint' for dental staff involved in radiography?",
+    "options": [
+      "0.3mSv",
+      "1mSv",
+      "6mSv",
+      "20mSv"
+    ],
+    "answer": "A",
+    "explanation": "Standard for non-classified worker is 20mSv per year - far too high given the small doses used in dental radiography.",
+    "source": "Study card sc6 r4c3"
   }
 ]

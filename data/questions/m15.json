@@ -11,7 +11,12 @@
       "Ask the patient to suck a lozenge"
     ],
     "answer": "A",
-    "explanation": "Specially designed or adapted holders are used to position the sensor/film at the back of the mouth for lower third molars."
+    "explanation": "Specially designed or adapted holders are used to position the sensor/film at the back of the mouth for lower third molars.",
+    "extraWrong": [
+      "Ask the patient to breathe deeply",
+      "Hold it with a rubber dam clamp",
+      "Use a shorter exposure time"
+    ]
   },
   {
     "id": "m15-002",
@@ -25,7 +30,12 @@
       "Take a single oblique lateral view instead of the periapical"
     ],
     "answer": "B",
-    "explanation": "Two periapical views are taken with the receptor as far back as possible, using two different X-ray tubehead positions."
+    "explanation": "Two periapical views are taken with the receptor as far back as possible, using two different X-ray tubehead positions.",
+    "extraWrong": [
+      "Take two bitewings using the same tubehead position",
+      "Take one periapical using a longer exposure time",
+      "Take one periapical with the receptor flat in the occlusal plane"
+    ]
   },
   {
     "id": "m15-003",
@@ -47,7 +57,12 @@
       "So the exposure time can be reduced"
     ],
     "answer": "A",
-    "explanation": "Placing the receptor flat in the occlusal plane stops it touching the palate, reducing gagging."
+    "explanation": "Placing the receptor flat in the occlusal plane stops it touching the palate, reducing gagging.",
+    "extraWrong": [
+      "So the image is magnified",
+      "So the root canals can be separated",
+      "So the inferior canal is recorded"
+    ]
   },
   {
     "id": "m15-005",
@@ -61,7 +76,12 @@
       "Use different horizontal tubehead positions"
     ],
     "answer": "C",
-    "explanation": "Sucking a local anaesthetic lozenge before positioning the receptor is a solution for a strong gag reflex."
+    "explanation": "Sucking a local anaesthetic lozenge before positioning the receptor is a solution for a strong gag reflex.",
+    "extraWrong": [
+      "Increase the exposure time",
+      "Use a special endodontic holder",
+      "Place the receptor against the palate"
+    ]
   },
   {
     "id": "m15-006",
@@ -83,7 +103,12 @@
       "With cotton wool rolls"
     ],
     "answer": "D",
-    "explanation": "In partially dentate patients, the deficiency can be built up using cotton wool rolls."
+    "explanation": "In partially dentate patients, the deficiency can be built up using cotton wool rolls.",
+    "extraWrong": [
+      "With a local anaesthetic lozenge",
+      "With an endodontic holder",
+      "With a rubber dam sheet"
+    ]
   },
   {
     "id": "m15-008",
@@ -97,7 +122,12 @@
       "Excessive lingual sulcus depth"
     ],
     "answer": "A",
-    "explanation": "Problems include lack of palatal height, loss of lingual sulcus depth, and rotation or displacement of the holder."
+    "explanation": "Problems include lack of palatal height, loss of lingual sulcus depth, and rotation or displacement of the holder.",
+    "extraWrong": [
+      "Presence of endodontic instruments",
+      "Overlapping contact points",
+      "Too much height in the palate"
+    ]
   },
   {
     "id": "m15-009",
@@ -119,7 +149,12 @@
       "Take an oblique lateral radiograph of the affected side"
     ],
     "answer": "C",
-    "explanation": "At least two or even three radiographs are taken using different horizontal X-ray tubehead positions."
+    "explanation": "At least two or even three radiographs are taken using different horizontal X-ray tubehead positions.",
+    "extraWrong": [
+      "Take a single bitewing of the tooth",
+      "Take one periapical with the receptor flat in the mouth",
+      "Take a single occlusal view of the whole arch"
+    ]
   },
   {
     "id": "m15-011",
@@ -133,7 +168,12 @@
       "Take an extra-oral oblique lateral"
     ],
     "answer": "B",
-    "explanation": "A simple phosphor plate/film packet holder, positioned parallel to the tooth and held by the patient, or a special endodontic holder, can be used."
+    "explanation": "A simple phosphor plate/film packet holder, positioned parallel to the tooth and held by the patient, or a special endodontic holder, can be used.",
+    "extraWrong": [
+      "Ask the patient to suck a lozenge",
+      "Ask the patient to breathe deeply",
+      "Take two views of the third molar"
+    ]
   },
   {
     "id": "m15-012",
@@ -155,6 +195,136 @@
       "Place the receptor flat and use a modified bisected angle"
     ],
     "answer": "D",
-    "explanation": "For small children the receptor is placed flat in the occlusal plane and a modified bisected angle technique is used."
+    "explanation": "For small children the receptor is placed flat in the occlusal plane and a modified bisected angle technique is used.",
+    "extraWrong": [
+      "Ask the child to suck a local anaesthetic lozenge",
+      "Take two or three views at different vertical angles",
+      "Use a special endodontic sensor holder"
+    ]
+  },
+  {
+    "id": "m15-014",
+    "module": "m15",
+    "type": "mcq",
+    "question": "What makes placing and stabilising image receptors difficult during endodontic treatment?",
+    "options": [
+      "Endodontic instruments, rubber dam and clamps in position",
+      "Lack of height in the palate",
+      "Loss of lingual sulcus depth",
+      "Small mouth size in a young patient"
+    ],
+    "answer": "A",
+    "explanation": "During endodontics, endodontic instruments, rubber dam and rubber dam clamps make it hard to place and stabilise receptors.",
+    "extraWrong": [
+      "Rotation of the holder on an edentulous ridge",
+      "Poor co-operation from a young child",
+      "Missing teeth that need building up with cotton wool"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m15-015",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Which two factors make ideal receptor placement difficult when X-raying small children?",
+    "options": [
+      "Rubber dam and endodontic instruments",
+      "Size of mouth and co-operation",
+      "Lack of palatal height and lingual sulcus depth",
+      "Rotation and displacement of the holder"
+    ],
+    "answer": "B",
+    "explanation": "In small children, the size of the mouth and co-operation make ideal receptor placement difficult.",
+    "extraWrong": [
+      "Multi-rooted teeth and curved canals",
+      "Dense bone and thick soft tissues",
+      "Gold crowns and amalgam fillings"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m15-016",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Apart from a simple holder held by the patient, what can be used to position receptors during endodontics?",
+    "options": [
+      "Cotton wool rolls to build up the area",
+      "A local anaesthetic lozenge",
+      "An oblique lateral extra-oral view",
+      "A special endodontic film or sensor holder"
+    ],
+    "answer": "D",
+    "explanation": "During endodontics, either a simple phosphor plate/film packet holder held by the patient or a special endodontic film or sensor holder can be used.",
+    "extraWrong": [
+      "Two periapicals with different vertical angles",
+      "A protective thyroid shield",
+      "Deep breathing during the exposure"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m15-017",
+    "module": "m15",
+    "type": "tf",
+    "question": "Rotation or displacement of the image receptor holder can make receptor placement difficult in edentulous patients.",
+    "answer": true,
+    "explanation": "Problems in edentulous patients include lack of palatal height, loss of lingual sulcus depth, and rotation or displacement of the receptor holder.",
+    "source": "generated"
+  },
+  {
+    "id": "m15-c01",
+    "module": "m15",
+    "type": "mcq",
+    "question": "Why might it be difficult to place an intra-oral image receptor accurately in an edentulous patient?",
+    "options": [
+      "Patient unable to bite on bitepeg",
+      "Dentures getting in way",
+      "Lack of height in palate",
+      "Glasses getting in way"
+    ],
+    "answer": "C",
+    "explanation": "Shallow palates, loss of depth in lingual sulcus or too few teeth to stabilise image receptor holder.",
+    "source": "Study card sc1 r3c2"
+  },
+  {
+    "id": "m15-c02",
+    "module": "m15",
+    "type": "mcq",
+    "question": "What technique would be used when taking an intra oral radiograph with partially dentate patients?",
+    "options": [
+      "Take intra oral periapicals using modified bisected angle technique",
+      "Use cotton wool rolls to build up deficiency"
+    ],
+    "answer": "B",
+    "explanation": "In partially dentate patients, build up the deficiency using cotton wool rolls.",
+    "source": "Study card sc2 r2c2"
+  },
+  {
+    "id": "m15-c03",
+    "module": "m15",
+    "type": "mcq",
+    "question": "What technique would be used to help when taking an intra oral radiograph with edentulous patients?",
+    "options": [
+      "Take intraoral periapicals using modified bisected angle technique",
+      "Use cotton wool rolls to build up deficiency"
+    ],
+    "answer": "A",
+    "explanation": "For edentulous patients, intra-oral periapicals are taken using a modified bisected angle technique; cotton wool rolls are used to build up the deficiency in partially dentate patients.",
+    "source": "Study card sc3 r2c2"
+  },
+  {
+    "id": "m15-c04",
+    "module": "m15",
+    "type": "mcq",
+    "question": "When might the superimposition of root canals in multi rooted teeth be a particular problem?",
+    "options": [
+      "In partially edentulous patients",
+      "When taking periapical radiographs during endodontics",
+      "When trying to image partially erupted third molars",
+      "When patient has strong gag reflex"
+    ],
+    "answer": "B",
+    "explanation": "During endodontics, identifying and separating the root canals of multi-rooted teeth is a problem, so two or three radiographs are taken at different horizontal tubehead positions.",
+    "source": "Study card sc6 r1c3"
   }
 ]

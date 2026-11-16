@@ -11,7 +11,12 @@
       "The entire dentition of both jaws"
     ],
     "answer": "A",
-    "explanation": "The bitewing technique is designed to image the crowns of the premolar and molar teeth on one side of the jaws."
+    "explanation": "The bitewing technique is designed to image the crowns of the premolar and molar teeth on one side of the jaws.",
+    "extraWrong": [
+      "Both temporomandibular joints",
+      "A slice through the jaws in three planes",
+      "The floor of the mouth and the tongue"
+    ]
   },
   {
     "id": "m13-002",
@@ -25,7 +30,12 @@
       "The bite peg used in panoramic units"
     ],
     "answer": "B",
-    "explanation": "The original technique required the patient to bite on a small wing attached to an intra-oral film packet."
+    "explanation": "The original technique required the patient to bite on a small wing attached to an intra-oral film packet.",
+    "extraWrong": [
+      "The wing-shaped tubehead of the X-ray set",
+      "The wings of the sphenoid bone",
+      "The two-winged shape of the holder arm"
+    ]
   },
   {
     "id": "m13-003",
@@ -39,7 +49,12 @@
       "Between 25° and 30°"
     ],
     "answer": "C",
-    "explanation": "The tubehead should be aimed slightly downwards, at between 5° and 8°."
+    "explanation": "The tubehead should be aimed slightly downwards, at between 5° and 8°.",
+    "extraWrong": [
+      "Between 40° and 45°",
+      "90° (vertical)",
+      "Between 60° and 65°"
+    ]
   },
   {
     "id": "m13-004",
@@ -53,7 +68,12 @@
       "Between the contact points of the teeth"
     ],
     "answer": "D",
-    "explanation": "The film is placed parallel to the arch and the tubehead aimed between the contact points of the teeth."
+    "explanation": "The film is placed parallel to the arch and the tubehead aimed between the contact points of the teeth.",
+    "extraWrong": [
+      "At the tip of the patient's nose",
+      "At the angle of the mandible",
+      "At the apices of the molars"
+    ]
   },
   {
     "id": "m13-005",
@@ -67,7 +87,12 @@
       "A small anterior receptor"
     ],
     "answer": "A",
-    "explanation": "With a square arch, two phosphor plates/films may be needed so the beam passes through the contact points."
+    "explanation": "With a square arch, two phosphor plates/films may be needed so the beam passes through the contact points.",
+    "extraWrong": [
+      "An upward tubehead angle",
+      "An occlusal-sized receptor",
+      "A longer exposure time"
+    ]
   },
   {
     "id": "m13-006",
@@ -81,7 +106,12 @@
       "Before and after apical surgery"
     ],
     "answer": "B",
-    "explanation": "Bitewing indications are detecting and monitoring caries, assessing existing restorations and assessing periodontal status."
+    "explanation": "Bitewing indications are detecting and monitoring caries, assessing existing restorations and assessing periodontal status.",
+    "extraWrong": [
+      "Detection of apical infection",
+      "Imaging the temporomandibular joints",
+      "Assessing the maxillary sinus"
+    ]
   },
   {
     "id": "m13-007",
@@ -95,7 +125,12 @@
       "It cannot be used on children"
     ],
     "answer": "C",
-    "explanation": "The traditional technique is not suitable for solid-state digital sensors; the tabs are cheap, disposable and simple to use in children."
+    "explanation": "The traditional technique is not suitable for solid-state digital sensors; the tabs are cheap, disposable and simple to use in children.",
+    "extraWrong": [
+      "It cannot be used with phosphor plates",
+      "It cannot be used with film packets",
+      "The receptor is held too firmly"
+    ]
   },
   {
     "id": "m13-008",
@@ -109,7 +144,12 @@
       "The anterior part"
     ],
     "answer": "D",
-    "explanation": "Coning off or cone cutting of the anterior part of the image receptor is common with the traditional technique."
+    "explanation": "Coning off or cone cutting of the anterior part of the image receptor is common with the traditional technique.",
+    "extraWrong": [
+      "The central part",
+      "The whole receptor",
+      "The lingual edge"
+    ]
   },
   {
     "id": "m13-009",
@@ -123,7 +163,12 @@
       "The tabs never contact saliva"
     ],
     "answer": "A",
-    "explanation": "The tabs (wings) are inexpensive and disposable, so no extra control of infection measures are required."
+    "explanation": "The tabs (wings) are inexpensive and disposable, so no extra control of infection measures are required.",
+    "extraWrong": [
+      "The tabs are made of lead",
+      "The tabs are sterilised with the film",
+      "The tabs are wiped with disinfectant"
+    ]
   },
   {
     "id": "m13-010",
@@ -137,7 +182,12 @@
       "The holders are easy to use on children of all ages"
     ],
     "answer": "B",
-    "explanation": "The horizontal and vertical position of the tubehead is determined by the beam aiming device, so coning off is avoided."
+    "explanation": "The horizontal and vertical position of the tubehead is determined by the beam aiming device, so coning off is avoided.",
+    "extraWrong": [
+      "Positioning is always comfortable",
+      "Holder position is not operator-dependent",
+      "Only film packets can be used"
+    ]
   },
   {
     "id": "m13-011",
@@ -151,7 +201,12 @@
       "The tongue can easily displace the image receptor"
     ],
     "answer": "C",
-    "explanation": "The holder's position in the mouth is still operator-dependent, so images are not 100 per cent reproducible."
+    "explanation": "The holder's position in the mouth is still operator-dependent, so images are not 100 per cent reproducible.",
+    "extraWrong": [
+      "The beam is aimed upwards",
+      "They are unsuitable for phosphor plates",
+      "The holders cannot be autoclaved"
+    ]
   },
   {
     "id": "m13-012",
@@ -192,5 +247,119 @@
     "question": "Assessment of periodontal status is a clinical indication for bitewing radiographs.",
     "answer": true,
     "explanation": "Assessment of periodontal status is one of the four listed indications for bitewings."
+  },
+  {
+    "id": "m13-017",
+    "module": "m13",
+    "type": "mcq",
+    "question": "On an ideal bitewing, how should the contact points between adjacent teeth appear?",
+    "options": [
+      "Overlapped, so both teeth are shown together",
+      "Open, with no overlapping",
+      "Hidden behind the occlusal plane",
+      "Covered by the zygomatic shadow"
+    ],
+    "answer": "B",
+    "explanation": "On an ideal bitewing the contact points are open and not overlapped, so the approximal surfaces can be checked for caries. Overlap is caused by incorrect horizontal angulation.",
+    "extraWrong": [
+      "Elongated vertically",
+      "Blurred by tubehead movement",
+      "Shown only on the upper teeth"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m13-018",
+    "module": "m13",
+    "type": "mcq",
+    "question": "On an ideal bitewing, where should the occlusal plane lie?",
+    "options": [
+      "Along the top edge of the image",
+      "Along the bottom edge of the image",
+      "Vertically down the middle",
+      "Roughly horizontal across the centre of the image"
+    ],
+    "answer": "D",
+    "explanation": "The occlusal plane should run roughly horizontally across the centre of the image, so the upper and lower teeth are shown in roughly equal amounts.",
+    "extraWrong": [
+      "Diagonally from corner to corner",
+      "Outside the image completely",
+      "Curving steeply upwards at one end"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m13-019",
+    "module": "m13",
+    "type": "mcq",
+    "question": "Which bone should be visible on an ideal bitewing so that periodontal status can be assessed?",
+    "options": [
+      "The alveolar crestal bone",
+      "The inferior border of the mandible",
+      "The floor of the maxillary antrum",
+      "The condylar heads"
+    ],
+    "answer": "A",
+    "explanation": "The alveolar crestal bone between the teeth should be visible on an ideal bitewing, so periodontal bone levels can be assessed.",
+    "extraWrong": [
+      "The orbital floor",
+      "The zygomatic arch",
+      "The mandibular canal"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m13-020",
+    "module": "m13",
+    "type": "tf",
+    "question": "On an ideal bitewing, the contrast and density should allow enamel, dentine and pulp to be told apart.",
+    "answer": true,
+    "explanation": "Contrast and density should allow enamel, dentine and pulp to be differentiated, so that caries can be detected.",
+    "source": "generated"
+  },
+  {
+    "id": "m13-c01",
+    "module": "m13",
+    "type": "mcq",
+    "question": "What is the best way of ensuring a bitewing radiograph is correctly aligned?",
+    "options": [
+      "Patient bites down on tab or wing attached to intra-oral film packet",
+      "Judge the bisecting angle between tooth & image receptor, then halve it",
+      "Use image receptor holder & beam aiming device",
+      "Ask patient to securely hold image receptor in place with finger"
+    ],
+    "answer": "C",
+    "explanation": "Bite tabs have largely been replaced by sensor/film holders with beam aiming devices, which make it much easier to align the beam and receptor correctly.",
+    "source": "Study card sc3 r1c3"
+  },
+  {
+    "id": "m13-c02",
+    "module": "m13",
+    "type": "mcq",
+    "question": "What vertical angle should the tubehead be aimed at when taking bitewing radiographs?",
+    "options": [
+      "Horizontally",
+      "Downwards at 1-3°",
+      "Downwards at 5-8°",
+      "Downwards at 9-12°"
+    ],
+    "answer": "C",
+    "explanation": "Compensates for the 'curve of Monson'.",
+    "source": "Study card sc4 r5c3"
+  },
+  {
+    "id": "m13-c03",
+    "module": "m13",
+    "type": "mcq",
+    "question": "What should a bitewing radiograph ideally show?",
+    "options": [
+      "Mesial aspect of canines to distal aspect of third molars",
+      "Distal aspect of canines to mesial aspect of second molars",
+      "Distal aspect of incisors to mesial aspect of third molars",
+      "Distal aspect of canines to mesial aspect of third molars"
+    ],
+    "answer": "D",
+    "explanation": "A bitewing images the crowns of the premolar and molar teeth on one side, from the distal of the canine to the mesial of the third molar.",
+    "source": "Study card sc5 r1c3"
   }
 ]

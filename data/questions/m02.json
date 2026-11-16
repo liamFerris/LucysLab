@@ -11,7 +11,12 @@
       "Pure scatter"
     ],
     "answer": "D",
-    "explanation": "In pure scatter the photon is deflected in another direction without losing any energy."
+    "explanation": "In pure scatter the photon is deflected in another direction without losing any energy.",
+    "extraWrong": [
+      "Ionisation",
+      "Photoelectric effect",
+      "Filtration"
+    ]
   },
   {
     "id": "m02-002",
@@ -25,7 +30,12 @@
       "X-rays are ionising, whilst gamma rays are non-ionising"
     ],
     "answer": "A",
-    "explanation": "Gamma rays and X-rays are the same thing; the only difference is that gamma rays are naturally occurring and X-rays are man-made."
+    "explanation": "Gamma rays and X-rays are the same thing; the only difference is that gamma rays are naturally occurring and X-rays are man-made.",
+    "extraWrong": [
+      "X-rays can travel in a vacuum, whilst gamma rays cannot",
+      "Gamma rays can damage tissue, whilst X-rays cannot",
+      "X-rays occur naturally, whilst gamma rays are man-made"
+    ]
   },
   {
     "id": "m02-003",
@@ -39,7 +49,12 @@
       "X-ray photons"
     ],
     "answer": "B",
-    "explanation": "Very low energy photons make up radio waves, whilst medium-energy photons are visible to us as light."
+    "explanation": "Very low energy photons make up radio waves, whilst medium-energy photons are visible to us as light.",
+    "extraWrong": [
+      "Microwaves",
+      "Ionising radiation",
+      "High-energy photons"
+    ]
   },
   {
     "id": "m02-004",
@@ -53,7 +68,12 @@
       "They can blacken film emulsion to create an image"
     ],
     "answer": "C",
-    "explanation": "X-rays cannot be detected by any human sense, which is one reason they must be treated with care."
+    "explanation": "X-rays cannot be detected by any human sense, which is one reason they must be treated with care.",
+    "extraWrong": [
+      "They originate at the atomic level",
+      "They have a short wavelength and high energy",
+      "They can damage human tissue"
+    ]
   },
   {
     "id": "m02-005",
@@ -67,7 +87,12 @@
       "It is the same at every dose"
     ],
     "answer": "C",
-    "explanation": "Tissue reaction effects result from high doses, and the severity of the damage is proportional to the radiation dose."
+    "explanation": "Tissue reaction effects result from high doses, and the severity of the damage is proportional to the radiation dose.",
+    "extraWrong": [
+      "It decreases as the dose increases",
+      "It depends only on the area exposed",
+      "It is a matter of chance alone"
+    ]
   },
   {
     "id": "m02-006",
@@ -81,7 +106,12 @@
       "Cells of the soft tissues lining the mouth"
     ],
     "answer": "B",
-    "explanation": "Genetic effects happen to the reproductive cells (egg and sperm), and damage may show up in future offspring."
+    "explanation": "Genetic effects happen to the reproductive cells (egg and sperm), and damage may show up in future offspring.",
+    "extraWrong": [
+      "Cells of the thyroid gland",
+      "Red bone marrow cells",
+      "Cells lining the lungs"
+    ]
   },
   {
     "id": "m02-007",
@@ -95,7 +125,12 @@
       "Limit deterministic effects only, because the chance of stochastic effects cannot be reduced at all"
     ],
     "answer": "C",
-    "explanation": "Radiation protection aims to completely prevent deterministic effects and to limit the chances of stochastic effects to an acceptable level."
+    "explanation": "Radiation protection aims to completely prevent deterministic effects and to limit the chances of stochastic effects to an acceptable level.",
+    "extraWrong": [
+      "Completely prevent stochastic effects and ignore deterministic effects, which can never occur",
+      "Limit the severity of stochastic effects and the chance of deterministic effects to an acceptable level",
+      "Completely prevent stochastic effects by never exceeding a set safe dose of radiation"
+    ]
   },
   {
     "id": "m02-008",
@@ -109,7 +144,12 @@
       "Transmission"
     ],
     "answer": "D",
-    "explanation": "In transmission the photon passes straight through the matter without touching anything."
+    "explanation": "In transmission the photon passes straight through the matter without touching anything.",
+    "extraWrong": [
+      "Compton effect",
+      "Photoelectric effect",
+      "Ionisation"
+    ]
   },
   {
     "id": "m02-009",
@@ -123,7 +163,12 @@
       "Absorption"
     ],
     "answer": "A",
-    "explanation": "Absorption and scatter is when the photon hits the matter and is deflected with a loss of energy; pure scatter involves no energy loss."
+    "explanation": "Absorption and scatter is when the photon hits the matter and is deflected with a loss of energy; pure scatter involves no energy loss.",
+    "extraWrong": [
+      "Refraction",
+      "Filtration",
+      "Photoelectric effect"
+    ]
   },
   {
     "id": "m02-010",
@@ -137,7 +182,12 @@
       "The organ level"
     ],
     "answer": "B",
-    "explanation": "X-rays originate at the atomic level and also interact with matter at the atomic level."
+    "explanation": "X-rays originate at the atomic level and also interact with matter at the atomic level.",
+    "extraWrong": [
+      "The surface level",
+      "The whole-body level",
+      "The system level"
+    ]
   },
   {
     "id": "m02-011",
@@ -178,5 +228,145 @@
     "question": "Genetic effects are likely to result from dental radiography because the X-ray beam is often aimed at the reproductive organs.",
     "answer": false,
     "explanation": "Genetic effects are very unlikely in dental radiography because the X-ray beam is never aimed at the reproductive organs."
+  },
+  {
+    "id": "m02-016",
+    "module": "m02",
+    "type": "mcq",
+    "question": "What is a single packet of X-ray energy called?",
+    "options": [
+      "An electron",
+      "A photon",
+      "An ion",
+      "A neutron"
+    ],
+    "answer": "B",
+    "explanation": "An X-ray is a packet of energy called a photon, and an X-ray beam contains millions of them.",
+    "extraWrong": [
+      "A proton",
+      "A pixel",
+      "A voxel"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m02-017",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Which interaction occurs when an X-ray photon hits matter and all of its energy is absorbed?",
+    "options": [
+      "Pure scatter",
+      "Transmission",
+      "Absorption",
+      "Absorption and scatter"
+    ],
+    "answer": "C",
+    "explanation": "In absorption the photon hits the matter and all of its energy is absorbed; in absorption and scatter it is deflected with some loss of energy.",
+    "extraWrong": [
+      "Filtration",
+      "Collimation",
+      "Refraction"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m02-018",
+    "module": "m02",
+    "type": "mcq",
+    "question": "How does the severity of damage from somatic stochastic effects relate to the radiation dose?",
+    "options": [
+      "It bears no relation to the radiation dose",
+      "It is proportional to the radiation dose",
+      "It is greatest at the lowest radiation doses",
+      "It depends only on the exposure time used"
+    ],
+    "answer": "A",
+    "explanation": "For stochastic (chance) effects the severity bears no relation to the dose, although a higher dose increases the chance of damage occurring.",
+    "extraWrong": [
+      "It doubles whenever the radiation dose doubles",
+      "It depends only on the kV setting used",
+      "It is fixed by the type of film used"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m02-019",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Which types of electromagnetic radiation have high energy and are classified as ionising radiation?",
+    "options": [
+      "Radio waves and visible light",
+      "Visible light and X-rays",
+      "Radio waves and gamma rays",
+      "X-rays and gamma rays"
+    ],
+    "answer": "D",
+    "explanation": "X-ray and gamma ray photons have high energy compared with other electromagnetic radiation and are classified as ionising radiation; radio waves and visible light are lower energy.",
+    "extraWrong": [
+      "Microwaves and radio waves",
+      "Visible light and gamma rays",
+      "Microwaves and X-rays"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m02-c01",
+    "module": "m02",
+    "type": "mcq",
+    "question": "If an x-ray photon passes straight through the patient without touching them, we say it has been...",
+    "options": [
+      "Absorbed",
+      "Scattered",
+      "Transmitted",
+      "Deflected"
+    ],
+    "answer": "C",
+    "explanation": "X-rays can pass straight through without touching anything. Never stand in the path of the x-ray beam.",
+    "source": "Study card sc1 r3c3"
+  },
+  {
+    "id": "m02-c02",
+    "module": "m02",
+    "type": "mcq",
+    "question": "What type of radiation are x-rays?",
+    "options": [
+      "Alpha radiation",
+      "Electromagnetic radiation",
+      "Beta radiation",
+      "Neutron radiation"
+    ],
+    "answer": "B",
+    "explanation": "X-rays can be thought of as an extremely intense form of light. So strong it can pass through us but also cause damage.",
+    "source": "Study card sc2 r2c3"
+  },
+  {
+    "id": "m02-c03",
+    "module": "m02",
+    "type": "mcq",
+    "question": "How do you sense x-rays and detect them?",
+    "options": [
+      "Hearing",
+      "Sight",
+      "Touch/Temperature",
+      "x-rays cannot be detected by human sense"
+    ],
+    "answer": "D",
+    "explanation": "X-rays are invisible.",
+    "source": "Study card sc3 r5c1"
+  },
+  {
+    "id": "m02-c04",
+    "module": "m02",
+    "type": "mcq",
+    "question": "Which effects of x-rays principally concern the dental profession?",
+    "options": [
+      "Somatic deterministic effects",
+      "Genetic stochastic effects",
+      "Somatic stochastic effects",
+      "Genetic deterministic effects"
+    ],
+    "answer": "C",
+    "explanation": "B = X-ray beam never points at reproductive cells. A + D = doses from dental X-rays aren't strong enough. C = chances of causing damage to cells.",
+    "source": "Study card sc4 r5c2"
   }
 ]

@@ -11,7 +11,12 @@
       "A list of equipment faults"
     ],
     "answer": "A",
-    "explanation": "A QA programme is a system of procedures and checks to ensure radiographs are excellent every time; it is largely 'written down common sense'."
+    "explanation": "A QA programme is a system of procedures and checks to ensure radiographs are excellent every time; it is largely 'written down common sense'.",
+    "extraWrong": [
+      "A set of rules written by the equipment manufacturer",
+      "A replacement for staff training",
+      "A system for patient billing"
+    ]
   },
   {
     "id": "m22-002",
@@ -25,7 +30,12 @@
       "The largest possible field of view"
     ],
     "answer": "B",
-    "explanation": "The definition includes providing adequate diagnostic information at the lowest possible cost and with the least possible exposure of the patient or staff to radiation."
+    "explanation": "The definition includes providing adequate diagnostic information at the lowest possible cost and with the least possible exposure of the patient or staff to radiation.",
+    "extraWrong": [
+      "The highest possible exposure settings",
+      "The greatest number of radiographs per patient",
+      "The most expensive equipment available"
+    ]
   },
   {
     "id": "m22-003",
@@ -39,7 +49,12 @@
       "Clinical governance"
     ],
     "answer": "C",
-    "explanation": "Quality control is the specific measures for ensuring and verifying the quality of the radiographs produced."
+    "explanation": "Quality control is the specific measures for ensuring and verifying the quality of the radiographs produced.",
+    "extraWrong": [
+      "Risk assessment",
+      "Critical examination",
+      "Justification"
+    ]
   },
   {
     "id": "m22-004",
@@ -53,7 +68,12 @@
       "Quality assurance"
     ],
     "answer": "D",
-    "explanation": "Quality assurance is the arrangements to ensure that the quality control procedures are effective and lead to relevant change and improvement."
+    "explanation": "Quality assurance is the arrangements to ensure that the quality control procedures are effective and lead to relevant change and improvement.",
+    "extraWrong": [
+      "Justification",
+      "Critical examination",
+      "Acceptance testing"
+    ]
   },
   {
     "id": "m22-005",
@@ -67,7 +87,12 @@
       "Critical examination"
     ],
     "answer": "B",
-    "explanation": "Quality audit is the process of external reassurance and assessment that QC and QA mechanisms are satisfactory and effective."
+    "explanation": "Quality audit is the process of external reassurance and assessment that QC and QA mechanisms are satisfactory and effective.",
+    "extraWrong": [
+      "Risk assessment",
+      "Justification",
+      "Acceptance testing"
+    ]
   },
   {
     "id": "m22-006",
@@ -89,7 +114,12 @@
       "Reduce the need for staff training"
     ],
     "answer": "C",
-    "explanation": "Reducing the number of repeat radiographs is one of the aims of a QA programme."
+    "explanation": "Reducing the number of repeat radiographs is one of the aims of a QA programme.",
+    "extraWrong": [
+      "Increase the dose to improve contrast",
+      "Replace clinical examination with radiographs",
+      "Reduce the number of quality checks"
+    ]
   },
   {
     "id": "m22-008",
@@ -127,7 +157,12 @@
       "Choice of dental materials"
     ],
     "answer": "A",
-    "explanation": "The main areas of a QA programme include image quality, receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit."
+    "explanation": "The main areas of a QA programme include image quality, receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit.",
+    "extraWrong": [
+      "Staff holiday rotas",
+      "Waiting room decoration",
+      "Practice opening hours"
+    ]
   },
   {
     "id": "m22-012",
@@ -141,7 +176,12 @@
       "Patient payment records"
     ],
     "answer": "D",
-    "explanation": "The main areas are image quality, imaging receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit."
+    "explanation": "The main areas are image quality, imaging receptor/processing/display equipment, patient dose and X-ray equipment, working procedures, staff training and updating, and audit.",
+    "extraWrong": [
+      "Staff training and updating",
+      "Audit",
+      "Imaging receptor, processing and display equipment"
+    ]
   },
   {
     "id": "m22-013",
@@ -155,7 +195,12 @@
       "CBCT imaging only"
     ],
     "answer": "C",
-    "explanation": "Image quality is a main area of the QA programme, covering both digital and film imaging."
+    "explanation": "Image quality is a main area of the QA programme, covering both digital and film imaging.",
+    "extraWrong": [
+      "Panoramic imaging only",
+      "Intra-oral imaging only",
+      "Neither, as only equipment is checked"
+    ]
   },
   {
     "id": "m22-014",
@@ -169,6 +214,121 @@
       "Increase the number of views"
     ],
     "answer": "A",
-    "explanation": "Increasing efficiency is one of the aims of a QA programme, alongside decreasing costs."
+    "explanation": "Increasing efficiency is one of the aims of a QA programme, alongside decreasing costs.",
+    "extraWrong": [
+      "Increase the exposure time",
+      "Increase the number of repeats",
+      "Increase the patient dose"
+    ]
+  },
+  {
+    "id": "m22-015",
+    "module": "m22",
+    "type": "mcq",
+    "question": "What is the coin test used to check?",
+    "options": [
+      "That the X-ray tubehead is not leaking radiation",
+      "That the darkroom and safelight do not fog the film",
+      "That the monitor brightness is correct",
+      "That the processing chemicals are at the right temperature"
+    ],
+    "answer": "B",
+    "explanation": "In the coin test, coins are placed on an unwrapped film under the safelight for a set time and the film is processed; visible coin outlines mean the darkroom or safelight is fogging the film.",
+    "extraWrong": [
+      "That the exposure timer is accurate",
+      "That the phosphor plates are free of scratches",
+      "That the thyroid collar has no cracks"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m22-016",
+    "module": "m22",
+    "type": "mcq",
+    "question": "How is a step-wedge reference film used in film processing quality control?",
+    "options": [
+      "It is used to measure the patient's dose",
+      "It replaces the need to change the chemicals",
+      "It is placed in the patient's mouth to check angulation",
+      "Test films are compared against it to detect deterioration in processing"
+    ],
+    "answer": "D",
+    "explanation": "A reference film of a step wedge is produced when the chemicals are fresh; test films are compared against it regularly to show any deterioration in processing.",
+    "extraWrong": [
+      "It is used to localise unerupted teeth",
+      "It is used to check the operator's dosimeter",
+      "It is used to test the cephalostat ear rods"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m22-017",
+    "module": "m22",
+    "type": "mcq",
+    "question": "What is reject analysis?",
+    "options": [
+      "Recording and reviewing the reasons why radiographs had to be repeated",
+      "Discarding all radiographs older than a year",
+      "Refusing to X-ray patients without a referral",
+      "Checking the X-ray set for radiation leakage"
+    ],
+    "answer": "A",
+    "explanation": "Reject analysis means recording every rejected or repeated radiograph and the reason for it, then reviewing the records to find and correct sources of error.",
+    "extraWrong": [
+      "Destroying out-of-date film stock",
+      "Turning away patients who decline consent",
+      "Sending faulty equipment back to the manufacturer"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m22-018",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which routine quality control check is carried out on phosphor plates?",
+    "options": [
+      "Sterilising them in an autoclave",
+      "Bending them to check their flexibility",
+      "Inspecting them for scratches and damage, and cleaning them",
+      "Storing them in the processing chemicals"
+    ],
+    "answer": "C",
+    "explanation": "Phosphor plates are inspected for scratches and damage and cleaned, because damaged plates produce artefacts on the image.",
+    "extraWrong": [
+      "Soaking them in developer before use",
+      "Folding them to fit smaller mouths",
+      "Heating them to check for warping"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m22-c01",
+    "module": "m22",
+    "type": "mcq",
+    "question": "Which of the following is a key aim of a radiography QA programme?",
+    "options": [
+      "Maintain number of repeat x-rays",
+      "Produce diagnostic radiographs to a consistently high standard",
+      "Ensure radiography doses are kept at a level that's as reasonably practicable",
+      "Document sources of error"
+    ],
+    "answer": "B",
+    "explanation": "Trick was C said 'as reasonably practicable', not as LOW as... Want the best radiographs possible.",
+    "source": "Study card sc2 r5c1"
+  },
+  {
+    "id": "m22-c02",
+    "module": "m22",
+    "type": "mcq",
+    "question": "What are the main area(s) that must be addressed by a radiography quality assurance program?",
+    "options": [
+      "Image quality",
+      "Staff training & updating",
+      "Imaging receptor, processing and display equipment",
+      "All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Quality assurance program must cover all aspects of dental radiography.",
+    "source": "Study card sc5 r5c3"
   }
 ]

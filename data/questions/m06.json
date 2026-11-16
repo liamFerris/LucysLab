@@ -11,7 +11,12 @@
       "Intensifying screen"
     ],
     "answer": "B",
-    "explanation": "Solid-state ('corded') receptors are electronic and produce an instantaneous image by converting X-ray energy into electrical signals."
+    "explanation": "Solid-state ('corded') receptors are electronic and produce an instantaneous image by converting X-ray energy into electrical signals.",
+    "extraWrong": [
+      "Direct-action film",
+      "Lead foil sheet",
+      "Rare-earth screen"
+    ]
   },
   {
     "id": "m06-002",
@@ -25,7 +30,12 @@
       "It is viewed directly on a light box"
     ],
     "answer": "A",
-    "explanation": "Phosphor plates store the image, which is then scanned by a laser reader that converts it into electrical signals to build the digital image."
+    "explanation": "Phosphor plates store the image, which is then scanned by a laser reader that converts it into electrical signals to build the digital image.",
+    "extraWrong": [
+      "It is fixed in fixer solution",
+      "It is placed between two intensifying screens",
+      "It is converted by the step-up transformer"
+    ]
   },
   {
     "id": "m06-003",
@@ -47,7 +57,12 @@
       "The speed rating of the sensor"
     ],
     "answer": "C",
-    "explanation": "2D digital images are made of pixels, and the size of each pixel influences the resolution of the final image."
+    "explanation": "2D digital images are made of pixels, and the size of each pixel influences the resolution of the final image.",
+    "extraWrong": [
+      "The colour of the outer wrapper",
+      "The temperature of the developer",
+      "The thickness of the lead foil"
+    ]
   },
   {
     "id": "m06-005",
@@ -61,7 +76,12 @@
       "Sensors may be bulky and easily damaged"
     ],
     "answer": "D",
-    "explanation": "Digital sensors may be bulky and easily damaged, and systems can be expensive; the other options are advantages."
+    "explanation": "Digital sensors may be bulky and easily damaged, and systems can be expensive; the other options are advantages.",
+    "extraWrong": [
+      "Elimination of chemical film processing",
+      "Automated analysis of the image",
+      "Sensors available in sizes comparable to film"
+    ]
   },
   {
     "id": "m06-006",
@@ -83,7 +103,12 @@
       "Because digital images cannot be archived"
     ],
     "answer": "A",
-    "explanation": "The ease with which digital radiographs can be retaken means every retake must be justified, recorded and included in QA statistics."
+    "explanation": "The ease with which digital radiographs can be retaken means every retake must be justified, recorded and included in QA statistics.",
+    "extraWrong": [
+      "Because digital images cannot be altered",
+      "Because sensors must be replaced after each retake",
+      "Because digital retakes use no radiation"
+    ]
   },
   {
     "id": "m06-008",
@@ -97,7 +122,12 @@
       "Emulsions"
     ],
     "answer": "C",
-    "explanation": "CBCT images are made up of tiny cubes called voxels, which are much the same as pixels in 2D images and are reconstructed by computer."
+    "explanation": "CBCT images are made up of tiny cubes called voxels, which are much the same as pixels in 2D images and are reconstructed by computer.",
+    "extraWrong": [
+      "Photons",
+      "Electrons",
+      "Ions"
+    ]
   },
   {
     "id": "m06-009",
@@ -111,7 +141,12 @@
       "All are the same speed"
     ],
     "answer": "B",
-    "explanation": "D, E and F refer to film speed, with F being the fastest type."
+    "explanation": "D, E and F refer to film speed, with F being the fastest type.",
+    "extraWrong": [
+      "A speed",
+      "B speed",
+      "C speed"
+    ]
   },
   {
     "id": "m06-010",
@@ -125,7 +160,12 @@
       "To stop X-rays passing through and reduce scatter"
     ],
     "answer": "D",
-    "explanation": "The lead foil helps stop X-rays passing through the film into the other side of the patient and helps prevent scattered photons reducing image quality."
+    "explanation": "The lead foil helps stop X-rays passing through the film into the other side of the patient and helps prevent scattered photons reducing image quality.",
+    "extraWrong": [
+      "To colour-code the film by its speed",
+      "To speed up chemical processing of the film",
+      "To convert the image into electrical signals"
+    ]
   },
   {
     "id": "m06-011",
@@ -147,7 +187,12 @@
       "Its emulsion does not need any chemical processing"
     ],
     "answer": "C",
-    "explanation": "The emulsion of indirect-action film is sensitive to various colours of light rather than X-rays, so screens are needed to convert the X-rays into light."
+    "explanation": "The emulsion of indirect-action film is sensitive to various colours of light rather than X-rays, so screens are needed to convert the X-rays into light.",
+    "extraWrong": [
+      "Its emulsion produces an instant digital image",
+      "Its emulsion is sensitive only to X-rays",
+      "Its emulsion is protected by a lead foil sheet"
+    ]
   },
   {
     "id": "m06-013",
@@ -161,7 +206,12 @@
       "Ultraviolet"
     ],
     "answer": "A",
-    "explanation": "Calcium tungstate phosphors emit blue light; rare earth phosphors emit green, ultraviolet or red light."
+    "explanation": "Calcium tungstate phosphors emit blue light; rare earth phosphors emit green, ultraviolet or red light.",
+    "extraWrong": [
+      "Yellow",
+      "Orange",
+      "White"
+    ]
   },
   {
     "id": "m06-014",
@@ -183,7 +233,12 @@
       "Makes the latent image sensitive to light"
     ],
     "answer": "B",
-    "explanation": "Fixer removes all the unsensitised emulsion to reveal the clear/white base underneath; it is the developer that produces black metallic silver."
+    "explanation": "Fixer removes all the unsensitised emulsion to reveal the clear/white base underneath; it is the developer that produces black metallic silver.",
+    "extraWrong": [
+      "Increases the speed rating of the film",
+      "Coats the film in green emulsion",
+      "Scans the latent image with a laser"
+    ]
   },
   {
     "id": "m06-016",
@@ -197,7 +252,12 @@
       "Covered in star artefacts"
     ],
     "answer": "C",
-    "explanation": "Inadequately fixed films may look greenish-yellow or milky because emulsion has been left behind, and may turn brown over time."
+    "explanation": "Inadequately fixed films may look greenish-yellow or milky because emulsion has been left behind, and may turn brown over time.",
+    "extraWrong": [
+      "Covered in fingerprint marks",
+      "Blurred from patient movement",
+      "Marked with a herringbone pattern"
+    ]
   },
   {
     "id": "m06-017",
@@ -235,6 +295,95 @@
       "mA and exposure time"
     ],
     "answer": "D",
-    "explanation": "mA and time control the quantity of X-ray photons; increasing them increases the blackening of the film."
+    "explanation": "mA and time control the quantity of X-ray photons; increasing them increases the blackening of the film.",
+    "extraWrong": [
+      "Film speed and screen type",
+      "Pixel size and resolution",
+      "Developer time and temperature"
+    ]
+  },
+  {
+    "id": "m06-021",
+    "module": "m06",
+    "type": "mcq",
+    "question": "What is the cylindrical or spherical part of the patient imaged by a CBCT machine called?",
+    "options": [
+      "The focus-to-skin distance",
+      "The field of view (FOV)",
+      "The controlled area",
+      "The latent image"
+    ],
+    "answer": "B",
+    "explanation": "The CBCT machine images a cylindrical or spherical part of the patient called the field of view (FOV).",
+    "extraWrong": [
+      "The intensifying screen",
+      "The phosphor plate",
+      "The film packet"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m06-022",
+    "module": "m06",
+    "type": "mcq",
+    "question": "Why is one corner of the plastic film in an intra-oral film packet embossed?",
+    "options": [
+      "To show the speed of the film",
+      "To stop scattered X-rays",
+      "For orientation when viewing",
+      "To hold the emulsion in place"
+    ],
+    "answer": "C",
+    "explanation": "The plastic film is embossed on one corner so it can be orientated correctly when viewing.",
+    "extraWrong": [
+      "To mark where the patient's name goes",
+      "To let the fixer solution drain off",
+      "To make the film fit the holder"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m06-023",
+    "module": "m06",
+    "type": "mcq",
+    "question": "What do intensifying screens consist of?",
+    "options": [
+      "Thin sheets of embossed lead foil",
+      "Layers of black paper and green emulsion",
+      "Tungsten wire set into a copper block",
+      "Fluorescent phosphors in a plastic matrix"
+    ],
+    "answer": "D",
+    "explanation": "Intensifying screens consist of fluorescent phosphors, such as calcium tungstate or rare earth materials, embedded in a plastic matrix.",
+    "extraWrong": [
+      "Aluminium filters coated in silver",
+      "Electronic sensors linked by a cable",
+      "Clear plastic barrier envelopes"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m06-024",
+    "module": "m06",
+    "type": "tf",
+    "question": "Instant process films should be used routinely for all intra-oral radiographs.",
+    "answer": false,
+    "explanation": "Instant process films should be limited to specific essential situations, such as during surgery or endodontics.",
+    "source": "generated"
+  },
+  {
+    "id": "m06-c01",
+    "module": "m06",
+    "type": "mcq",
+    "question": "What type of receptor requires the least amount of radiation to create a radiographic image?",
+    "options": [
+      "High-speed film receptor",
+      "Digital receptor",
+      "Intensifying screen film receptor",
+      "Low-speed film receptor"
+    ],
+    "answer": "B",
+    "explanation": "Lowest amount of radiation = lowest dose to patient. Recommendations always say use digital.",
+    "source": "Study card sc1 r5c2"
   }
 ]

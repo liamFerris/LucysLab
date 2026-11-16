@@ -13,8 +13,8 @@
   try { data = await Lab.loadAll(); }
   catch (err) { Lab.showLoadError($('climbMain'), err); return; }
   const { moduleById } = data;
-  // Lifelines need four options, so this mode uses the multiple-choice questions only.
-  const pool = data.questions.filter((q) => q.type === 'mcq' && q.options.length === 4);
+  // Lifelines need four options, so this mode uses multiple-choice questions with at least 3 wrong answers.
+  const pool = data.questions.filter((q) => q.type === 'mcq' && q.wrong.length >= 3);
 
   const views = { intro: $('climbIntro'), game: $('climbGame'), end: $('climbEnd') };
   const lifelineBtns = { half: $('llHalf'), poll: $('llPoll'), chris: $('llChris') };
@@ -37,7 +37,7 @@
 
   function start() {
     s = {
-      questions: Lab.shuffle(pool).slice(0, PRIZES.length),
+      questions: Lab.shuffle(pool).slice(0, PRIZES.length).map(Lab.deal),
       level: 0,
       selected: null,
       removed: new Set(),

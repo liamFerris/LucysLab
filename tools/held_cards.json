@@ -1,0 +1,127 @@
+[
+  {
+    "card": "sc1-r2c1",
+    "reason": "Marks incorrect horizontal angulation; an image off to one side sounds more like the beam being incorrectly centred",
+    "module": "m13",
+    "question": {
+      "type": "mcq",
+      "question": "If a bitewing image appears off to one side then the cause of error is...",
+      "options": [
+        "Beam incorrectly centered",
+        "Incorrect horizontal angulation",
+        "Incorrect vertical angulation",
+        "Patient has moved"
+      ],
+      "answer": "B",
+      "explanation": "Incorrect horizontal angulation of the tubehead is an operator-dependent bitewing error; using a beam-aiming device avoids it.",
+      "source": "Study card sc1 r2c1"
+    },
+    "marked": [
+      "B"
+    ],
+    "issues": [
+      "doubtful answer: an image 'off to one side' sounds more like the beam being incorrectly centred (A, cf. coning off); notes link horizontal angulation errors to overlapped contacts, not an off-centre image. Card's answer B kept"
+    ]
+  },
+  {
+    "card": "sc1-r2c2",
+    "reason": "Two answers marked (panoramics and periapicals); the app supports one correct answer",
+    "module": "m25",
+    "question": {
+      "type": "mcq",
+      "question": "What type of xrays would show cysts, benign bone tumors & malignant bone tumors?",
+      "options": [
+        "Bitewings",
+        "Panoramics",
+        "Periapicals"
+      ],
+      "answer": null,
+      "explanation": "Cysts and bone tumours of the jaws can be seen on panoramic radiographs and periapicals, which show the bone around and beyond the tooth apices.",
+      "source": "Study card sc1 r2c2"
+    },
+    "marked": [
+      "B",
+      "C"
+    ],
+    "issues": [
+      "two answers marked (B and C ticked, card says '2 answers'); answer set to null",
+      "notes (m25) don't name which views show these lesions, so not checked against notes"
+    ]
+  },
+  {
+    "card": "sc2-r3c2",
+    "reason": "Two answers marked (panoramics and periapicals); the app supports one correct answer",
+    "module": "m08",
+    "question": {
+      "type": "mcq",
+      "question": "What type of xrays would show impacted third molars & other unerupted teeth?",
+      "options": [
+        "Panoramics",
+        "Bitewings",
+        "Periapicals"
+      ],
+      "answer": null,
+      "explanation": "Two answers.",
+      "source": "Study card sc2 r3c2"
+    },
+    "marked": [
+      "A",
+      "C"
+    ],
+    "issues": [
+      "two answers ticked (A and C), card says 'Two answers'; no letter circled",
+      "back note is only '* Two answers *', no real explanation",
+      "notes (m16) cover panoramics for third molars/unerupted teeth but don't mention periapicals for this"
+    ]
+  },
+  {
+    "card": "sc4-r4c2",
+    "reason": "Two answers marked (bitewings and periapicals); the app supports one correct answer",
+    "module": "m13",
+    "question": {
+      "type": "mcq",
+      "question": "What type of x-rays would show caries, periodontal & periapical disease?",
+      "options": [
+        "Bitewings",
+        "Periapicals",
+        "Panoramics"
+      ],
+      "answer": null,
+      "explanation": "Bitewings are used to detect caries and assess periodontal status; periapicals also show the periapical tissues.",
+      "source": "Study card sc4 r4c2"
+    },
+    "marked": [
+      "A",
+      "B"
+    ],
+    "issues": [
+      "2 answers marked (A and B ticked, back says '* 2 Answers *'); answer set to null",
+      "bitewings don't show periapical disease, so neither single answer covers all three conditions; panoramics also show all three"
+    ]
+  },
+  {
+    "card": "sc5-r2c3",
+    "reason": "Marks only mA, but the notes say exposure time also increases blackening, so Time is arguably correct too",
+    "module": "m03",
+    "question": {
+      "type": "mcq",
+      "question": "What x-ray set variable affects the degree of blackening of the radiograph image?",
+      "options": [
+        "mA",
+        "Time",
+        "kV",
+        "P"
+      ],
+      "answer": "A",
+      "explanation": "mA controls quantity of x-ray photons in the beam. The more photons hit the image receptor, the more blackening of the final image.",
+      "source": "Study card sc5 r2c3"
+    },
+    "marked": [
+      "A"
+    ],
+    "issues": [
+      "notes say increasing mA AND time increases blackening, so B (Time) is also arguably correct; card marks only A",
+      "option D 'P' is unclear (meaning not stated)"
+    ]
+  }
+]

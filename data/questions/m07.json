@@ -11,7 +11,12 @@
       "Classification"
     ],
     "answer": "C",
-    "explanation": "Justification means the benefits of any medical radiation exposure must outweigh the risks."
+    "explanation": "Justification means the benefits of any medical radiation exposure must outweigh the risks.",
+    "extraWrong": [
+      "Calibration",
+      "Collimation",
+      "Designation"
+    ]
   },
   {
     "id": "m07-002",
@@ -25,7 +30,12 @@
       "As Long As Risks are Proportionate"
     ],
     "answer": "A",
-    "explanation": "Optimisation requires the dose to be As Low As Reasonably Practicable (ALARP)."
+    "explanation": "Optimisation requires the dose to be As Low As Reasonably Practicable (ALARP).",
+    "extraWrong": [
+      "As Little As Required for Practice",
+      "Always Limit All Radiation Promptly",
+      "As Low As Regularly Possible"
+    ]
   },
   {
     "id": "m07-003",
@@ -35,11 +45,16 @@
     "options": [
       "1 mSv per year",
       "0.3 mSv per year",
-      "0.1 mSv per visit",
+      "0.6 mSv per year",
       "0.5 mSv per year"
     ],
     "answer": "B",
-    "explanation": "Guidance notes recommend a strict dose constraint of 0.3 mSv for dental staff involved in radiography."
+    "explanation": "Guidance notes recommend a strict dose constraint of 0.3 mSv for dental staff involved in radiography.",
+    "extraWrong": [
+      "2.7 mSv per year",
+      "5 mSv per year",
+      "10 mSv per year"
+    ]
   },
   {
     "id": "m07-005",
@@ -69,7 +84,12 @@
       "Readings from a personal monitoring device"
     ],
     "answer": "B",
-    "explanation": "Clinical judgement is the dentist's responsibility, and they should use 'Selection Criteria for Dental Radiography' to help them."
+    "explanation": "Clinical judgement is the dentist's responsibility, and they should use 'Selection Criteria for Dental Radiography' to help them.",
+    "extraWrong": [
+      "The patient's own preference alone",
+      "A random selection of patients",
+      "The practice's retake statistics"
+    ]
   },
   {
     "id": "m07-008",
@@ -83,7 +103,12 @@
       "250 mm"
     ],
     "answer": "C",
-    "explanation": "Equipment recommendations include a long fsd of 200 mm."
+    "explanation": "Equipment recommendations include a long fsd of 200 mm.",
+    "extraWrong": [
+      "50 mm",
+      "400 mm",
+      "500 mm"
+    ]
   },
   {
     "id": "m07-009",
@@ -97,7 +122,12 @@
       "Open-ended"
     ],
     "answer": "A",
-    "explanation": "Recommended X-ray sets use rectangular collimation, along with 70 kV, aluminium filtration and a 200 mm fsd."
+    "explanation": "Recommended X-ray sets use rectangular collimation, along with 70 kV, aluminium filtration and a 200 mm fsd.",
+    "extraWrong": [
+      "Triangular",
+      "Oval",
+      "Hexagonal"
+    ]
   },
   {
     "id": "m07-010",
@@ -119,7 +149,12 @@
       "Only if the beam is aimed at the pelvis"
     ],
     "answer": "D",
-    "explanation": "No special measures are needed unless the beam is aimed at the pelvis, which is highly unlikely in routine dental practice; a lead apron may be offered for peace of mind."
+    "explanation": "No special measures are needed unless the beam is aimed at the pelvis, which is highly unlikely in routine dental practice; a lead apron may be offered for peace of mind.",
+    "extraWrong": [
+      "Only when a panoramic radiograph is taken",
+      "Only if the patient is over 35 years old",
+      "Always, by doubling the exposure time"
+    ]
   },
   {
     "id": "m07-012",
@@ -133,7 +168,12 @@
       "At least 3 m"
     ],
     "answer": "A",
-    "explanation": "The Golden Rules state the operator should always stand at least 1.5 m away from the X-ray equipment."
+    "explanation": "The Golden Rules state the operator should always stand at least 1.5 m away from the X-ray equipment.",
+    "extraWrong": [
+      "At least 0.25 m",
+      "At least 5 m",
+      "At least 10 m"
+    ]
   },
   {
     "id": "m07-013",
@@ -155,7 +195,12 @@
       "Wait to tell the RPA at their next visit"
     ],
     "answer": "B",
-    "explanation": "A duty of employees is to report any incident or accident to their employer immediately."
+    "explanation": "A duty of employees is to report any incident or accident to their employer immediately.",
+    "extraWrong": [
+      "Keep it to themselves unless asked",
+      "Tell the patient to report it to the police",
+      "Wait until the end of the working week"
+    ]
   },
   {
     "id": "m07-015",
@@ -169,7 +214,12 @@
       "Removing lead aprons from the surgery"
     ],
     "answer": "C",
-    "explanation": "Employers must consult an RPA, designate the controlled area, have contingency plans and ensure staff are informed, instructed and trained."
+    "explanation": "Employers must consult an RPA, designate the controlled area, have contingency plans and ensure staff are informed, instructed and trained.",
+    "extraWrong": [
+      "Allowing staff to stand in the main beam",
+      "Asking staff to hold the image receptor",
+      "Letting staff skip radiation training"
+    ]
   },
   {
     "id": "m07-016",
@@ -178,5 +228,134 @@
     "question": "Optimisation is the dose limitation principle stating that the benefits of an exposure must outweigh the risks.",
     "answer": false,
     "explanation": "That is justification; optimisation means keeping the dose As Low As Reasonably Practicable (ALARP)."
+  },
+  {
+    "id": "m07-017",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Which dose limitation principle states that dose limits must not be exceeded?",
+    "options": [
+      "Justification",
+      "Limitation",
+      "Optimisation",
+      "Calibration"
+    ],
+    "answer": "B",
+    "explanation": "Limitation means dose limits must not be exceeded; justification weighs benefits against risks, and optimisation keeps doses ALARP.",
+    "extraWrong": [
+      "Collimation",
+      "Designation",
+      "Classification"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m07-018",
+    "module": "m07",
+    "type": "mcq",
+    "question": "During intra-oral radiography, what should be used to produce geometrically accurate images and avoid retakes?",
+    "options": [
+      "Image receptor holders with beam-aiming devices",
+      "A staff member holding the receptor in place",
+      "A longer exposure time than usual",
+      "A lead apron over the patient's chest"
+    ],
+    "answer": "A",
+    "explanation": "Image receptor holders with beam-aiming devices help produce geometrically accurate intra-oral images, so radiographs do not have to be retaken.",
+    "extraWrong": [
+      "Instant process films",
+      "Higher mA settings",
+      "Removing the spacer cone"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m07-019",
+    "module": "m07",
+    "type": "mcq",
+    "question": "What are the three main ways of reducing the radiation dose to patients and staff?",
+    "options": [
+      "Lead aprons, thyroid collars and screens",
+      "Film speed, kV and exposure time",
+      "Developer, fixer and processing temperature",
+      "Clinical judgement, equipment and radiographic technique"
+    ],
+    "answer": "D",
+    "explanation": "The three main ways of reducing dose are clinical judgement, equipment, and radiographic technique.",
+    "extraWrong": [
+      "Pixels, voxels and phosphor plates",
+      "Oil, copper and aluminium",
+      "Patient age, sex and weight"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m07-020",
+    "module": "m07",
+    "type": "tf",
+    "question": "Under the Golden Rules, the operator may stand in the line of the main beam as long as they are at least 1.5 m from the X-ray equipment.",
+    "answer": false,
+    "explanation": "The Golden Rules say never stand in the line of the main beam, whatever the distance from the equipment.",
+    "source": "generated"
+  },
+  {
+    "id": "m07-c01",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Under what circumstances can the operator hold the x-ray tubehead during an exposure?",
+    "options": [
+      "When instructed to do so by the practitioner",
+      "If tubehead is not stable",
+      "Under NO circumstances",
+      "With patients who cannot remain still throughout exposure"
+    ],
+    "answer": "C",
+    "explanation": "One of the Golden Rules!",
+    "source": "Study card sc2 r4c2"
+  },
+  {
+    "id": "m07-c02",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Which of the following is considered a routine radiation protection measure in dentistry?",
+    "options": [
+      "All staff stand outside controlled area during exposure",
+      "All staff stand beside patient",
+      "All staff stand in line of beam",
+      "All staff stand behind a lead lined wall"
+    ],
+    "answer": "A",
+    "explanation": "READ THE QUESTION! The routine measure is for all staff to stand outside the controlled area during exposures.",
+    "source": "Study card sc3 r2c3"
+  },
+  {
+    "id": "m07-c03",
+    "module": "m07",
+    "type": "mcq",
+    "question": "What is the annual, recommended dose constraint for dental staff involved in radiography?",
+    "options": [
+      "0.3mSv",
+      "0.6mSv",
+      "6mSv",
+      "20mSv"
+    ],
+    "answer": "A",
+    "explanation": "The law sets a dose limit for workers of 20 mSv a year, but the guidance notes recommend a stricter dose constraint of 0.3 mSv a year for dental staff.",
+    "source": "Study card sc5 r3c1"
+  },
+  {
+    "id": "m07-c04",
+    "module": "m07",
+    "type": "mcq",
+    "question": "Why must we use a shield when x-ray beam is pointed at the patient's thyroid gland?",
+    "options": [
+      "Thyroid gland absorbs x-rays at a higher rate than other tissues",
+      "Dental x-rays can lead to xerostomia",
+      "Thyroid gland is particularly sensitive to radiation damage",
+      "Dental x-rays can affect thyroxine production"
+    ],
+    "answer": "C",
+    "explanation": "The thyroid gland is the radiation-sensitive tissue nearest to the area exposed in dental radiography, so it is shielded when it lies in the beam.",
+    "source": "Study card sc6 r2c2"
   }
 ]

@@ -11,7 +11,12 @@
       "Perpendicular to the bisecting line"
     ],
     "answer": "D",
-    "explanation": "The beam is aimed perpendicular to an imaginary line which bisects the angle between the long axes of the image receptor and the tooth."
+    "explanation": "The beam is aimed perpendicular to an imaginary line which bisects the angle between the long axes of the image receptor and the tooth.",
+    "extraWrong": [
+      "Perpendicular to the long axis of the tooth",
+      "Parallel to the long axis of the receptor",
+      "Downwards at between 5° and 8°"
+    ]
   },
   {
     "id": "m12-002",
@@ -25,7 +30,12 @@
       "The angle between the receptor and occlusal plane"
     ],
     "answer": "A",
-    "explanation": "The line bisects the angle between the long axis of the image receptor and the long axis of the tooth."
+    "explanation": "The line bisects the angle between the long axis of the image receptor and the long axis of the tooth.",
+    "extraWrong": [
+      "The angle between the beam and the receptor",
+      "The angle between the palate and the floor",
+      "The angle between two adjacent teeth"
+    ]
   },
   {
     "id": "m12-003",
@@ -39,7 +49,12 @@
       "When a long focus-to-skin distance is used"
     ],
     "answer": "B",
-    "explanation": "In some cases the receptor cannot be placed parallel to the tooth, so the bisected angle technique is used to prevent geometrical distortion."
+    "explanation": "In some cases the receptor cannot be placed parallel to the tooth, so the bisected angle technique is used to prevent geometrical distortion.",
+    "extraWrong": [
+      "When periodontal bone levels must be clear",
+      "When reproducible images are required",
+      "When approximal caries must be detected"
+    ]
   },
   {
     "id": "m12-004",
@@ -53,7 +68,12 @@
       "Zygomatic shadow over the molar roots"
     ],
     "answer": "C",
-    "explanation": "Incorrect vertical angulation results in elongation or foreshortening of the image."
+    "explanation": "Incorrect vertical angulation results in elongation or foreshortening of the image.",
+    "extraWrong": [
+      "Star artefacts across the image",
+      "Poor contrast between enamel and dentine",
+      "Blurring from a moving tubehead"
+    ]
   },
   {
     "id": "m12-005",
@@ -67,7 +87,12 @@
       "Poorly shown periodontal bone"
     ],
     "answer": "A",
-    "explanation": "Incorrect horizontal angulation results in overlapping of crowns and roots."
+    "explanation": "Incorrect horizontal angulation results in overlapping of crowns and roots.",
+    "extraWrong": [
+      "Foreshortening of the whole image",
+      "Star artefacts from restorations",
+      "Zygomatic shadow over the incisors"
+    ]
   },
   {
     "id": "m12-006",
@@ -81,7 +106,12 @@
       "The zygomatic bone"
     ],
     "answer": "D",
-    "explanation": "The shadow of the zygomatic bone is superimposed over the roots of the upper molars, and the buccal roots are foreshortened."
+    "explanation": "The shadow of the zygomatic bone is superimposed over the roots of the upper molars, and the buccal roots are foreshortened.",
+    "extraWrong": [
+      "The hyoid bone",
+      "The mental foramen",
+      "The cervical spine"
+    ]
   },
   {
     "id": "m12-007",
@@ -95,7 +125,12 @@
       "Failed implants"
     ],
     "answer": "A",
-    "explanation": "The crowns are distorted, which prevents detection of approximal caries."
+    "explanation": "The crowns are distorted, which prevents detection of approximal caries.",
+    "extraWrong": [
+      "Periapical cysts",
+      "Root shape before extraction",
+      "Retained root fragments"
+    ]
   },
   {
     "id": "m12-008",
@@ -109,7 +144,12 @@
       "Coning off is avoided"
     ],
     "answer": "B",
-    "explanation": "Positioning is relatively simple and the technique is reasonably comfortable; the other options are not true of this technique."
+    "explanation": "Positioning is relatively simple and the technique is reasonably comfortable; the other options are not true of this technique.",
+    "extraWrong": [
+      "Crowns are shown without distortion",
+      "Images are geometrically accurate",
+      "Approximal caries are easily detected"
+    ]
   },
   {
     "id": "m12-009",
@@ -123,7 +163,12 @@
       "Unsuitable for any diagnostic purpose"
     ],
     "answer": "C",
-    "explanation": "If all angulations are correctly assessed, the image should be adequate, but not ideal, for most diagnostic purposes."
+    "explanation": "If all angulations are correctly assessed, the image should be adequate, but not ideal, for most diagnostic purposes.",
+    "extraWrong": [
+      "Perfect for monitoring caries",
+      "Free of any foreshortening",
+      "Better than a paralleling image"
+    ]
   },
   {
     "id": "m12-010",
@@ -137,7 +182,12 @@
       "Large receptor, long axis horizontal"
     ],
     "answer": "D",
-    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal."
+    "explanation": "For posterior teeth, a large phosphor plate or film packet is inserted with its long axis horizontal.",
+    "extraWrong": [
+      "Occlusal receptor, long axis vertical",
+      "Two small receptors side by side",
+      "Extra-oral cassette, long axis vertical"
+    ]
   },
   {
     "id": "m12-011",
@@ -170,5 +220,107 @@
     "question": "With the bisected angle technique, both the horizontal and vertical angles have to be assessed.",
     "answer": true,
     "explanation": "Both angles have to be assessed, and this is one of the variables that can cause a distorted image."
+  },
+  {
+    "id": "m12-015",
+    "module": "m12",
+    "type": "mcq",
+    "question": "Which of these is a clinical indication for periapical radiography?",
+    "options": [
+      "Before, during and after endodontics",
+      "Imaging the whole skull from the side",
+      "Imaging both jaws and the TMJs on one image",
+      "Imaging only the crowns of the posterior teeth"
+    ],
+    "answer": "A",
+    "explanation": "Indications include detecting apical infection, assessing periodontal status, after trauma, assessing roots before extractions, before, during and after endodontics, before and after apical surgery, and evaluating implants.",
+    "extraWrong": [
+      "Producing 3D slices in three planes",
+      "Imaging the hand and wrist",
+      "Imaging the cervical spine"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m12-016",
+    "module": "m12",
+    "type": "mcq",
+    "question": "For a bisected angle periapical of anterior teeth, which receptor is used and how is it orientated?",
+    "options": [
+      "Small receptor, long axis horizontal",
+      "Large receptor, long axis horizontal",
+      "Small or large receptor, long axis vertical",
+      "Two receptors side by side, horizontal"
+    ],
+    "answer": "C",
+    "explanation": "For anterior teeth, a small or large intra-oral phosphor plate or film packet is inserted with its long axis vertical.",
+    "extraWrong": [
+      "Extra-oral cassette, long axis vertical",
+      "Occlusal receptor, long axis horizontal",
+      "Small receptor, angled at 45°"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m12-017",
+    "module": "m12",
+    "type": "mcq",
+    "question": "Why do bisected angle periapicals frequently produce distorted images?",
+    "options": [
+      "A long focus-to-skin distance is used",
+      "The receptor is parallel to the tooth",
+      "The beam aiming device fixes the tubehead",
+      "There are many variables in the technique"
+    ],
+    "answer": "D",
+    "explanation": "The many variables in the bisected angle technique can frequently result in a distorted image, and both the horizontal and vertical angles have to be assessed.",
+    "extraWrong": [
+      "The receptor is held firmly by a holder",
+      "The exposure time is too short",
+      "The voxel size is too large"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m12-018",
+    "module": "m12",
+    "type": "tf",
+    "question": "The bisected angle technique is reasonably comfortable for the patient.",
+    "answer": true,
+    "explanation": "Being reasonably comfortable is one of the advantages of the bisected angle technique, along with relatively simple positioning.",
+    "source": "generated"
+  },
+  {
+    "id": "m12-c01",
+    "module": "m12",
+    "type": "tf",
+    "question": "Bisected angle technique periapical radiographs involve positioning the x-ray tubehead so the main beam meets the image receptor at right angles?",
+    "answer": false,
+    "explanation": "Don't want right angles. The beam should meet the bisecting line at right angles (imaginary line between the image receptor & tooth).",
+    "source": "Study card sc2 r3c1"
+  },
+  {
+    "id": "m12-c02",
+    "module": "m12",
+    "type": "mcq",
+    "question": "When taking a bisected angle technique periapical, at what angle should the main beam hit the image receptor?",
+    "options": [
+      "Main beam should be parallel to the image receptor",
+      "Position tubehead so main beam hits image receptor at right angles",
+      "Image receptor is perpendicular to main beam",
+      "Angle depends on alignment of image receptor & tooth"
+    ],
+    "answer": "D",
+    "explanation": "Don't want right angles, different for each patient.",
+    "source": "Study card sc3 r2c1"
+  },
+  {
+    "id": "m12-c03",
+    "module": "m12",
+    "type": "tf",
+    "question": "An advantage of the bisected angle technique is that it is possible to obtain reproducible views?",
+    "answer": false,
+    "explanation": "Position of image receptor & tubehead are estimated by eye - impossible to make exact reproductions.",
+    "source": "Study card sc6 r1c1"
   }
 ]

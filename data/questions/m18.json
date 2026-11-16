@@ -11,7 +11,12 @@
       "Extra-oral techniques with the receptor behind the head"
     ],
     "answer": "A",
-    "explanation": "Occlusal radiography covers intra-oral techniques where the image receptor is placed in the occlusal plane."
+    "explanation": "Occlusal radiography covers intra-oral techniques where the image receptor is placed in the occlusal plane.",
+    "extraWrong": [
+      "Extra-oral techniques with the receptor under the chin",
+      "Intra-oral techniques using a CCD sensor held upright",
+      "Extra-oral techniques with the receptor above the head"
+    ]
   },
   {
     "id": "m18-002",
@@ -33,7 +38,12 @@
       "Lower oblique occlusal"
     ],
     "answer": "B",
-    "explanation": "The maxillary occlusal projections are the upper standard occlusal and the upper oblique occlusal."
+    "explanation": "The maxillary occlusal projections are the upper standard occlusal and the upper oblique occlusal.",
+    "extraWrong": [
+      "Bitewing projection",
+      "Oblique lateral",
+      "Panoramic tomograph"
+    ]
   },
   {
     "id": "m18-004",
@@ -55,7 +65,12 @@
       "30°–35°"
     ],
     "answer": "C",
-    "explanation": "The tubehead is above the patient in the midline, aiming downwards at 65°–70° to the receptor."
+    "explanation": "The tubehead is above the patient in the midline, aiming downwards at 65°–70° to the receptor.",
+    "extraWrong": [
+      "50°",
+      "15°–20°",
+      "0°"
+    ]
   },
   {
     "id": "m18-006",
@@ -69,7 +84,12 @@
       "Long axis crossways"
     ],
     "answer": "D",
-    "explanation": "The receptor goes in with the long axis crossways in adults and antero-posteriorly in children."
+    "explanation": "The receptor goes in with the long axis crossways in adults and antero-posteriorly in children.",
+    "extraWrong": [
+      "Folded across the palate",
+      "Upright behind the upper incisors",
+      "Outside the mouth against the lip"
+    ]
   },
   {
     "id": "m18-007",
@@ -83,7 +103,12 @@
       "An occlusal receptor, with the beam at 70°"
     ],
     "answer": "A",
-    "explanation": "For small children a periapical film or plate is placed flat in the occlusal plane and the beam is angled at 50°."
+    "explanation": "For small children a periapical film or plate is placed flat in the occlusal plane and the beam is angled at 50°.",
+    "extraWrong": [
+      "A CCD sensor, with the beam at 50°",
+      "An occlusal receptor, with the beam at 45°",
+      "A periapical receptor, with the beam at 90°"
+    ]
   },
   {
     "id": "m18-008",
@@ -97,7 +122,12 @@
       "Assessing mandibular tori"
     ],
     "answer": "B",
-    "explanation": "The upper standard occlusal is used in orthodontic assessment to detect unerupted canines, supernumeraries and odontomes."
+    "explanation": "The upper standard occlusal is used in orthodontic assessment to detect unerupted canines, supernumeraries and odontomes.",
+    "extraWrong": [
+      "Assessing vertical displacement of mandibular fractures",
+      "Assessing bucco-lingual expansion of mandibular lesions",
+      "Assessing implant sites in the mandible"
+    ]
   },
   {
     "id": "m18-009",
@@ -119,7 +149,12 @@
       "All posterior teeth on one side should be included"
     ],
     "answer": "C",
-    "explanation": "For the upper standard occlusal, first and second molars should be included and right and left should be comparable."
+    "explanation": "For the upper standard occlusal, first and second molars should be included and right and left should be comparable.",
+    "extraWrong": [
+      "The body of the mandible should be symmetrical",
+      "The apices of the lower incisors should be clearly defined",
+      "A soft tissue exposure should always be used"
+    ]
   },
   {
     "id": "m18-011",
@@ -133,7 +168,12 @@
       "Locating roots displaced into the antrum"
     ],
     "answer": "D",
-    "explanation": "The upper oblique occlusal is used to assess the position of roots displaced into the antrum during attempted extraction."
+    "explanation": "The upper oblique occlusal is used to assess the position of roots displaced into the antrum during attempted extraction.",
+    "extraWrong": [
+      "Assessing lesions in the anterior mandible",
+      "Assessing vertical mandibular fractures",
+      "Assessing bucco-lingual expansion of mandibular lesions"
+    ]
   },
   {
     "id": "m18-012",
@@ -147,7 +187,12 @@
       "Behind the ascending ramus"
     ],
     "answer": "A",
-    "explanation": "The tubehead is to the side of the face, aiming downwards through the cheek at 65°–70°, centred on the area of interest."
+    "explanation": "The tubehead is to the side of the face, aiming downwards through the cheek at 65°–70°, centred on the area of interest.",
+    "extraWrong": [
+      "Through the chin point at 45°",
+      "In front of the nose, aiming backwards",
+      "Below the body of the mandible"
+    ]
   },
   {
     "id": "m18-013",
@@ -169,7 +214,12 @@
       "The lower border of the mandible should be visible"
     ],
     "answer": "B",
-    "explanation": "The upper oblique occlusal should show the antral floor and all posterior teeth on one side."
+    "explanation": "The upper oblique occlusal should show the antral floor and all posterior teeth on one side.",
+    "extraWrong": [
+      "The body of the mandible should appear symmetrical",
+      "A soft tissue exposure should be used",
+      "The apices of the lower incisors should be clearly defined"
+    ]
   },
   {
     "id": "m18-015",
@@ -183,7 +233,12 @@
       "Assessing upper anterior trauma"
     ],
     "answer": "C",
-    "explanation": "The lower 90° occlusal is used to detect calculi (stones) in the submandibular duct."
+    "explanation": "The lower 90° occlusal is used to detect calculi (stones) in the submandibular duct.",
+    "extraWrong": [
+      "Assessing cleft palate",
+      "Locating roots displaced into the antrum",
+      "Assessing anterior maxillary lesions"
+    ]
   },
   {
     "id": "m18-016",
@@ -197,7 +252,12 @@
       "At 90°"
     ],
     "answer": "D",
-    "explanation": "The tubehead is placed below the chin in the midline, or below the body of the mandible on the side of interest, at 90° to the receptor."
+    "explanation": "The tubehead is placed below the chin in the midline, or below the body of the mandible on the side of interest, at 90° to the receptor.",
+    "extraWrong": [
+      "At 20°",
+      "At 10°",
+      "At 120°"
+    ]
   },
   {
     "id": "m18-017",
@@ -219,7 +279,12 @@
       "A standard enamel exposure"
     ],
     "answer": "A",
-    "explanation": "To demonstrate salivary calculi, a soft tissue exposure should be used."
+    "explanation": "To demonstrate salivary calculi, a soft tissue exposure should be used.",
+    "extraWrong": [
+      "A test exposure",
+      "A hard tissue exposure",
+      "A panoramic exposure"
+    ]
   },
   {
     "id": "m18-019",
@@ -233,7 +298,12 @@
       "Bucco-lingual position of wisdom teeth"
     ],
     "answer": "B",
-    "explanation": "The lower 45° occlusal assesses vertical displacement of mandibular fractures; the lower 90° assesses horizontal displacement."
+    "explanation": "The lower 45° occlusal assesses vertical displacement of mandibular fractures; the lower 90° assesses horizontal displacement.",
+    "extraWrong": [
+      "Assessment of mandibular tori",
+      "Assessment of the antral floor",
+      "Assessment of cleft palate"
+    ]
   },
   {
     "id": "m18-020",
@@ -255,7 +325,12 @@
       "Just below the ear behind the ramus"
     ],
     "answer": "C",
-    "explanation": "The tubehead is in the midline, centred through the chin point, at 45° to the receptor."
+    "explanation": "The tubehead is in the midline, centred through the chin point, at 45° to the receptor.",
+    "extraWrong": [
+      "Above the head in the midline",
+      "Through the nasion",
+      "Behind the opposite ear"
+    ]
   },
   {
     "id": "m18-022",
@@ -264,5 +339,119 @@
     "question": "On a lower 45° occlusal, the lower border of the mandible should be visible.",
     "answer": true,
     "explanation": "Quality criteria for the lower 45° occlusal include clearly defined lower incisor apices and a visible lower border of the mandible."
+  },
+  {
+    "id": "m18-023",
+    "module": "m18",
+    "type": "mcq",
+    "question": "Which is a quality criterion for a lower 90° (true) occlusal?",
+    "options": [
+      "The antral floor should be shown",
+      "All posterior teeth on one side should be included",
+      "The body of the mandible on each side should appear symmetrical",
+      "The apices of the upper incisors should be clearly defined"
+    ],
+    "answer": "C",
+    "explanation": "On a lower 90° occlusal, the first molars should be included and the body of the mandible on each side should be equidistant from the midline and symmetrical.",
+    "extraWrong": [
+      "The crowns and apices of unerupted upper canines should be included",
+      "The occlusal plane should be in the middle of the image",
+      "The condyles should be shown with the mouth open"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m18-024",
+    "module": "m18",
+    "type": "mcq",
+    "question": "When an upper standard occlusal is used to locate unerupted canines, supernumeraries and odontomes, what role does it play?",
+    "options": [
+      "The lateral view",
+      "The soft tissue view",
+      "The posterior view",
+      "The midline view"
+    ],
+    "answer": "D",
+    "explanation": "The upper standard occlusal is used as the midline view when locating unerupted canines, supernumerary teeth and odontomes.",
+    "extraWrong": [
+      "The true occlusal view",
+      "The bimolar view",
+      "The condylar view"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m18-025",
+    "module": "m18",
+    "type": "mcq",
+    "question": "For a lower 90° occlusal, the tubehead can be placed below the chin in the midline. Where else can it be placed?",
+    "options": [
+      "Above the patient in the midline",
+      "Below the body of the mandible on the side of interest",
+      "To the side of the face, aiming through the cheek",
+      "Through the chin point at 45°"
+    ],
+    "answer": "B",
+    "explanation": "The tubehead is placed either below the chin in the midline, or below the body of the mandible on the side of interest, at 90° to the receptor.",
+    "extraWrong": [
+      "Behind the ascending ramus, just below the ear",
+      "In front of the nose in the midline",
+      "Above the ear on the opposite side"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m18-026",
+    "module": "m18",
+    "type": "tf",
+    "question": "On an upper standard occlusal, if unerupted canines are present, their crowns and apices should be included.",
+    "answer": true,
+    "explanation": "Upper standard occlusal quality criteria include the crowns and apices of any unerupted canines, plus clearly defined upper incisor apices and inclusion of the first and second molars.",
+    "source": "generated"
+  },
+  {
+    "id": "m18-c01",
+    "module": "m18",
+    "type": "mcq",
+    "question": "What type of radiograph should be used to assess the presence of supernumeraries in the anterior maxilla?",
+    "options": [
+      "Upper oblique occlusal",
+      "Lower 90° occlusal",
+      "Upper standard occlusal",
+      "Lower 45° occlusal"
+    ],
+    "answer": "C",
+    "explanation": "The upper standard occlusal is used in orthodontic assessment to detect unerupted canines, supernumeraries and odontomes in the anterior maxilla.",
+    "source": "Study card sc1 r5c1"
+  },
+  {
+    "id": "m18-c02",
+    "module": "m18",
+    "type": "mcq",
+    "question": "If the tubehead is positioned above the patient's midline & aimed downwards at 65-70° - what type of x-ray is this?",
+    "options": [
+      "Upper oblique occlusal",
+      "Lower 90° occlusal",
+      "Upper standard occlusal",
+      "Lower 45° occlusal"
+    ],
+    "answer": "C",
+    "explanation": "For an upper standard occlusal, the X-ray tubehead is positioned above the patient in the midline, aiming downwards at 65°–70° to the image receptor.",
+    "source": "Study card sc2 r1c1"
+  },
+  {
+    "id": "m18-c03",
+    "module": "m18",
+    "type": "mcq",
+    "question": "What is the correct vertical angulation for a standard upper occlusal radiograph for adults?",
+    "options": [
+      "Downwards at 65°-70°",
+      "Upwards at 45°",
+      "Downwards at 45°",
+      "Upwards at 65°-70°"
+    ],
+    "answer": "A",
+    "explanation": "Upper = point downwards. Lower = point upwards.",
+    "source": "Study card sc6 r3c2"
   }
 ]

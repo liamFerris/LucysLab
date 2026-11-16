@@ -11,7 +11,12 @@
       "It shows the whole skull from a lateral view"
     ],
     "answer": "A",
-    "explanation": "A tomograph is an image of a 'slice' of the patient, and a DPT shows a wide view (panorama) of the slice containing the jaws."
+    "explanation": "A tomograph is an image of a 'slice' of the patient, and a DPT shows a wide view (panorama) of the slice containing the jaws.",
+    "extraWrong": [
+      "It is taken with the patient lying down",
+      "It shows a cross-section of a single tooth",
+      "It shows only the temporomandibular joints"
+    ]
   },
   {
     "id": "m16-002",
@@ -33,7 +38,12 @@
       "Both stay still while the patient rotates"
     ],
     "answer": "B",
-    "explanation": "The receptor passes around the front of the face while the tubehead passes around the back of the head."
+    "explanation": "The receptor passes around the front of the face while the tubehead passes around the back of the head.",
+    "extraWrong": [
+      "Both pass around the back of the head",
+      "The receptor stays still while the tubehead circles",
+      "The tubehead stays still while the receptor circles"
+    ]
   },
   {
     "id": "m16-004",
@@ -47,7 +57,12 @@
       "They do not appear on the image at all"
     ],
     "answer": "C",
-    "explanation": "Structures outside the focal trough appear blurred and distorted in size; those within it are in focus and slightly magnified."
+    "explanation": "Structures outside the focal trough appear blurred and distorted in size; those within it are in focus and slightly magnified.",
+    "extraWrong": [
+      "They are shown sharply at true size",
+      "They appear sharper than those inside it",
+      "They are always reduced to half size"
+    ]
   },
   {
     "id": "m16-005",
@@ -69,7 +84,12 @@
       "Omit the bite-peg and rest the chin on the chin support"
     ],
     "answer": "D",
-    "explanation": "For edentulous patients, do not use the bite-peg, rest the chin on the chin support and centre the canine light on the corner of the mouth."
+    "explanation": "For edentulous patients, do not use the bite-peg, rest the chin on the chin support and centre the canine light on the corner of the mouth.",
+    "extraWrong": [
+      "Use the bite-peg and centre the light on the chin",
+      "Tilt the head back with the bite-peg in place",
+      "Keep the dentures in and use the bite-peg"
+    ]
   },
   {
     "id": "m16-007",
@@ -83,7 +103,12 @@
       "On the ala of the nose"
     ],
     "answer": "A",
-    "explanation": "The canine positioning light beam should be centred on the corner of the mouth for edentulous patients."
+    "explanation": "The canine positioning light beam should be centred on the corner of the mouth for edentulous patients.",
+    "extraWrong": [
+      "On the centre of the upper lip",
+      "On the point of the chin",
+      "On the tragus of the ear"
+    ]
   },
   {
     "id": "m16-008",
@@ -105,7 +130,12 @@
       "A test exposure to show machine movement"
     ],
     "answer": "B",
-    "explanation": "TMJ programmes enable the condyles to be imaged with the mouth closed and with the mouth open."
+    "explanation": "TMJ programmes enable the condyles to be imaged with the mouth closed and with the mouth open.",
+    "extraWrong": [
+      "Children under six to be imaged safely",
+      "The beam to be angled downwards",
+      "Structures outside the focal trough to be in focus"
+    ]
   },
   {
     "id": "m16-010",
@@ -119,7 +149,12 @@
       "Imaging a single incisor apex after trauma"
     ],
     "answer": "C",
-    "explanation": "Assessment of third molars prior to planned surgical intervention is a listed indication for panoramic tomography."
+    "explanation": "Assessment of third molars prior to planned surgical intervention is a listed indication for panoramic tomography.",
+    "extraWrong": [
+      "Checking for caries in a single premolar",
+      "Routine screening of every new patient",
+      "Monitoring a root filling on one tooth"
+    ]
   },
   {
     "id": "m16-011",
@@ -141,7 +176,12 @@
       "Can be taken even if the patient cannot open their mouth"
     ],
     "answer": "D",
-    "explanation": "A large area is imaged on one image even if the patient cannot open their mouth, which is useful following trauma."
+    "explanation": "A large area is imaged on one image even if the patient cannot open their mouth, which is useful following trauma.",
+    "extraWrong": [
+      "Every structure is shown at its true size",
+      "It is suitable for children under six",
+      "Equipment movement never affects quality"
+    ]
   },
   {
     "id": "m16-013",
@@ -155,7 +195,12 @@
       "Level with the occlusal plane"
     ],
     "answer": "A",
-    "explanation": "The hard palate should appear above the apices of the upper teeth."
+    "explanation": "The hard palate should appear above the apices of the upper teeth.",
+    "extraWrong": [
+      "Below the apices of the lower teeth",
+      "Across the crowns of the upper teeth",
+      "Over the condyles of the mandible"
+    ]
   },
   {
     "id": "m16-014",
@@ -169,7 +214,12 @@
       "A blurred image of the condyles"
     ],
     "answer": "B",
-    "explanation": "An air shadow above the tongue creates a radiolucent (black) band over the roots of the upper teeth, so density is not uniform."
+    "explanation": "An air shadow above the tongue creates a radiolucent (black) band over the roots of the upper teeth, so density is not uniform.",
+    "extraWrong": [
+      "A radiopaque band along the lower border of the mandible",
+      "A double image of the hard palate",
+      "A ghost shadow of an earring"
+    ]
   },
   {
     "id": "m16-015",
@@ -183,7 +233,12 @@
       "It cannot be used with solid-state digital sensor technology"
     ],
     "answer": "C",
-    "explanation": "Some patients' jaw shapes do not conform to the focal trough; panoramics are otherwise relatively simple to position, low-dose and compatible with solid-state technology."
+    "explanation": "Some patients' jaw shapes do not conform to the focal trough; panoramics are otherwise relatively simple to position, low-dose and compatible with solid-state technology.",
+    "extraWrong": [
+      "It cannot be taken if the patient cannot open the mouth",
+      "It is a poor teaching aid for patients",
+      "Field limitation techniques are not available"
+    ]
   },
   {
     "id": "m16-016",
@@ -192,5 +247,172 @@
     "question": "On an ideal panoramic radiograph, the right and left molar teeth should be equal in mesio-distal dimension.",
     "answer": true,
     "explanation": "Equal mesio-distal size of the right and left molars is an ideal image quality criterion, alongside equal vertical and horizontal magnification."
+  },
+  {
+    "id": "m16-017",
+    "module": "m16",
+    "type": "mcq",
+    "question": "In panoramic radiography, the vertical slit X-ray beam is angled upwards at approximately what angle?",
+    "options": [
+      "About 30 degrees",
+      "About 8 degrees",
+      "About 45 degrees",
+      "About 60 degrees"
+    ],
+    "answer": "B",
+    "explanation": "The panoramic X-ray beam is a vertical slit angled upwards at about 8 degrees.",
+    "extraWrong": [
+      "About 20 degrees",
+      "About 75 degrees",
+      "About 90 degrees"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m16-018",
+    "module": "m16",
+    "type": "mcq",
+    "question": "What do field limitation techniques on panoramic equipment allow?",
+    "options": [
+      "The condyles to be imaged with the mouth open and closed",
+      "Edentulous patients to be imaged without a bite-peg",
+      "Children under six to be imaged",
+      "Only pre-selected parts of the patient to be exposed and captured"
+    ],
+    "answer": "D",
+    "explanation": "Field limitation techniques mean only pre-selected parts of the patient are exposed and captured on the final image.",
+    "extraWrong": [
+      "Structures outside the focal trough to be in focus",
+      "A test exposure to show the machine movement",
+      "The patient to rotate instead of the machine"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m16-019",
+    "module": "m16",
+    "type": "mcq",
+    "question": "When preparing a patient for a panoramic radiograph, what can be used, if necessary, to show them how the machine moves?",
+    "options": [
+      "A field limitation programme",
+      "The canine positioning light",
+      "A test exposure",
+      "A TMJ programme"
+    ],
+    "answer": "C",
+    "explanation": "The procedure and equipment are explained and, if necessary, a test exposure is used to show the machine movement.",
+    "extraWrong": [
+      "A protective lead apron",
+      "The bite-peg",
+      "A cotton wool roll"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m16-020",
+    "module": "m16",
+    "type": "tf",
+    "question": "On a panoramic radiograph, patient movement in the vertical plane distorts only the part of the image being produced at that instant.",
+    "answer": true,
+    "explanation": "This is listed as an advantage of panoramic tomography: vertical movement only distorts the part of the image being produced at that moment.",
+    "source": "generated"
+  },
+  {
+    "id": "m16-c01",
+    "module": "m16",
+    "type": "mcq",
+    "question": "In panoramic radiographs, how would teeth appear if they are outside of the horseshoe focal trough?",
+    "options": [
+      "Blurry",
+      "Sharp & clear",
+      "Small"
+    ],
+    "answer": "A",
+    "explanation": "If the patient is positioned correctly the teeth will appear clear, sharp & slightly magnified. If the patient's head is too far back, the lower teeth will appear magnified but blurry.",
+    "source": "Study card sc1 r1c1"
+  },
+  {
+    "id": "m16-c02",
+    "module": "m16",
+    "type": "tf",
+    "question": "The thin radiolucent lines either side of a panoramic x-ray are the inferior dental canals?",
+    "answer": true,
+    "explanation": "Edges of the canals are radiopaque & well-defined as you're looking at them edge on.",
+    "source": "Study card sc1 r4c2"
+  },
+  {
+    "id": "m16-c03",
+    "module": "m16",
+    "type": "mcq",
+    "question": "How might you modify the technique to take a panoramic radiograph on an edentulous patient?",
+    "options": [
+      "Aim canine positioning light at the corner of the mouth",
+      "Position patient further forward to ensure sharp image of anterior maxilla",
+      "Lower chin rest so patient's spine is curved",
+      "Instruct patient's tongue is firmly pressed to floor of their mouth"
+    ],
+    "answer": "A",
+    "explanation": "Can't use bite peg.",
+    "source": "Study card sc2 r4c3"
+  },
+  {
+    "id": "m16-c04",
+    "module": "m16",
+    "type": "mcq",
+    "question": "On a dental panoramic radiograph, how do objects inside the horseshoe shaped focal trough appear?",
+    "options": [
+      "Magnified",
+      "Intensified",
+      "Ionised",
+      "Minimised"
+    ],
+    "answer": "A",
+    "explanation": "Sensor is far away from patient's face - the image 'spreads out' as it passes the gap, so image grows. Think: horse is big if inside your kitchen.",
+    "source": "Study card sc3 r1c1"
+  },
+  {
+    "id": "m16-c05",
+    "module": "m16",
+    "type": "mcq",
+    "question": "Which of the following is NOT a clinical indication for taking a panoramic radiograph?",
+    "options": [
+      "Routine screening",
+      "Grossly neglected mouth",
+      "Mandibular fractures",
+      "Pre-implant planning"
+    ],
+    "answer": "A",
+    "explanation": "Each radiograph taken must be justified according to clinical need.",
+    "source": "Study card sc3 r1c2"
+  },
+  {
+    "id": "m16-c06",
+    "module": "m16",
+    "type": "mcq",
+    "question": "Which of the following is an advantage of dental panoramic radiographs?",
+    "options": [
+      "Can be used even if patient can't open their mouth (following trauma)",
+      "Soft tissue shadows, ghost or air shadows can overlie important hard tissue structures",
+      "Shape of jaws may not conform to shape of focus or focal trough",
+      "Structures or abnormalities not in focal trough may not be evident"
+    ],
+    "answer": "A",
+    "explanation": "All tissues within the in-focus layer are shown on one image even if the patient cannot open their mouth, which is useful following trauma; B, C and D are disadvantages.",
+    "source": "Study card sc3 r4c3"
+  },
+  {
+    "id": "m16-c07",
+    "module": "m16",
+    "type": "mcq",
+    "question": "Which of the following is the most accurate description of a dental panoramic radiograph?",
+    "options": [
+      "3D representation of teeth + jaws",
+      "General overview of patient's maxillofacial skeleton",
+      "Slice of the patient showing teeth & jaws",
+      "Type of computed tomograph or CT scan"
+    ],
+    "answer": "C",
+    "explanation": "While it is a tomograph, it's not built by computer like a CT or CBCT.",
+    "source": "Study card sc6 r4c1"
   }
 ]

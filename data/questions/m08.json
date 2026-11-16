@@ -11,7 +11,12 @@
       "Star artefact"
     ],
     "answer": "B",
-    "explanation": "Radiolucent areas are black because photons passed through the patient with no absorption and hit the film."
+    "explanation": "Radiolucent areas are black because photons passed through the patient with no absorption and hit the film.",
+    "extraWrong": [
+      "Tomographic",
+      "Ghost shadow",
+      "Voxel"
+    ]
   },
   {
     "id": "m08-002",
@@ -25,7 +30,12 @@
       "Tomographic"
     ],
     "answer": "A",
-    "explanation": "Radiopaque areas are white because the X-ray photons were totally absorbed."
+    "explanation": "Radiopaque areas are white because the X-ray photons were totally absorbed.",
+    "extraWrong": [
+      "Star artefact",
+      "Air shadow",
+      "Voxel"
+    ]
   },
   {
     "id": "m08-003",
@@ -47,7 +57,12 @@
       "X-ray beam intensity"
     ],
     "answer": "D",
-    "explanation": "X-ray beam intensity depends on the exposure factors; the other options relate to the object or positioning."
+    "explanation": "X-ray beam intensity depends on the exposure factors; the other options relate to the object or positioning.",
+    "extraWrong": [
+      "Object material",
+      "Position of the object",
+      "Position of the X-ray beam"
+    ]
   },
   {
     "id": "m08-005",
@@ -61,7 +76,12 @@
       "Shows only a slice of the patient"
     ],
     "answer": "C",
-    "explanation": "2D digital images are 2D representations of 3D objects, affected by geometrical distortion and software image processing."
+    "explanation": "2D digital images are 2D representations of 3D objects, affected by geometrical distortion and software image processing.",
+    "extraWrong": [
+      "Resolution dependent on voxel size",
+      "Overlaid with equipment ghost shadows",
+      "Affected by chemical processing faults"
+    ]
   },
   {
     "id": "m08-006",
@@ -83,7 +103,12 @@
       "The film is not embossed for orientation"
     ],
     "answer": "A",
-    "explanation": "Tomographs are blurred because the X-ray tubehead and film move during the exposure."
+    "explanation": "Tomographs are blurred because the X-ray tubehead and film move during the exposure.",
+    "extraWrong": [
+      "Metallic objects create star artefacts",
+      "Software processing smooths the image",
+      "A direct-action film packet is used"
+    ]
   },
   {
     "id": "m08-008",
@@ -97,7 +122,12 @@
       "A direct-action intra-oral film packet is used instead"
     ],
     "answer": "C",
-    "explanation": "Tomograph resolution is relatively poor because an indirect-action film-screen image receptor is used."
+    "explanation": "Tomograph resolution is relatively poor because an indirect-action film-screen image receptor is used.",
+    "extraWrong": [
+      "The beam aiming device is not used",
+      "A long focus-to-skin distance is used",
+      "The soft tissues absorb all the photons"
+    ]
   },
   {
     "id": "m08-009",
@@ -119,7 +149,12 @@
       "Processing faults"
     ],
     "answer": "B",
-    "explanation": "A limitation of CBCT is that metallic objects can create star artefacts."
+    "explanation": "A limitation of CBCT is that metallic objects can create star artefacts.",
+    "extraWrong": [
+      "Elongation of the image",
+      "Blurring from tubehead movement",
+      "Larger voxel sizes"
+    ]
   },
   {
     "id": "m08-011",
@@ -133,7 +168,12 @@
       "The voxel size"
     ],
     "answer": "D",
-    "explanation": "CBCT resolution is dependent on voxel size."
+    "explanation": "CBCT resolution is dependent on voxel size.",
+    "extraWrong": [
+      "The focus-to-skin distance",
+      "The developer temperature",
+      "The colour of the aiming ring"
+    ]
   },
   {
     "id": "m08-012",
@@ -155,6 +195,95 @@
       "Chemical processing in a darkroom"
     ],
     "answer": "B",
-    "explanation": "Multiple complex 3D volumetric and reformatted images can be created, requiring detailed 3D anatomical knowledge."
+    "explanation": "Multiple complex 3D volumetric and reformatted images can be created, requiring detailed 3D anatomical knowledge.",
+    "extraWrong": [
+      "A cling film barrier on the sensor",
+      "An indirect-action film-screen receptor",
+      "A bite tab attached to the receptor"
+    ]
+  },
+  {
+    "id": "m08-014",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Cone Beam CT (CBCT) can show slices of the patient in which three planes?",
+    "options": [
+      "Mesial, distal and occlusal",
+      "Buccal, lingual and palatal",
+      "Sagittal, coronal and axial",
+      "Incisal, cervical and apical"
+    ],
+    "answer": "C",
+    "explanation": "CBCT equipment creates images representing slices of the patient, including sagittal, coronal and axial views, as well as panoramic and 3D views.",
+    "extraWrong": [
+      "Labial, palatal and lingual",
+      "Proximal, occlusal and apical",
+      "Medial, distal and incisal"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m08-015",
+    "module": "m08",
+    "type": "mcq",
+    "question": "On a tomograph such as a dental panoramic radiograph, what are the required hard-tissue images overlaid with?",
+    "options": [
+      "Soft tissues, equipment ghost shadows and air shadows",
+      "The lead foil pattern of a film packet",
+      "Voxel grid lines from computer reconstruction",
+      "The outline of a bite tab and film packet"
+    ],
+    "answer": "A",
+    "explanation": "Tomographs are complex because the required hard-tissue images are overlaid with soft tissues, equipment ghost shadows and air shadows.",
+    "extraWrong": [
+      "The beam aiming ring of a paralleling holder",
+      "The embossed dot of an intra-oral film packet",
+      "A grid of fingerprints from the processor"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m08-016",
+    "module": "m08",
+    "type": "mcq",
+    "question": "Which of these is a limitation of 3D Cone Beam CT (CBCT) images?",
+    "options": [
+      "Affected by chemical processing faults",
+      "Only a 2D representation of the patient",
+      "Resolution limited by the intensifying screen",
+      "Affected by patient movement"
+    ],
+    "answer": "D",
+    "explanation": "CBCT images are affected by patient shape, positioning and movement, as well as exposure factors and computer processing. Resolution depends on voxel size.",
+    "extraWrong": [
+      "Cannot produce panoramic views",
+      "Affected by darkroom safelight fogging",
+      "Cannot produce 3-dimensional views"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m08-017",
+    "module": "m08",
+    "type": "tf",
+    "question": "The material an object is made of is one of the factors that can affect an X-ray image.",
+    "answer": true,
+    "explanation": "The factors that affect an X-ray image are object material, object thickness or density, object shape, X-ray beam intensity, and the position of the object, film and X-ray beam.",
+    "source": "generated"
+  },
+  {
+    "id": "m08-c01",
+    "module": "m08",
+    "type": "mcq",
+    "question": "What type of radiograph does NOT have any geometrical distortion?",
+    "options": [
+      "Film-based bitewing",
+      "Digital paralleling technique periapical",
+      "Digital bitewing",
+      "None of the above"
+    ],
+    "answer": "D",
+    "explanation": "All 2D radiographs have a degree of geometrical distortion. Image receptor holder & beam aiming devices help minimise it but doesn't completely eliminate it.",
+    "source": "Study card sc5 r2c1"
   }
 ]

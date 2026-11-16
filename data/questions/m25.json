@@ -11,7 +11,12 @@
       "A bent incisor"
     ],
     "answer": "A",
-    "explanation": "Hypodontia is a number defect meaning too few teeth; too many teeth are supernumeraries."
+    "explanation": "Hypodontia is a number defect meaning too few teeth; too many teeth are supernumeraries.",
+    "extraWrong": [
+      "Extra roots",
+      "A misshapen crown",
+      "A tooth within a tooth"
+    ]
   },
   {
     "id": "m25-002",
@@ -25,7 +30,12 @@
       "An incisor with a bent root"
     ],
     "answer": "B",
-    "explanation": "A taurodont tooth is a shape defect with a large pulp chamber."
+    "explanation": "A taurodont tooth is a shape defect with a large pulp chamber.",
+    "extraWrong": [
+      "A tooth with an extra root",
+      "A tooth with a misshapen crown",
+      "A jumble of dental tissues forming a radiopaque mass"
+    ]
   },
   {
     "id": "m25-003",
@@ -39,7 +49,12 @@
       "As a multilocular 'soap bubble' radiolucency"
     ],
     "answer": "C",
-    "explanation": "A complex odontome is a jumble of dental tissues which appears as a radiopaque mass; a compound odontome is multiple small teeth."
+    "explanation": "A complex odontome is a jumble of dental tissues which appears as a radiopaque mass; a compound odontome is multiple small teeth.",
+    "extraWrong": [
+      "As a large pulp chamber",
+      "As a round radiolucency around an unerupted crown",
+      "As an incisor with a bent root"
+    ]
   },
   {
     "id": "m25-004",
@@ -53,7 +68,12 @@
       "Unerupted, impacted third molars"
     ],
     "answer": "D",
-    "explanation": "Position defects include unerupted maxillary canines, unerupted impacted third molars and dilacerated (bent) incisors."
+    "explanation": "Position defects include unerupted maxillary canines, unerupted impacted third molars and dilacerated (bent) incisors.",
+    "extraWrong": [
+      "Supernumerary teeth",
+      "Invaginated odontome (dens-in-dente)",
+      "Extra roots"
+    ]
   },
   {
     "id": "m25-005",
@@ -67,7 +87,12 @@
       "With a dense bony margin"
     ],
     "answer": "A",
-    "explanation": "Resorption means bone is removed, giving a radiolucent lesion; deposition lays bone down, giving a radiopaque lesion."
+    "explanation": "Resorption means bone is removed, giving a radiolucent lesion; deposition lays bone down, giving a radiopaque lesion.",
+    "extraWrong": [
+      "As a calcified mass",
+      "As a well-defined lump of bone",
+      "As a 'tooth within a tooth'"
+    ]
   },
   {
     "id": "m25-006",
@@ -81,7 +106,12 @@
       "A radiopaque mass with a 'sun-ray' pattern"
     ],
     "answer": "B",
-    "explanation": "Benign lesions grow slowly, so the body lays down bone around them, giving a well-defined radiolucent area with a dense, radiopaque bony margin."
+    "explanation": "Benign lesions grow slowly, so the body lays down bone around them, giving a well-defined radiolucent area with a dense, radiopaque bony margin.",
+    "extraWrong": [
+      "A fast-growing lesion that destroys the surrounding bone",
+      "A widening of the periodontal ligament space only",
+      "A tooth within a tooth"
+    ]
   },
   {
     "id": "m25-007",
@@ -95,7 +125,12 @@
       "As a well-defined lump of bone that is easily seen on radiographs"
     ],
     "answer": "C",
-    "explanation": "Osteomyelitis is a spreading infection that appears as a poorly defined lucent area where the bone has been resorbed."
+    "explanation": "Osteomyelitis is a spreading infection that appears as a poorly defined lucent area where the bone has been resorbed.",
+    "extraWrong": [
+      "As a round radiolucency around the crown of an unerupted tooth",
+      "As a multilocular 'soap bubble' lesion",
+      "As a 'sun-ray' pattern of new bone"
+    ]
   },
   {
     "id": "m25-008",
@@ -109,7 +144,12 @@
       "Radicular dental cyst"
     ],
     "answer": "D",
-    "explanation": "The radicular dental cyst is the most common type: round, unilocular, with a well-defined bony outline at the apex of a non-vital tooth."
+    "explanation": "The radicular dental cyst is the most common type: round, unilocular, with a well-defined bony outline at the apex of a non-vital tooth.",
+    "extraWrong": [
+      "Nasopalatine duct cyst",
+      "Solitary bone cyst",
+      "Ameloblastoma"
+    ]
   },
   {
     "id": "m25-009",
@@ -123,7 +163,12 @@
       "Where a non-vital tooth has been extracted"
     ],
     "answer": "A",
-    "explanation": "A dentigerous cyst is a round, unilocular area of radiolucency around the crown of an unerupted tooth."
+    "explanation": "A dentigerous cyst is a round, unilocular area of radiolucency around the crown of an unerupted tooth.",
+    "extraWrong": [
+      "In the posterior quadrants around the root apices",
+      "Within the pulp chamber of a tooth",
+      "In the condyle of the mandible"
+    ]
   },
   {
     "id": "m25-010",
@@ -137,7 +182,12 @@
       "In the posterior quadrants of the jaws"
     ],
     "answer": "B",
-    "explanation": "The nasopalatine duct cyst is a developmental, non-odontogenic cyst that appears as a radiolucency in the midline of the anterior maxilla."
+    "explanation": "The nasopalatine duct cyst is a developmental, non-odontogenic cyst that appears as a radiolucency in the midline of the anterior maxilla.",
+    "extraWrong": [
+      "Where a non-vital tooth has been extracted",
+      "In the condyle of the mandible",
+      "In the furcation of a lower molar"
+    ]
   },
   {
     "id": "m25-011",
@@ -151,7 +201,12 @@
       "A 'tooth within a tooth' appearance"
     ],
     "answer": "C",
-    "explanation": "Osteosarcoma can be osteolytic (destroying bone) or osteogenic (depositing bone with a characteristic 'sun-ray' appearance)."
+    "explanation": "Osteosarcoma can be osteolytic (destroying bone) or osteogenic (depositing bone with a characteristic 'sun-ray' appearance).",
+    "extraWrong": [
+      "A 'jumble of dental tissues' appearance",
+      "A 'large pulp chamber' appearance",
+      "A 'bent root' appearance"
+    ]
   },
   {
     "id": "m25-012",
@@ -165,7 +220,12 @@
       "Primary squamous cell carcinoma"
     ],
     "answer": "D",
-    "explanation": "Primary squamous cell carcinoma is the most common oral cancer; it can invade local bone and show as irregular bone destruction."
+    "explanation": "Primary squamous cell carcinoma is the most common oral cancer; it can invade local bone and show as irregular bone destruction.",
+    "extraWrong": [
+      "Osteoma",
+      "Central giant cell granuloma",
+      "Fibroma"
+    ]
   },
   {
     "id": "m25-013",
@@ -179,7 +239,12 @@
       "It becomes an irregular area of bone destruction"
     ],
     "answer": "A",
-    "explanation": "Periapical cemento-osseous dysplasia first appears as radiolucencies around the apices, and once the lesions calcify they appear as opacities; florid cemento-osseous dysplasia changes in the same way."
+    "explanation": "Periapical cemento-osseous dysplasia first appears as radiolucencies around the apices, and once the lesions calcify they appear as opacities; florid cemento-osseous dysplasia changes in the same way.",
+    "extraWrong": [
+      "It stays radiopaque with a 'sun-ray' appearance",
+      "It starts as a 'hole in the bone' and then disappears",
+      "It becomes a multilocular, expansive lesion"
+    ]
   },
   {
     "id": "m25-014",
@@ -228,5 +293,85 @@
     "question": "True or false: florid cemento-osseous dysplasia usually affects the anterior quadrants of the jaws.",
     "answer": false,
     "explanation": "False. Florid cemento-osseous dysplasia usually affects the posterior quadrants, changing from a radiolucency to a radiopacity."
+  },
+  {
+    "id": "m25-020",
+    "module": "m25",
+    "type": "mcq",
+    "question": "What is a dilacerated incisor?",
+    "options": [
+      "A missing incisor",
+      "A tooth within a tooth",
+      "A bent incisor",
+      "An incisor with a large pulp chamber"
+    ],
+    "answer": "C",
+    "explanation": "Dilacerated (bent) incisors are a developmental position defect of the teeth.",
+    "extraWrong": [
+      "A supernumerary incisor",
+      "An incisor with an extra root",
+      "An incisor surrounded by a cyst"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m25-021",
+    "module": "m25",
+    "type": "mcq",
+    "question": "What is a compound odontome?",
+    "options": [
+      "Multiple, small teeth",
+      "A jumble of dental tissues forming a radiopaque mass",
+      "A tooth within a tooth",
+      "A tooth with a large pulp chamber"
+    ],
+    "answer": "A",
+    "explanation": "A compound odontome is multiple, small teeth; a complex odontome is a jumble of dental tissues forming a radiopaque mass.",
+    "extraWrong": [
+      "A multilocular 'soap bubble' lesion",
+      "A cyst around the crown of an unerupted tooth",
+      "An incisor with a bent root"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m25-022",
+    "module": "m25",
+    "type": "mcq",
+    "question": "If one side of the mandible does not develop, what does the radiograph show?",
+    "options": [
+      "A multilocular 'soap bubble' appearance",
+      "A lop-sided appearance",
+      "A 'sun-ray' appearance",
+      "A radiolucency in the midline of the maxilla"
+    ],
+    "answer": "B",
+    "explanation": "If one side of the mandible does not develop, it leads to a lop-sided appearance; developmental jaw defects are obvious on radiographs.",
+    "extraWrong": [
+      "Extra teeth on the affected side",
+      "A large pulp chamber in each tooth",
+      "A 'hole in the bone' appearance"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m25-023",
+    "module": "m25",
+    "type": "mcq",
+    "question": "Which benign non-odontogenic tumour is a well-defined lump of bone that is easily seen on radiographs?",
+    "options": [
+      "Fibroma",
+      "Neuroma",
+      "Ameloblastoma",
+      "Osteoma"
+    ],
+    "answer": "D",
+    "explanation": "An osteoma is a well-defined lump of bone; a fibroma arises from fibrous tissue and a neuroma from neural tissue. Ameloblastoma is an odontogenic tumour.",
+    "extraWrong": [
+      "Odontogenic keratocyst",
+      "Solitary bone cyst",
+      "Nasopalatine duct cyst"
+    ],
+    "source": "generated"
   }
 ]

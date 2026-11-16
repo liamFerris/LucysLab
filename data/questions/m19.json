@@ -11,7 +11,12 @@
       "One where the receptor is in the occlusal plane"
     ],
     "answer": "A",
-    "explanation": "In a true lateral the image receptor is parallel to the sagittal plane, i.e. front-to-back."
+    "explanation": "In a true lateral the image receptor is parallel to the sagittal plane, i.e. front-to-back.",
+    "extraWrong": [
+      "One where the receptor is behind the head",
+      "Two true laterals taken on one film",
+      "One where the receptor is held inside the mouth"
+    ]
   },
   {
     "id": "m19-002",
@@ -25,7 +30,12 @@
       "A panoramic view of the molars only"
     ],
     "answer": "B",
-    "explanation": "A bimolar is two oblique laterals on one film."
+    "explanation": "A bimolar is two oblique laterals on one film.",
+    "extraWrong": [
+      "Two bitewings taken together",
+      "A true lateral of the molar region",
+      "An occlusal view of both molar regions"
+    ]
   },
   {
     "id": "m19-003",
@@ -47,7 +57,12 @@
       "Measuring the facial skeleton for orthodontics"
     ],
     "answer": "C",
-    "explanation": "Oblique laterals are used when intra-oral views are unobtainable, e.g. in children."
+    "explanation": "Oblique laterals are used when intra-oral views are unobtainable, e.g. in children.",
+    "extraWrong": [
+      "Detecting caries in contact areas",
+      "Assessing mandibular tori",
+      "Assessing cleft palate"
+    ]
   },
   {
     "id": "m19-005",
@@ -69,7 +84,12 @@
       "Wisdom teeth"
     ],
     "answer": "D",
-    "explanation": "Oblique laterals assess the presence and/or position of unerupted teeth, particularly wisdom teeth."
+    "explanation": "Oblique laterals assess the presence and/or position of unerupted teeth, particularly wisdom teeth.",
+    "extraWrong": [
+      "Upper incisors",
+      "Lower canines",
+      "Upper first molars"
+    ]
   },
   {
     "id": "m19-007",
@@ -83,7 +103,12 @@
       "Above the head, aiming down through the cheek"
     ],
     "answer": "A",
-    "explanation": "The tubehead is along the line of the occlusal plane, just below the ear and behind the ascending ramus."
+    "explanation": "The tubehead is along the line of the occlusal plane, just below the ear and behind the ascending ramus.",
+    "extraWrong": [
+      "Above the opposite ear, aiming down",
+      "Directly in front of the chin",
+      "Behind the head in the midline"
+    ]
   },
   {
     "id": "m19-008",
@@ -97,7 +122,12 @@
       "The maxillary antrum"
     ],
     "answer": "B",
-    "explanation": "The beam is aimed through the radiographic keyhole at the teeth of interest."
+    "explanation": "The beam is aimed through the radiographic keyhole at the teeth of interest.",
+    "extraWrong": [
+      "The orbit",
+      "The nasal cavity",
+      "The hard palate"
+    ]
   },
   {
     "id": "m19-009",
@@ -119,7 +149,12 @@
       "Sitting with the head tipped backwards"
     ],
     "answer": "C",
-    "explanation": "The child is usually rotated through 90° in the chair so the shoulder is supported and the cassette and head rest on the chair."
+    "explanation": "The child is usually rotated through 90° in the chair so the shoulder is supported and the cassette and head rest on the chair.",
+    "extraWrong": [
+      "Kneeling on the chair",
+      "Lying face down on the chair",
+      "Standing with the chin on a support"
+    ]
   },
   {
     "id": "m19-011",
@@ -141,6 +176,140 @@
       "A protective lead apron"
     ],
     "answer": "D",
-    "explanation": "Ensure the carer wears a protective lead apron; they can hold the cassette and reassure the patient."
+    "explanation": "Ensure the carer wears a protective lead apron; they can hold the cassette and reassure the patient.",
+    "extraWrong": [
+      "A surgical face mask",
+      "A dental bib",
+      "A sterile surgical gown"
+    ]
+  },
+  {
+    "id": "m19-013",
+    "module": "m19",
+    "type": "mcq",
+    "question": "In the standard oblique lateral technique, how is the patient positioned?",
+    "options": [
+      "Biting on the cassette in the occlusal plane",
+      "Holding the cassette against the cheek, chin raised and head rotated",
+      "Lying flat with the cassette under the head",
+      "Holding the cassette behind the head, chin lowered"
+    ],
+    "answer": "B",
+    "explanation": "The patient sits upright holding a cassette against the side of the face, touching the cheek, with the chin raised and the head rotated.",
+    "extraWrong": [
+      "Holding the cassette in front of the face",
+      "Standing with the head in a cephalostat",
+      "Sitting with the cassette resting on the chest"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m19-014",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Which teeth does an oblique lateral view show?",
+    "options": [
+      "The upper teeth of both sides",
+      "Only the lower incisors",
+      "The upper and lower teeth of one side",
+      "All the teeth of both jaws"
+    ],
+    "answer": "C",
+    "explanation": "An oblique lateral shows the upper and lower teeth of one side; a bimolar puts two oblique laterals on one film.",
+    "extraWrong": [
+      "Only the upper anterior teeth",
+      "The lower teeth of both sides",
+      "Only the crowns of the molars"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m19-015",
+    "module": "m19",
+    "type": "mcq",
+    "question": "In the alternative oblique lateral technique, how is the cassette held against the side of the face?",
+    "options": [
+      "In the occlusal plane between the teeth",
+      "Behind the patient's head",
+      "Flat against the chest",
+      "Parallel to the midline sagittal plane"
+    ],
+    "answer": "D",
+    "explanation": "In the alternative technique the cassette is held parallel to the midline sagittal plane with the chin raised, and the tubehead aims slightly upwards from beneath the opposite side of the mandible.",
+    "extraWrong": [
+      "Against the forehead",
+      "Horizontally under the chin",
+      "Across the front of the face"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m19-016",
+    "module": "m19",
+    "type": "tf",
+    "question": "Detection of fractures of the mandible is a clinical indication for an oblique lateral radiograph.",
+    "answer": true,
+    "explanation": "Oblique lateral indications include unerupted teeth (especially wisdom teeth), mandibular fractures, an alternative to intra-oral views, jaw lesions such as cysts or tumours, and the mandibular condyle.",
+    "source": "generated"
+  },
+  {
+    "id": "m19-c01",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Why is an oblique lateral radiograph called 'oblique'?",
+    "options": [
+      "Image receptor held parallel to patient's sagittal plane",
+      "Image receptor held parallel to patient's Frankfort plane",
+      "Image receptor held at an angle to patient's sagittal plane",
+      "Image receptor held at an angle to patient's Frankfort plane"
+    ],
+    "answer": "C",
+    "explanation": "Oblique = at an angle. Lateral = to the side of.",
+    "source": "Study card sc2 r5c2"
+  },
+  {
+    "id": "m19-c02",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Why is an oblique lateral radiograph called oblique?",
+    "options": [
+      "Image receptor held parallel to sagittal plane",
+      "Image receptor held parallel to frankfort plane",
+      "Image receptor held at angle to sagittal plane",
+      "Image receptor held at angle to frankfort plane"
+    ],
+    "answer": "C",
+    "explanation": "At an angle to the line that divides body into left & right (sagittal plane).",
+    "source": "Study card sc4 r2c1"
+  },
+  {
+    "id": "m19-c03",
+    "module": "m19",
+    "type": "mcq",
+    "question": "Which radiographic technique makes use of the 'radiographic keyhole'?",
+    "options": [
+      "Lateral cephalometric skull",
+      "Panoramics",
+      "Oblique laterals",
+      "Occlusals"
+    ],
+    "answer": "C",
+    "explanation": "Triangular anatomical space when patient turns their head to the side. Opens a narrow triangular window from opposite side of jaw. Keyhole!",
+    "source": "Study card sc4 r5c1"
+  },
+  {
+    "id": "m19-c04",
+    "module": "m19",
+    "type": "mcq",
+    "question": "During oblique lateral radiography, in what circumstances can the operator hold the cassette against the patient's face?",
+    "options": [
+      "Patient is too frail to hold it themselves",
+      "Patient is nervous",
+      "under NO circumstance",
+      "Patient has difficulty understanding instruction"
+    ],
+    "answer": "C",
+    "explanation": "The operator must never hold the cassette; if the patient cannot, a carer wearing a lead apron can hold it and reassure the patient.",
+    "source": "Study card sc5 r5c2"
   }
 ]

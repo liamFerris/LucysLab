@@ -61,7 +61,44 @@ const Lab = (() => {
       console.warn('[Lucy\'s Lab] Skipping malformed question:', raw);
       return null;
     }
+
+    // Multiple choice: build the pool of wrong answers (the file's other options plus any
+    // "extraWrong" ones). deal() later picks some of these at random each time it's shown.
+    if (q.type === 'mcq') {
+      q.keepOrder = q.keepOrder === true || q.options.some((o) => /\b(all|none|both) of (the )?(above|these)\b/i.test(o));
+      q.correct = q.options[q.answerIndex];
+      const seen = new Set([q.correct.trim().toLowerCase()]);
+      q.wrong = [...q.options.filter((_, i) => i !== q.answerIndex), ...(Array.isArray(q.extraWrong) ? q.extraWrong : [])]
+        .filter((o) => {
+          const k = String(o).trim().toLowerCase();
+          if (!k || seen.has(k)) return false;
+          seen.add(k);
+          return true;
+        });
+    }
     return q;
+  }
+
+  const WRONG_SHOWN = 3;   // how many wrong answers to show alongside the correct one
+
+  /**
+   * Returns a copy of a question ready to show: for multiple choice, the correct answer
+   * plus WRONG_SHOWN random wrong answers from its pool, in a random order.
+   * True/false questions are returned unchanged.
+   */
+  function deal(q) {
+    if (q.type !== 'mcq' || !q.wrong) return q;
+    // Options like "All of the above" only make sense in their written order, so leave those questions as they are.
+    if (q.keepOrder) return q;
+    const options = shuffle([q.correct, ...shuffle(q.wrong).slice(0, WRONG_SHOWN)]);
+    return { ...q, options, answerIndex: options.indexOf(q.correct) };
+  }
+
+  /** Rebuild a previously dealt question from its saved option texts (falls back to a fresh deal). */
+  function redeal(q, options) {
+    if (q.type !== 'mcq' || !Array.isArray(options) || q.keepOrder) return q;
+    const valid = options.includes(q.correct) && options.every((o) => o === q.correct || q.wrong.includes(o));
+    return valid ? { ...q, options: [...options], answerIndex: options.indexOf(q.correct) } : deal(q);
   }
 
   async function loadAll() {
@@ -170,7 +207,7 @@ const Lab = (() => {
   };
 
   return {
-    LETTERS, reducedMotion, getJSON, getText, loadModules, loadAll, moduleLabel, shuffle,
+    LETTERS, reducedMotion, getJSON, getText, loadModules, loadAll, moduleLabel, shuffle, deal, redeal,
     optionLabel, optionButton, moduleTag, replay, tweenNumber, toast, showLoadError, store,
   };
 })();

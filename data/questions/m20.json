@@ -11,7 +11,12 @@
       "Side view"
     ],
     "answer": "A",
-    "explanation": "Cephalo means in or of the head; metric means measurement."
+    "explanation": "Cephalo means in or of the head; metric means measurement.",
+    "extraWrong": [
+      "Of the teeth",
+      "Of the neck",
+      "Of the bone"
+    ]
   },
   {
     "id": "m20-002",
@@ -25,7 +30,12 @@
       "Taking two oblique laterals on one film"
     ],
     "answer": "B",
-    "explanation": "Cephalometry is the measurement and comparison of specific points, distances and lines within the facial skeleton."
+    "explanation": "Cephalometry is the measurement and comparison of specific points, distances and lines within the facial skeleton.",
+    "extraWrong": [
+      "Measuring the radiation dose received during a skull exposure",
+      "Localising an unerupted canine using two radiographs",
+      "Comparing the left and right temporomandibular joints"
+    ]
   },
   {
     "id": "m20-003",
@@ -47,7 +57,12 @@
       "Assessing the antral floor"
     ],
     "answer": "C",
-    "explanation": "They assess the relationships of the teeth to the jaws and the jaws to the facial skeleton, mainly in orthodontics."
+    "explanation": "They assess the relationships of the teeth to the jaws and the jaws to the facial skeleton, mainly in orthodontics.",
+    "extraWrong": [
+      "Detecting interproximal caries",
+      "Assessing periodontal bone levels",
+      "Localising root fractures"
+    ]
   },
   {
     "id": "m20-005",
@@ -69,7 +84,12 @@
       "Monitoring orthodontic treatment progress"
     ],
     "answer": "D",
-    "explanation": "Indications include initial diagnosis, treatment planning, monitoring treatment progress and checking targets at the end of treatment."
+    "explanation": "Indications include initial diagnosis, treatment planning, monitoring treatment progress and checking targets at the end of treatment.",
+    "extraWrong": [
+      "Detecting early interproximal caries",
+      "Assessing periapical disease on a single tooth",
+      "Checking the fit of a crown"
+    ]
   },
   {
     "id": "m20-007",
@@ -83,7 +103,12 @@
       "If the patient requests one"
     ],
     "answer": "A",
-    "explanation": "At the end of retention it is taken if stability is uncertain, unfavourable growth is indicated, or there are clinically observed changes."
+    "explanation": "At the end of retention it is taken if stability is uncertain, unfavourable growth is indicated, or there are clinically observed changes.",
+    "extraWrong": [
+      "Only if the patient is under sixteen",
+      "Whenever the retainer is replaced",
+      "Only if the first radiograph was digital"
+    ]
   },
   {
     "id": "m20-008",
@@ -97,7 +122,12 @@
       "2.0–2.5 metres"
     ],
     "answer": "B",
-    "explanation": "To minimise magnification effects, the focus-to-receptor distance should ideally be 1.5–1.8 m."
+    "explanation": "To minimise magnification effects, the focus-to-receptor distance should ideally be 1.5–1.8 m.",
+    "extraWrong": [
+      "20–30 centimetres",
+      "3.0–3.5 metres",
+      "4.0–5.0 metres"
+    ]
   },
   {
     "id": "m20-009",
@@ -119,7 +149,12 @@
       "A light beam positioning marker"
     ],
     "answer": "C",
-    "explanation": "A cephalostat is a head positioning and stabilising device, either a separate unit or an attachment to a panoramic unit."
+    "explanation": "A cephalostat is a head positioning and stabilising device, either a separate unit or an attachment to a panoramic unit.",
+    "extraWrong": [
+      "A protective thyroid collar",
+      "A dosimeter worn by the operator",
+      "A film processing unit"
+    ]
   },
   {
     "id": "m20-011",
@@ -133,7 +168,12 @@
       "Into the external auditory meati"
     ],
     "answer": "D",
-    "explanation": "The plastic ear rods are inserted gradually and very carefully into the external auditory meati; the nasion marker goes on the bridge of the nose."
+    "explanation": "The plastic ear rods are inserted gradually and very carefully into the external auditory meati; the nasion marker goes on the bridge of the nose.",
+    "extraWrong": [
+      "Against the patient's temples",
+      "Against the back of the head",
+      "Under the patient's chin"
+    ]
   },
   {
     "id": "m20-012",
@@ -147,7 +187,12 @@
       "Biting on an occlusal receptor"
     ],
     "answer": "A",
-    "explanation": "The patient is asked to bite together with their teeth in maximum intercuspation."
+    "explanation": "The patient is asked to bite together with their teeth in maximum intercuspation.",
+    "extraWrong": [
+      "Biting on a cotton wool roll",
+      "Lips closed with the teeth slightly apart",
+      "Biting on a radiolucent wedge between the molars"
+    ]
   },
   {
     "id": "m20-013",
@@ -169,7 +214,12 @@
       "Frankfort plane tilted slightly downwards"
     ],
     "answer": "B",
-    "explanation": "The right and left ear rod shadows should be superimposed exactly, with the Frankfort plane horizontal."
+    "explanation": "The right and left ear rod shadows should be superimposed exactly, with the Frankfort plane horizontal.",
+    "extraWrong": [
+      "Soft tissue profile removed from the image",
+      "Teeth apart with the mouth open",
+      "Cranial base excluded from the image"
+    ]
   },
   {
     "id": "m20-015",
@@ -178,5 +228,130 @@
     "question": "On an ideal cephalometric lateral skull, the soft tissue profile should be identifiable.",
     "answer": true,
     "explanation": "The soft tissue profile should be identifiable (digital enhancement), and hard and soft tissues should be differentiated."
+  },
+  {
+    "id": "m20-016",
+    "module": "m20",
+    "type": "mcq",
+    "question": "With a combined 'scanning' panoramic/ceph unit, which type of image receptor is used?",
+    "options": [
+      "Film in a cassette",
+      "Phosphor plate in a cassette",
+      "Solid state sensor",
+      "Intra-oral film packet"
+    ],
+    "answer": "C",
+    "explanation": "A combined 'scanning' panoramic/ceph unit uses a solid state receptor; a 'one shot' unit uses a phosphor plate or film in a cassette.",
+    "extraWrong": [
+      "Occlusal film packet",
+      "Non-screen film",
+      "Instant print film"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m20-017",
+    "module": "m20",
+    "type": "mcq",
+    "question": "When positioning a patient in the cephalostat, where is the nasion marker placed?",
+    "options": [
+      "On the bridge of the nose",
+      "Into the external auditory meatus",
+      "On the point of the chin",
+      "Against the upper lip"
+    ],
+    "answer": "A",
+    "explanation": "The ear rods go into the external auditory meati and the nasion marker is positioned on the bridge of the nose.",
+    "extraWrong": [
+      "Under the lower border of the mandible",
+      "Behind the ear",
+      "On the back of the head"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m20-018",
+    "module": "m20",
+    "type": "mcq",
+    "question": "Before positioning a patient in a cephalostat, what is done to the plastic ear rods?",
+    "options": [
+      "They are warmed in hot water",
+      "They are coated with petroleum jelly",
+      "They are removed from the unit",
+      "They are covered with cling film"
+    ],
+    "answer": "D",
+    "explanation": "With either type of combined panoramic/ceph unit, the ear rods are cling filmed before the patient is positioned.",
+    "extraWrong": [
+      "They are wrapped in lead foil",
+      "They are replaced with metal ear rods",
+      "They are coated with barium paste"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m20-019",
+    "module": "m20",
+    "type": "mcq",
+    "question": "What is a geometrical requirement of cephalometric equipment?",
+    "options": [
+      "A short focus-to-receptor distance to enlarge the image",
+      "Precise alignment of the X-ray beam, image receptor and patient",
+      "The receptor placed inside the patient's mouth",
+      "The beam angled steeply downwards through the skull"
+    ],
+    "answer": "B",
+    "explanation": "The equipment must ensure precise alignment of the X-ray beam, the image receptor and the patient, with a focus-to-receptor distance of 1.5–1.8 m to minimise magnification.",
+    "extraWrong": [
+      "The patient lying flat on a couch",
+      "The tubehead held in place by the operator",
+      "The beam aimed through the front of the face"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m20-c01",
+    "module": "m20",
+    "type": "mcq",
+    "question": "How far should the tubehead & image receptor be during cephalometric radiography?",
+    "options": [
+      "1.5-1.8nm",
+      "1.5-1.8mm",
+      "1.5-1.8cm",
+      "1.5-1.8m"
+    ],
+    "answer": "D",
+    "explanation": "Minimises the effect of magnification.",
+    "source": "Study card sc1 r3c1"
+  },
+  {
+    "id": "m20-c02",
+    "module": "m20",
+    "type": "mcq",
+    "question": "How should a patient be placed within a cephalostat for a lateral cephalometric skull radiograph?",
+    "options": [
+      "X-ray beam parallel with midline sagittal plane & image receptor",
+      "X-ray beam perpendicular with midline sagittal plane & image receptor",
+      "X-ray beam is parallel with Frankfort plane and midline sagittal plane",
+      "X-ray beam perpendicular with occlusal plane & image receptor"
+    ],
+    "answer": "B",
+    "explanation": "Minimises geometrical distortion.",
+    "source": "Study card sc2 r1c2"
+  },
+  {
+    "id": "m20-c03",
+    "module": "m20",
+    "type": "mcq",
+    "question": "How do you mobilise the patient's head for a cephalometric lateral skull radiograph?",
+    "options": [
+      "Centering canine positioning light beam on corner of mouth",
+      "Using chin rest & bitepeg",
+      "Using plastic ear rods",
+      "Using image receptor holder & beam aiming device"
+    ],
+    "answer": "C",
+    "explanation": "The head is immobilised in the cephalostat by inserting the plastic ear rods gently into the external auditory meati.",
+    "source": "Study card sc4 r1c1"
   }
 ]

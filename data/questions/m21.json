@@ -11,7 +11,12 @@
       "Marking the patient's teeth before taking a radiograph"
     ],
     "answer": "B",
-    "explanation": "Localisation is the process of establishing radiographically the position or location of a buried object, such as an unerupted tooth."
+    "explanation": "Localisation is the process of establishing radiographically the position or location of a buried object, such as an unerupted tooth.",
+    "extraWrong": [
+      "Measuring the radiation dose received by the patient",
+      "Positioning the patient's head in a cephalostat",
+      "Recording where radiographs are stored in the practice"
+    ]
   },
   {
     "id": "m21-002",
@@ -25,7 +30,12 @@
       "The overlapping of adjacent teeth caused by incorrect horizontal angulation of the beam"
     ],
     "answer": "A",
-    "explanation": "Parallax is the apparent displacement of an object because of two different positions of the observer: stationary objects seem to move as the point of view changes."
+    "explanation": "Parallax is the apparent displacement of an object because of two different positions of the observer: stationary objects seem to move as the point of view changes.",
+    "extraWrong": [
+      "The loss of image sharpness caused by a large focal spot",
+      "The shortening of a tooth image caused by too steep a vertical angle",
+      "The fading of an image caused by exhausted processing chemicals"
+    ]
   },
   {
     "id": "m21-003",
@@ -39,7 +49,12 @@
       "The size of the object"
     ],
     "answer": "C",
-    "explanation": "The first radiograph locates the object in the up/down and left/right dimensions; the second locates it in the in/out dimension."
+    "explanation": "The first radiograph locates the object in the up/down and left/right dimensions; the second locates it in the in/out dimension.",
+    "extraWrong": [
+      "The age of the object",
+      "The shape of the object's roots",
+      "The density of the object"
+    ]
   },
   {
     "id": "m21-004",
@@ -53,7 +68,12 @@
       "A radiographic stent"
     ],
     "answer": "D",
-    "explanation": "A radiographic stent contains metal markers at known points, so tooth position can be measured from its relationship to the markers."
+    "explanation": "A radiographic stent contains metal markers at known points, so tooth position can be measured from its relationship to the markers.",
+    "extraWrong": [
+      "A dental panoramic radiograph",
+      "Two views at right angles",
+      "A bitewing radiograph"
+    ]
   },
   {
     "id": "m21-005",
@@ -67,7 +87,12 @@
       "Outer"
     ],
     "answer": "C",
-    "explanation": "SLOB stands for Same, Lingual, Opposite, Buccal."
+    "explanation": "SLOB stands for Same, Lingual, Opposite, Buccal.",
+    "extraWrong": [
+      "Orthogonal",
+      "Opaque",
+      "Orthodontic"
+    ]
   },
   {
     "id": "m21-006",
@@ -81,7 +106,12 @@
       "Distal"
     ],
     "answer": "A",
-    "explanation": "Same = Lingual: if the tooth moves in the same direction as the tubehead, it is lingual (palatal) to any superimposed object."
+    "explanation": "Same = Lingual: if the tooth moves in the same direction as the tubehead, it is lingual (palatal) to any superimposed object.",
+    "extraWrong": [
+      "Occlusal",
+      "Apical",
+      "Inferior"
+    ]
   },
   {
     "id": "m21-007",
@@ -111,7 +141,12 @@
       "A lateral cephalogram and a dental panoramic radiograph"
     ],
     "answer": "B",
-    "explanation": "Horizontal parallax uses two periapicals (central incisor and canine region), or an upper standard occlusal on the midline plus a periapical or upper oblique occlusal on the canine region."
+    "explanation": "Horizontal parallax uses two periapicals (central incisor and canine region), or an upper standard occlusal on the midline plus a periapical or upper oblique occlusal on the canine region.",
+    "extraWrong": [
+      "A periapical and a bitewing of the same region",
+      "Two dental panoramic radiographs taken a week apart",
+      "A true cephalometric lateral skull and an upper standard occlusal"
+    ]
   },
   {
     "id": "m21-010",
@@ -125,7 +160,12 @@
       "A dental panoramic radiograph and an upper standard occlusal"
     ],
     "answer": "D",
-    "explanation": "Vertical parallax uses a dental panoramic radiograph (from the front) and an upper standard occlusal (from the top)."
+    "explanation": "Vertical parallax uses a dental panoramic radiograph (from the front) and an upper standard occlusal (from the top).",
+    "extraWrong": [
+      "Two bitewings, one taken on each side of the mouth",
+      "A lateral cephalogram and a bitewing",
+      "Two dental panoramic radiographs taken a week apart"
+    ]
   },
   {
     "id": "m21-011",
@@ -147,7 +187,12 @@
       "Both jaws equally"
     ],
     "answer": "B",
-    "explanation": "Parallax is used to assess the position of unerupted canines, odontomes and supernumeraries in the maxilla."
+    "explanation": "Parallax is used to assess the position of unerupted canines, odontomes and supernumeraries in the maxilla.",
+    "extraWrong": [
+      "The zygomatic arch",
+      "The mandibular ramus",
+      "The hyoid bone"
+    ]
   },
   {
     "id": "m21-013",
@@ -169,6 +214,136 @@
       "It shows the tooth at a larger magnification than plain films"
     ],
     "answer": "C",
-    "explanation": "CBCT lets you view slices of the patient and move back and forth, up and down, and left and right through them."
+    "explanation": "CBCT lets you view slices of the patient and move back and forth, up and down, and left and right through them.",
+    "extraWrong": [
+      "It needs no patient positioning at all",
+      "It produces images without using any radiation",
+      "It is quicker to take than a bitewing"
+    ]
+  },
+  {
+    "id": "m21-015",
+    "module": "m21",
+    "type": "mcq",
+    "question": "When localising an object using two radiographs taken at right angles, what does the first radiograph locate?",
+    "options": [
+      "The up/down and left/right dimensions",
+      "Only the in/out dimension",
+      "The size of the object only",
+      "The density of the object"
+    ],
+    "answer": "A",
+    "explanation": "The first radiograph locates the object in the up/down and left/right dimensions; the second locates it in the in/out dimension.",
+    "extraWrong": [
+      "The vitality of the tooth",
+      "The rate of growth of the object",
+      "The colour of the object"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m21-016",
+    "module": "m21",
+    "type": "mcq",
+    "question": "For horizontal parallax using two periapicals, how is the X-ray tubehead moved between the two exposures?",
+    "options": [
+      "Vertically, from below the arch to above it",
+      "It is not moved; only the receptor is moved",
+      "Horizontally across, from the central incisor to the canine region",
+      "Rotated around the back of the patient's head"
+    ],
+    "answer": "C",
+    "explanation": "Horizontal parallax uses two periapicals, one centred on the upper central incisor and one on the canine region, so the tubehead moves across horizontally.",
+    "extraWrong": [
+      "Moved further away from the patient",
+      "Tilted to point upwards through the chin",
+      "Moved closer to the patient"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m21-017",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which description fits the pair of radiographs taken for vertical parallax?",
+    "options": [
+      "Two from the side at different heights",
+      "Both from the top at different angles",
+      "One from each side of the face",
+      "One from the front and one from the top"
+    ],
+    "answer": "D",
+    "explanation": "Vertical parallax uses a dental panoramic radiograph (one from the front) and an upper standard occlusal (one from the top).",
+    "extraWrong": [
+      "Both from the front at the same angle",
+      "One from behind and one from below",
+      "Two from the same position a week apart"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m21-018",
+    "module": "m21",
+    "type": "mcq",
+    "question": "In the SLOB rule used for parallax localisation, what does the 'L' stand for?",
+    "options": [
+      "Labial",
+      "Lingual (palatal)",
+      "Lateral",
+      "Lower"
+    ],
+    "answer": "B",
+    "explanation": "SLOB stands for Same, Lingual, Opposite, Buccal: same direction as the tubehead means lingual (palatal).",
+    "extraWrong": [
+      "Left",
+      "Long",
+      "Lamina"
+    ],
+    "source": "generated"
+  },
+  {
+    "id": "m21-c01",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which of these methods can be used to localise an unerupted tooth?",
+    "options": [
+      "Taking 2 radiographs at right angles to each other",
+      "Taking a panoramic x-ray",
+      "Taking 2 radiographs lingual",
+      "Taking 2 radiographs parallel to each other"
+    ],
+    "answer": "A",
+    "explanation": "Get to see both 'side to side' and 'front to back' location of tooth.",
+    "source": "Study card sc1 r1c3"
+  },
+  {
+    "id": "m21-c02",
+    "module": "m21",
+    "type": "mcq",
+    "question": "Which of these methods can be used to localise an unerupted tooth?",
+    "options": [
+      "2 radiographs at right angles to each other",
+      "Taking a panoramic radiograph",
+      "Taking two lingual (palatal) radiographs",
+      "Taking 2 radiographs parallel to each other"
+    ],
+    "answer": "A",
+    "explanation": "Can see side to side & front to back.",
+    "source": "Study card sc1 r2c3"
+  },
+  {
+    "id": "m21-c03",
+    "module": "m21",
+    "type": "mcq",
+    "question": "When using parallax in the horizontal plane...",
+    "options": [
+      "lingually positioned unerupted tooth will appear to move in opposite to tubehead",
+      "buccally positioned unerupted tooth will move in same direction to tubehead",
+      "buccally positioned unerupted tooth will appear to move in opposite to tubehead",
+      "unerupted tooth in line of arch will appear to move in opposite to tubehead"
+    ],
+    "answer": "C",
+    "explanation": "SLOB!! Same = Lingual, Buccal = Opposite.",
+    "source": "Study card sc5 r1c1"
   }
 ]
